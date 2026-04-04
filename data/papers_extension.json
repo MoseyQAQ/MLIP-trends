@@ -1,0 +1,84 @@
+[
+    {
+        "community": "DeepModeling",
+        "project_id": "dpdata",
+        "paper_id": "dpdata-0",
+        "title": "dpdata: A Scalable Python Toolkit for Atomistic Machine Learning Data Sets",
+        "doi": "https://doi.org/10.1021/acs.jcim.5c01767",
+        "links": {
+            "GitHub": "https://github.com/deepmodeling/dpdata"
+        }
+    },
+    {
+        "community": "DeepModeling",
+        "project_id": "dpgen",
+        "paper_id": "dpgen-0",
+        "title": "DP-GEN: A concurrent learning platform for the generation of reliable deep learning based potential energy models",
+        "doi": "https://doi.org/10.1016/j.cpc.2020.107206",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/1910.12690",
+            "GitHub": "https://github.com/deepmodeling/dpgen"
+        }
+    },
+    {
+        "community": "DeepModeling",
+        "project_id": "DP",
+        "paper_id": "DPLR",
+        "title": "A deep potential model with long-range electrostatic interactions",
+        "doi": "https://doi.org/10.1063/5.0083669",
+        "links": {
+            "arXiv": "https://doi.org/10.48550/arXiv.2112.13327",
+            "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+        }
+    },
+    {
+        "community": "DeepModeling",
+        "project_id": "DP",
+        "paper_id": "DPRc",
+        "title": "Development of Range-Corrected Deep Learning Potentials for Fast, Accurate Quantum Mechanical/Molecular Mechanical Simulations of Chemical Reactions in Solution",
+        "doi": "https://doi.org/10.1021/acs.jctc.1c00201",
+        "links": {
+            "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+        }
+    },
+    {
+        "project_id": "LES",
+        "paper_id": "LES-0",
+        "title": "Latent Ewald summation for machine learning of long-range interactions",
+        "doi": "https://doi.org/10.1038/s41524-025-01577-7",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2408.15165",
+            "GitHub": "https://github.com/les-group/les"
+        }
+    },
+    {
+        "project_id": "LES",
+        "paper_id": "LES-1",
+        "title": "Machine learning of charges and long-range interactions from energies and forces",
+        "doi": "https://doi.org/10.1038/s41467-025-63852-x",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2412.15455",
+            "GitHub": "https://github.com/ChengUCB/les"
+        }
+    },
+    {
+        "project_id": "LES",
+        "paper_id": "LES-2",
+        "title": "Machine learning interatomic potential can infer electrical response",
+        "doi": "https://doi.org/10.1038/s41524-025-01911-z",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2504.05169",
+            "GitHub": "https://github.com/ChengUCB/les"
+        }
+    },
+    {
+        "project_id": "LES",
+        "paper_id": "LES-3",
+        "title": "A universal augmentation framework for long-range electrostatics in machine learning interatomic potentials",
+        "doi": "https://doi.org/10.1021/acs.jctc.5c01400",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2507.14302",
+            "GitHub": "https://github.com/ChengUCB/les"
+        }
+    }
+]

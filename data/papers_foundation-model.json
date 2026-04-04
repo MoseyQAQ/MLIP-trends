@@ -1,0 +1,145 @@
+[
+    {
+        "project_id": "PET-MAD",
+        "paper_id": "PET-MAT-1",
+        "title": "PET-MAD as a lightweight universal interatomic potential for advanced materials modeling",
+        "doi": "https://doi.org/10.1038/s41467-025-65662-7",
+        "community": "COSMO",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2503.14118",
+            "GitHub": "https://github.com/lab-cosmo/upet"
+        }
+    },
+    {
+        "project_id": "PET-MAD",
+        "paper_id": "PET-MAT-1.5",
+        "title": "High-quality, high-information dataset for universal atomistic machine learning",
+        "doi": "https://doi.org/10.48550/arXiv.2603.02089",
+        "community": "COSMO",
+        "links": {
+            "arXiv": "https://doi.org/10.48550/arXiv.2603.02089",
+            "GitHub": "https://github.com/lab-cosmo/upet"
+        }
+    },
+    {
+        "community": "Ceder Group",
+        "project_id": "CHGNET",
+        "paper_id": "CHGNET-0",
+        "title": "CHGNet as a pretrained universal neural network potential for charge-informed atomistic modelling",
+        "doi": "https://doi.org/10.1038/s42256-023-00716-3",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2302.14231",
+            "GitHub": "https://github.com/CederGroupHub/chgnet"
+        }
+    },
+    {
+        "community": "Materialyze.AI",
+        "project_id": "M3GNET",
+        "paper_id": "M3GNET-0",
+        "title": "A universal graph deep learning interatomic potential for the periodic table",
+        "doi": "https://doi.org/10.1038/s43588-022-00349-3",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2202.02450",
+            "GitHub": "https://github.com/materialyzeai/matgl"
+        }
+    },
+    {
+        "community": "Materialyze.AI",
+        "project_id": "QET",
+        "paper_id": "QET-0",
+        "title": "A Fast, Accurate, and Reactive Equivariant Foundation Potential",
+        "doi": "https://doi.org/10.48550/arXiv.2511.07249",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2511.07249",
+            "GitHub": "https://github.com/materialyzeai/matgl"
+        }
+    },
+    {
+        "community": "NEP",
+        "project_id": "NEP89",
+        "paper_id": "NEP89-0",
+        "title": "NEP89: Universal neuroevolution potential for inorganic and organic materials across 89 elements",
+        "doi": "https://doi.org/10.48550/arXiv.2504.21286",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2504.21286",
+            "GitHub": "https://github.com/brucefan1983/GPUMD"
+        }
+    },
+    {
+        "community": "Orbital Materials",
+        "project_id": "ORB",
+        "paper_id": "ORB-v2",
+        "title": "Orb: A Fast, Scalable Neural Network Potential",
+        "doi": "https://doi.org/10.48550/arXiv.2410.22570",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2410.22570",
+            "GitHub": "https://github.com/orbital-materials/orb-models"
+        }
+    },
+    {
+        "community": "Orbital Materials",
+        "project_id": "ORB",
+        "paper_id": "ORB-v3",
+        "title": "Orb-v3: atomistic simulation at scale",
+        "doi": "https://doi.org/10.48550/arXiv.2504.06231",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2504.06231",
+            "GitHub": "https://github.com/orbital-materials/orb-models"
+        }
+    },
+    {
+        "community": "MDIL-SNU",
+        "project_id": "SEVENNET",
+        "paper_id": "SEVENNET-1",
+        "title": "Data-efficient multi-fidelity training for high-fidelity machine learning interatomic potentials",
+        "doi": "https://doi.org/10.1021/jacs.4c14455",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2409.07947",
+            "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
+        }
+    },
+    {
+        "community": "MDIL-SNU",
+        "project_id": "SEVENNET",
+        "paper_id": "SEVENNET-2",
+        "title": "Optimizing cross-domain transfer for universal machine learning interatomic potentials",
+        "doi": "https://doi.org/10.1038/s41467-026-70195-8",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2510.11241",
+            "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
+        }
+    },
+    {
+        "community": "ICAMS",
+        "project_id": "GRACE",
+        "paper_id": "GRACE-1",
+        "title": "Graph atomic cluster expansion for foundational machine learning interatomic potentials",
+        "doi": "https://doi.org/10.1038/s41524-026-01979-1",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2508.17936v1",
+            "GitHub": "https://github.com/ICAMS/grace-tensorpotential"
+        }
+    },
+    {
+        "community": "Meta FAIR",
+        "project_id": "UMA",
+        "paper_id": "UMA-0",
+        "title": "UMA: A Family of Universal Models for Atoms",
+        "doi": "https://doi.org/10.48550/arXiv.2506.23971",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2506.23971",
+            "Website": "https://fair-chem.github.io/uma/"
+        }
+    },
+    {
+        "community": "Microsoft",
+        "project_id": "MATTERSIM",
+        "paper_id": "MATTERSIM-0",
+        "title": "MatterSim: A Deep Learning Atomistic Model Across Elements, Temperatures and Pressures",
+        "doi": "https://doi.org/10.48550/arXiv.2405.04967",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2405.04967",
+            "Website": "https://github.com/microsoft/mattersim"
+        }
+    }
+]

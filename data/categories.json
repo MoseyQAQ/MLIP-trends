@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": "software",
+      "name": "Software",
+      "description": "Software frameworks and toolkits for training and running MLIPs",
+      "icon": "code"
+    },
+    {
+      "id": "architecture",
+      "name": "Architecture",
+      "description": "Novel model architectures and neural network designs for interatomic potentials",
+      "icon": "cluster"
+    },
+    {
+      "id": "foundation_model",
+      "name": "Foundation Model",
+      "description": "Pre-trained universal models (large-scale, general-purpose MLIPs)",
+      "icon": "global"
+    },
+    {
+      "id": "dataset",
+      "name": "Dataset",
+      "description": "Training datasets and benchmarks for MLIPs",
+      "icon": "database"
+    },
+    {
+      "id": "extension",
+      "name": "Extension",
+      "description": "Add-on algorithms and extensions (active learning, enhanced sampling, LES, etc.)",
+      "icon": "api"
+    }
+  ]
+}

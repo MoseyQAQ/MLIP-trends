@@ -1,0 +1,67 @@
+{
+  "communities": [
+    {
+      "id": "DeepModeling",
+      "name": "DeepModeling",
+      "description": "Deep Potential and related ecosystem (DeePMD-kit, DPGEN, dpdata, etc.)",
+      "url": "https://github.com/deepmodeling",
+      "color": "#1565C0"
+    },
+    {
+      "id": "MACE",
+      "name": "MACE",
+      "description": "MACE equivariant message passing neural network potentials",
+      "url": "https://github.com/ACEsuit/mace",
+      "color": "#2E7D32"
+    },
+    {
+      "id": "mir-group",
+      "name": "MIR Group",
+      "description": "Materials Intelligence Research (NequIP, Allegro, etc.)",
+      "url": "https://github.com/mir-group",
+      "color": "#7B1FA2"
+    },
+    {
+      "id": "NEP",
+      "name": "NEP",
+      "description": "Neuroevolution Potential and GPUMD ecosystem",
+      "url": "https://github.com/brucefan1983/GPUMD",
+      "color": "#E65100"
+    },
+    {
+      "id": "Meta FAIR",
+      "name": "Meta FAIR",
+      "description": "Meta Fundamental AI Research (OCP, EquiformerV2, eSCN, etc.)",
+      "url": "https://github.com/FAIR-Chem",
+      "color": "#C62828"
+    },
+    {
+      "id": "COSMO",
+      "name": "COSMO",
+      "description": "Laboratory of Computational Science and Modelling (PET, PET-MAD, etc.)",
+      "url": "https://github.com/lab-cosmo",
+      "color": "#00838F"
+    },
+    {
+      "id": "Materialyze.AI",
+      "name": "Materialyze.AI",
+      "description": "Materialyze.AI ecosystem (MatGL, MatPES, etc.)",
+      "url": "https://github.com/materialyzeai",
+      "color": "#AD1457"
+    },
+    {
+      "id": "Ceder Group",
+      "name": "Ceder Group",
+      "description": "Ceder Group at UC Berkeley (CHGNet, etc.)",
+      "url": "https://github.com/CederGroupHub",
+      "color": "#4527A0"
+    },
+    {
+      "id": "independent",
+      "name": "Independent",
+      "description": "Independent projects not affiliated with a specific community",
+      "url": "",
+      "color": "#546E7A"
+    }
+  ]
+}

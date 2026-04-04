@@ -1,0 +1,320 @@
+[
+    {
+        "community": "DeepModeling",
+        "project_id": "DP",
+        "paper_id": "DeepPot-SE",
+        "title": "End-to-end Symmetry Preserving Inter-atomic Potential Energy Model for Finite and Extended Systems",
+        "doi": "https://doi.org/10.48550/arXiv.1805.09003",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/1805.09003",
+            "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+        }
+    },
+    {
+        "community": "DeepModeling",
+        "project_id": "DP",
+        "paper_id": "DPA1",
+        "title": "Pretraining of attention-based deep learning potential model for molecular simulation",
+        "doi": "https://doi.org/10.1038/s41524-024-01278-7",
+        "links": {
+            "arXiv": "https://doi.org/10.48550/arXiv.2208.08236",
+            "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+        }
+    },
+    {
+        "community": "DeepModeling",
+        "project_id": "DP",
+        "paper_id": "DPA2",
+        "title": "DPA-2: a large atomic model as a multi-task learner",
+        "doi": "https://doi.org/10.1038/s41524-024-01493-2",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2312.15492",
+            "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+        }
+    },
+    {
+        "community": "DeepModeling",
+        "project_id": "DP",
+        "paper_id": "DPA3",
+        "title": "A Graph Neural Network for the Era of Large Atomistic Models",
+        "doi": "https://doi.org/10.48550/arXiv.2506.01686",
+        "links": {
+            "arXiv": "https://doi.org/10.48550/arXiv.2506.01686",
+            "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+        }
+    },
+    {
+        "community": "MACE",
+        "project_id": "MACE",
+        "paper_id": "MACE-0",
+        "title": "The Design Space of E(3)-Equivariant Atom-Centered Interatomic Potentials",
+        "doi": "https://doi.org/10.48550/arXiv.2205.06643",
+        "links": {
+            "arXiv": "https://doi.org/10.48550/arXiv.2205.06643",
+            "GitHub": "https://github.com/ACEsuit/mace"
+        }
+    },
+    {
+        "community": "MACE",
+        "project_id": "MACE",
+        "paper_id": "MACE-1",
+        "title": "MACE: Higher order equivariant message passing neural networks for fast and accurate force fields",
+        "doi": "https://doi.org/10.48550/arXiv.2206.07697",
+        "links": {
+            "arXiv": "https://doi.org/10.48550/arXiv.2206.07697",
+            "GitHub": "https://github.com/ACEsuit/mace"
+        }
+    },
+    {
+        "community": "mir-group",
+        "project_id": "Nequip",
+        "paper_id": "Nequip-0",
+        "title": "E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials",
+        "doi": "https://doi.org/10.1038/s41467-022-29939-5",
+        "links": {
+            "arXiv": "https://doi.org/10.48550/arXiv.2101.03164",
+            "GitHub": "https://github.com/mir-group/nequip"
+        }
+    },
+    {
+        "community": "mir-group",
+        "project_id": "Nequip",
+        "paper_id": "Nequip-1",
+        "title": "High-performance training and inference for deep equivariant interatomic potentials",
+        "doi": "https://doi.org/10.48550/arXiv.2504.16068",
+        "links": {
+            "arXiv": "https://doi.org/10.48550/arXiv.2504.16068",
+            "GitHub": "https://github.com/mir-group/nequip"
+        }
+    },
+    {
+        "community": "mir-group",
+        "project_id": "Nequip",
+        "paper_id": "Allegro-0",
+        "title": "Learning local equivariant representations for large-scale atomistic dynamics",
+        "doi": "https://doi.org/10.1038/s41467-023-36329-y",
+        "links": {
+            "arXiv": "https://doi.org/10.48550/arXiv.2204.05249",
+            "GitHub": "https://github.com/mir-group/allegro"
+        }
+    },
+    {
+        "community": "NEP",
+        "project_id": "NEP",
+        "paper_id": "NEP-1",
+        "title": "Neuroevolution machine learning potentials: Combining high accuracy and low cost in atomistic simulations and application to heat transport",
+        "doi": "https://doi.org/10.1103/PhysRevB.104.104309",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2107.08119",
+            "GitHub": "https://github.com/brucefan1983/GPUMD"
+        }
+    },
+    {
+        "community": "NEP",
+        "project_id": "NEP",
+        "paper_id": "NEP-2",
+        "title": "Improving the accuracy of the neuroevolution machine learning potential for multi-component systems",
+        "doi": "https://doi.org/10.1088/1361-648X/ac462b",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2109.10643",
+            "GitHub": "https://github.com/brucefan1983/GPUMD"
+        }
+    },
+    {
+        "community": "NEP",
+        "project_id": "NEP",
+        "paper_id": "NEP-3",
+        "title": "GPUMD: A package for constructing accurate machine-learned potentials and performing highly efficient atomistic simulations",
+        "doi": "https://doi.org/10.1063/5.0106617",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2205.10046",
+            "GitHub": "https://github.com/brucefan1983/GPUMD"
+        }
+    },
+    {
+        "community": "NEP",
+        "project_id": "NEP",
+        "paper_id": "NEP-4",
+        "title": "General-purpose machine-learned potential for 16 elemental metals and their alloys",
+        "doi": "https://doi.org/10.1038/s41467-024-54554-x",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2311.04732",
+            "GitHub": "https://github.com/brucefan1983/GPUMD"
+        }
+    },
+    {
+        "project_id": "CACE",
+        "paper_id": "CACE-0",
+        "title": "Cartesian atomic cluster expansion for machine learning interatomic potentials",
+        "doi": "https://doi.org/10.1038/s41524-024-01332-4",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2402.07472",
+            "GitHub": "https://github.com/BingqingCheng/cace"
+        }
+    },
+    {
+        "community": "COSMO",
+        "project_id": "PET",
+        "paper_id": "UPET-0",
+        "title": "Pushing the limits of unconstrained machine-learned interatomic potentials",
+        "doi": "https://doi.org/10.48550/arXiv.2601.16195",
+        "links": {
+            "arXiv": "https://doi.org/10.48550/arXiv.2601.16195",
+            "GitHub": "https://github.com/lab-cosmo/upet"
+        }
+    },
+    {
+        "community": "COSMO",
+        "project_id": "PET",
+        "paper_id": "PET-0",
+        "title": "Smooth, Exact Rotational Symmetrization for Deep Learning on Point Clouds",
+        "doi": "https://doi.org/10.48550/arXiv.2305.19302",
+        "links": {
+            "arXiv": "https://doi.org/10.48550/arXiv.2305.19302",
+            "GitHub": "https://github.com/lab-cosmo/upet"
+        }
+    },
+    {
+        "community": "Ceder Group",
+        "project_id": "CHGNET",
+        "paper_id": "CHGNET-0",
+        "title": "CHGNet as a pretrained universal neural network potential for charge-informed atomistic modelling",
+        "doi": "https://doi.org/10.1038/s42256-023-00716-3",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2302.14231",
+            "GitHub": "https://github.com/CederGroupHub/chgnet"
+        }
+    },
+    {
+        "community": "Materialyze.AI",
+        "project_id": "M3GNET",
+        "paper_id": "M3GNET-0",
+        "title": "A universal graph deep learning interatomic potential for the periodic table",
+        "doi": "https://doi.org/10.1038/s43588-022-00349-3",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2202.02450",
+            "GitHub": "https://github.com/materialyzeai/matgl"
+        }
+    },
+    {
+        "community": "Materialyze.AI",
+        "project_id": "QET",
+        "paper_id": "QET-0",
+        "title": "A Fast, Accurate, and Reactive Equivariant Foundation Potential",
+        "doi": "https://doi.org/10.48550/arXiv.2511.07249",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2511.07249",
+            "GitHub": "https://github.com/materialyzeai/matgl"
+        }
+    },
+    {
+        "community": "Orbital Materials",
+        "project_id": "ORB",
+        "paper_id": "ORB-v2",
+        "title": "Orb: A Fast, Scalable Neural Network Potential",
+        "doi": "https://doi.org/10.48550/arXiv.2410.22570",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2410.22570",
+            "GitHub": "https://github.com/orbital-materials/orb-models"
+        }
+    },
+    {
+        "community": "Orbital Materials",
+        "project_id": "ORB",
+        "paper_id": "ORB-v3",
+        "title": "Orb-v3: atomistic simulation at scale",
+        "doi": "https://doi.org/10.48550/arXiv.2504.06231",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2504.06231",
+            "GitHub": "https://github.com/orbital-materials/orb-models"
+        }
+    },
+    {
+        "community": "MDIL-SNU",
+        "project_id": "SEVENNET",
+        "paper_id": "SEVENNET-0",
+        "title": "Scalable Parallel Algorithm for Graph Neural Network Interatomic Potentials in Molecular Dynamics Simulations",
+        "doi": "https://doi.org/10.1021/acs.jctc.4c00190",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2402.03789",
+            "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
+        }
+    },
+    {
+        "community": "MDIL-SNU",
+        "project_id": "SEVENNET",
+        "paper_id": "SEVENNET-1",
+        "title": "Data-efficient multi-fidelity training for high-fidelity machine learning interatomic potentials",
+        "doi": "https://doi.org/10.1021/jacs.4c14455",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2409.07947",
+            "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
+        }
+    },
+    {
+        "community": "MDIL-SNU",
+        "project_id": "SEVENNET",
+        "paper_id": "SEVENNET-2",
+        "title": "Optimizing cross-domain transfer for universal machine learning interatomic potentials",
+        "doi": "https://doi.org/10.1038/s41467-026-70195-8",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2510.11241",
+            "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
+        }
+    },
+    {
+        "community": "ICAMS",
+        "project_id": "GRACE",
+        "paper_id": "GRACE-0",
+        "title": "Graph Atomic Cluster Expansion for Semilocal Interactions beyond Equivariant Message Passing",
+        "doi": "https://doi.org/10.1103/PhysRevX.14.021036",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2311.16326",
+            "GitHub": "https://github.com/ICAMS/grace-tensorpotential"
+        }
+    },
+    {
+        "community": "ICAMS",
+        "project_id": "GRACE",
+        "paper_id": "GRACE-1",
+        "title": "Graph atomic cluster expansion for foundational machine learning interatomic potentials",
+        "doi": "https://doi.org/10.1038/s41524-026-01979-1",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2508.17936v1",
+            "GitHub": "https://github.com/ICAMS/grace-tensorpotential"
+        }
+    },
+    {
+        "community": "Meta FAIR",
+        "project_id": "UMA",
+        "paper_id": "UMA-0",
+        "title": "UMA: A Family of Universal Models for Atoms",
+        "doi": "https://doi.org/10.48550/arXiv.2506.23971",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2506.23971",
+            "Website": "https://fair-chem.github.io/uma/"
+        }
+    },
+    {
+        "community": "Meta FAIR",
+        "project_id": "Equiformer",
+        "paper_id": "Equiformer-V2",
+        "title": "EquiformerV2: Improved Equivariant Transformer for Scaling to Higher-Degree Representations",
+        "doi": "https://doi.org/10.48550/arXiv.2306.12059",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2306.12059",
+            "Website": "https://github.com/atomicarchitects/equiformer_v2"
+        }
+    },
+    {
+        "community": "Meta FAIR",
+        "project_id": "Equiformer",
+        "paper_id": "Equiformer-V2",
+        "title": "Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction",
+        "doi": "https://doi.org/10.48550/arXiv.2502.12147",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2502.12147",
+            "GitHub": "https://github.com/facebookresearch/fairchem"
+        }
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "community": "Materialyze.AI",
+        "project_id": "MatGL",
+        "paper_id": "MatGL-0",
+        "title": "Materials Graph Library (MatGL), an open-source graph deep learning library for materials science and chemistry",
+        "doi": "https://doi.org/10.1038/s41524-025-01742-y",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2503.03837",
+            "GitHub": "https://github.com/materialyzeai/matgl"
+        }
+    },
+    {
+        "community": "DeepModeling",
+        "project_id": "DeepMD-kit",
+        "paper_id": "DeepMD-kit-v1",
+        "title": "DeePMD-kit: A deep learning package for many-body potential energy representation and molecular dynamics",
+        "doi": "https://doi.org/10.1016/j.cpc.2018.03.016",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/1712.03641",
+            "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+        }
+    },
+    {
+        "community": "DeepModeling",
+        "project_id": "DeepMD-kit",
+        "paper_id": "DeepMD-kit-v2",
+        "title": "DeePMD-kit v2: A software package for deep potential models",
+        "doi": "https://doi.org/10.1063/5.0155600",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2304.09409",
+            "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+        }
+    },
+    {
+        "community": "DeepModeling",
+        "project_id": "DeepMD-kit",
+        "paper_id": "DeepMD-kit-v3",
+        "title": "DeePMD-kit v3: A Multiple-Backend Framework for Machine Learning Potentials",
+        "doi": "https://doi.org/10.1021/acs.jctc.5c00340",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2502.19161",
+            "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+        }
+    },
+    {
+        "community": "NEP",
+        "project_id": "NEP",
+        "paper_id": "GPUMD-1.0",
+        "title": "GPUMD: A package for constructing accurate machine-learned potentials and performing highly efficient atomistic simulations",
+        "doi": "https://doi.org/10.1063/5.0106617",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2205.10046",
+            "GitHub": "https://github.com/brucefan1983/GPUMD"
+        }
+    },
+    {
+        "community": "NEP",
+        "project_id": "NEP",
+        "paper_id": "GPUMD-4.0",
+        "title": "GPUMD 4.0: A high-performance molecular dynamics package for versatile materials simulations with machine-learned potentials",
+        "doi": "https://doi.org/10.1002/mgea.70028",
+        "links": {
+            "GitHub": "https://github.com/brucefan1983/GPUMD"
+        }
+    }
+]

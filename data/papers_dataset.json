@@ -1,0 +1,102 @@
+[
+    {
+        "project_id": "OMol",
+        "paper_id": "OMol25",
+        "title": "The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models",
+        "doi": "https://doi.org/10.48550/arXiv.2505.08762",
+        "community": "meta",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2505.08762",
+            "HuggingFace": "https://huggingface.co/facebook/OMol25"
+        }
+    },
+    {
+        "project_id": "OMat",
+        "paper_id": "OMat24",
+        "title": "Open Materials 2024 (OMat24) Inorganic Materials Dataset and Models",
+        "doi": "https://doi.org/10.48550/arXiv.2410.12771",
+        "community": "meta",
+        "links": {
+            "arXiv": "https://doi.org/10.48550/arXiv.2410.12771",
+            "HuggingFace": "https://huggingface.co/datasets/facebook/OMAT24"
+        }
+    },
+    {
+        "project_id": "MAD",
+        "paper_id": "MAD-1",
+        "title": "Massive Atomic Diversity: a compact universal dataset for atomistic machine learning",
+        "doi": "https://doi.org/10.1038/s41597-025-06109-y",
+        "community": "COSMO",
+        "links": {
+            "Materials Cloud": "https://archive.materialscloud.org/records/c4ene-0mv14"
+        }
+    },
+    {
+        "project_id": "MAD",
+        "paper_id": "MAD-1.5",
+        "title": "High-quality, high-information dataset for universal atomistic machine learning",
+        "doi": "https://doi.org/10.48550/arXiv.2603.02089",
+        "community": "COSMO",
+        "links": {
+            "arXiv": "https://doi.org/10.48550/arXiv.2603.02089",
+            "Materials Cloud": "https://archive.materialscloud.org/records/18tke-tt476"
+        }
+    },
+    {
+        "project_id": "MatPES",
+        "paper_id": "MatPES-0",
+        "title": "A Foundational Potential Energy Surface Dataset for Materials",
+        "doi": "https://doi.org/10.48550/arXiv.2503.04070",
+        "community": "Materialyze.AI",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2503.04070",
+            "GitHub": "https://github.com/materialyzeai/matpes",
+            "HuggingFace": "https://huggingface.co/datasets/mavrl/matpes",
+            "Website": "https://matpes.ai/"
+        }
+    },
+    {
+        "community": "Meta FAIR",
+        "project_id": "OMC",
+        "paper_id": "OMC25",
+        "title": "Open Molecular Crystals 2025 (OMC25) Dataset and Models",
+        "doi": "https://doi.org/10.48550/arXiv.2508.02651",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2508.02651",
+            "Website": "https://fair-chem.github.io/omc25/"
+        }
+    },
+    {
+        "community": "Meta FAIR",
+        "project_id": "OC",
+        "paper_id": "OC20",
+        "title": "Open Catalyst 2020 (OC20) Dataset and Community Challenges",
+        "doi": "https://doi.org/10.1021/acscatal.0c04525",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2010.09990",
+            "Website": "https://fair-chem.github.io/oc20/"
+        }
+    },
+    {
+        "community": "Meta FAIR",
+        "project_id": "OC",
+        "paper_id": "OC22",
+        "title": "The Open Catalyst 2022 (OC22) Dataset and Challenges for Oxide Electrocatalysts",
+        "doi": "https://doi.org/10.1021/acscatal.2c05426",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2206.08917",
+            "Website": "https://fair-chem.github.io/oc22/"
+        }
+    },
+    {
+        "community": "Meta FAIR",
+        "project_id": "OC",
+        "paper_id": "OC25",
+        "title": "The Open Catalyst 2025 (OC25) Dataset and Models for Solid-Liquid Interfaces",
+        "doi": "https://doi.org/10.48550/arXiv.2509.17862",
+        "links": {
+            "arXiv": "https://arxiv.org/abs/2509.17862",
+            "Website": "https://fair-chem.github.io/oc25/"
+        }
+    }
+]

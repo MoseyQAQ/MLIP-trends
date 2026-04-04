@@ -1,0 +1,2995 @@
+{
+  "metadata": {
+    "generated_at": "2026-04-04T20:23:35.823250",
+    "total_papers": 65,
+    "fetched": 0,
+    "cached": 65,
+    "failed_dois": []
+  },
+  "communities": [
+    {
+      "id": "DeepModeling",
+      "name": "DeepModeling",
+      "description": "Deep Potential and related ecosystem (DeePMD-kit, DPGEN, dpdata, etc.)",
+      "url": "https://github.com/deepmodeling",
+      "color": "#1565C0"
+    },
+    {
+      "id": "MACE",
+      "name": "MACE",
+      "description": "MACE equivariant message passing neural network potentials",
+      "url": "https://github.com/ACEsuit/mace",
+      "color": "#2E7D32"
+    },
+    {
+      "id": "mir-group",
+      "name": "MIR Group",
+      "description": "Materials Intelligence Research (NequIP, Allegro, etc.)",
+      "url": "https://github.com/mir-group",
+      "color": "#7B1FA2"
+    },
+    {
+      "id": "NEP",
+      "name": "NEP",
+      "description": "Neuroevolution Potential and GPUMD ecosystem",
+      "url": "https://github.com/brucefan1983/GPUMD",
+      "color": "#E65100"
+    },
+    {
+      "id": "Meta FAIR",
+      "name": "Meta FAIR",
+      "description": "Meta Fundamental AI Research (OCP, EquiformerV2, eSCN, etc.)",
+      "url": "https://github.com/FAIR-Chem",
+      "color": "#C62828"
+    },
+    {
+      "id": "COSMO",
+      "name": "COSMO",
+      "description": "Laboratory of Computational Science and Modelling (PET, PET-MAD, etc.)",
+      "url": "https://github.com/lab-cosmo",
+      "color": "#00838F"
+    },
+    {
+      "id": "Materialyze.AI",
+      "name": "Materialyze.AI",
+      "description": "Materialyze.AI ecosystem (MatGL, MatPES, etc.)",
+      "url": "https://github.com/materialyzeai",
+      "color": "#AD1457"
+    },
+    {
+      "id": "Ceder Group",
+      "name": "Ceder Group",
+      "description": "Ceder Group at UC Berkeley (CHGNet, etc.)",
+      "url": "https://github.com/CederGroupHub",
+      "color": "#4527A0"
+    },
+    {
+      "id": "independent",
+      "name": "Independent",
+      "description": "Independent projects not affiliated with a specific community",
+      "url": "",
+      "color": "#546E7A"
+    }
+  ],
+  "categories": [
+    {
+      "id": "software",
+      "name": "Software",
+      "description": "Software frameworks and toolkits for training and running MLIPs",
+      "icon": "code"
+    },
+    {
+      "id": "architecture",
+      "name": "Architecture",
+      "description": "Novel model architectures and neural network designs for interatomic potentials",
+      "icon": "cluster"
+    },
+    {
+      "id": "foundation_model",
+      "name": "Foundation Model",
+      "description": "Pre-trained universal models (large-scale, general-purpose MLIPs)",
+      "icon": "global"
+    },
+    {
+      "id": "dataset",
+      "name": "Dataset",
+      "description": "Training datasets and benchmarks for MLIPs",
+      "icon": "database"
+    },
+    {
+      "id": "extension",
+      "name": "Extension",
+      "description": "Add-on algorithms and extensions (active learning, enhanced sampling, LES, etc.)",
+      "icon": "api"
+    }
+  ],
+  "papers": [
+    {
+      "paper_id": "DeepMD-kit-v1",
+      "project_id": "DeepMD-kit",
+      "doi": "https://doi.org/10.1016/j.cpc.2018.03.016",
+      "openalex_id": "https://openalex.org/W2775708988",
+      "title": "DeePMD-kit: A deep learning package for many-body potential energy representation and molecular dynamics",
+      "authors": [
+        "Han Wang",
+        "Linfeng Zhang",
+        "Jiequn Han",
+        "E Weinan"
+      ],
+      "publication_year": 2018,
+      "venue": "Computer Physics Communications",
+      "community": "DeepModeling",
+      "category": "software",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/1712.03641",
+        "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+      },
+      "cited_by_count": 1908,
+      "citation_history": [
+        {
+          "year": 2018,
+          "citations": 7
+        },
+        {
+          "year": 2019,
+          "citations": 34
+        },
+        {
+          "year": 2020,
+          "citations": 75
+        },
+        {
+          "year": 2021,
+          "citations": 135
+        },
+        {
+          "year": 2022,
+          "citations": 184
+        },
+        {
+          "year": 2023,
+          "citations": 344
+        },
+        {
+          "year": 2024,
+          "citations": 445
+        },
+        {
+          "year": 2025,
+          "citations": 537
+        },
+        {
+          "year": 2026,
+          "citations": 147
+        }
+      ],
+      "last_updated": "2026-04-04T19:06:30.412561"
+    },
+    {
+      "paper_id": "Nequip-0",
+      "project_id": "Nequip",
+      "doi": "https://doi.org/10.1038/s41467-022-29939-5",
+      "openalex_id": "https://openalex.org/W4225405705",
+      "title": "E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials",
+      "authors": [
+        "Simon Batzner",
+        "Albert Musaelian",
+        "Lixin Sun",
+        "Mario Geiger",
+        "Jonathan P. Mailoa",
+        "Mordechai Kornbluth",
+        "Nicola Molinari",
+        "Tess Smidt",
+        "Boris Kozinsky"
+      ],
+      "publication_year": 2022,
+      "venue": "Nature Communications",
+      "community": "mir-group",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://doi.org/10.48550/arXiv.2101.03164",
+        "GitHub": "https://github.com/mir-group/nequip"
+      },
+      "cited_by_count": 1543,
+      "citation_history": [
+        {
+          "year": 2021,
+          "citations": 3
+        },
+        {
+          "year": 2022,
+          "citations": 71
+        },
+        {
+          "year": 2023,
+          "citations": 308
+        },
+        {
+          "year": 2024,
+          "citations": 397
+        },
+        {
+          "year": 2025,
+          "citations": 602
+        },
+        {
+          "year": 2026,
+          "citations": 162
+        }
+      ],
+      "last_updated": "2026-04-04T19:30:40.183384"
+    },
+    {
+      "paper_id": "dpgen-0",
+      "project_id": "dpgen",
+      "doi": "https://doi.org/10.1016/j.cpc.2020.107206",
+      "openalex_id": "https://openalex.org/W3006005697",
+      "title": "DP-GEN: A concurrent learning platform for the generation of reliable deep learning based potential energy models",
+      "authors": [
+        "Yuzhi Zhang",
+        "Haidi Wang",
+        "Haidi Wang",
+        "Weijie Chen",
+        "Jinzhe Zeng",
+        "Linfeng Zhang",
+        "Han Wang",
+        "Han Wang",
+        "E Weinan"
+      ],
+      "publication_year": 2020,
+      "venue": "Computer Physics Communications",
+      "community": "DeepModeling",
+      "category": "extension",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/1910.12690",
+        "GitHub": "https://github.com/deepmodeling/dpgen"
+      },
+      "cited_by_count": 831,
+      "citation_history": [
+        {
+          "year": 2019,
+          "citations": 1
+        },
+        {
+          "year": 2020,
+          "citations": 18
+        },
+        {
+          "year": 2021,
+          "citations": 46
+        },
+        {
+          "year": 2022,
+          "citations": 81
+        },
+        {
+          "year": 2023,
+          "citations": 142
+        },
+        {
+          "year": 2024,
+          "citations": 211
+        },
+        {
+          "year": 2025,
+          "citations": 271
+        },
+        {
+          "year": 2026,
+          "citations": 61
+        }
+      ],
+      "last_updated": "2026-04-04T19:06:17.669522"
+    },
+    {
+      "paper_id": "M3GNET-0",
+      "project_id": "M3GNET",
+      "doi": "https://doi.org/10.1038/s43588-022-00349-3",
+      "openalex_id": "https://openalex.org/W4310135808",
+      "title": "A universal graph deep learning interatomic potential for the periodic table",
+      "authors": [
+        "Chi Chen",
+        "Shyue Ping Ong"
+      ],
+      "publication_year": 2022,
+      "venue": "Nature Computational Science",
+      "community": "Materialyze.AI",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2202.02450",
+        "GitHub": "https://github.com/materialyzeai/matgl"
+      },
+      "cited_by_count": 795,
+      "citation_history": [
+        {
+          "year": 2022,
+          "citations": 3
+        },
+        {
+          "year": 2023,
+          "citations": 77
+        },
+        {
+          "year": 2024,
+          "citations": 252
+        },
+        {
+          "year": 2025,
+          "citations": 369
+        },
+        {
+          "year": 2026,
+          "citations": 94
+        }
+      ],
+      "last_updated": "2026-04-04T19:29:27.929074"
+    },
+    {
+      "paper_id": "M3GNET-0",
+      "project_id": "M3GNET",
+      "doi": "https://doi.org/10.1038/s43588-022-00349-3",
+      "openalex_id": "https://openalex.org/W4310135808",
+      "title": "A universal graph deep learning interatomic potential for the periodic table",
+      "authors": [
+        "Chi Chen",
+        "Shyue Ping Ong"
+      ],
+      "publication_year": 2022,
+      "venue": "Nature Computational Science",
+      "community": "Materialyze.AI",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2202.02450",
+        "GitHub": "https://github.com/materialyzeai/matgl"
+      },
+      "cited_by_count": 795,
+      "citation_history": [
+        {
+          "year": 2022,
+          "citations": 3
+        },
+        {
+          "year": 2023,
+          "citations": 77
+        },
+        {
+          "year": 2024,
+          "citations": 252
+        },
+        {
+          "year": 2025,
+          "citations": 369
+        },
+        {
+          "year": 2026,
+          "citations": 94
+        }
+      ],
+      "last_updated": "2026-04-04T19:29:27.929074"
+    },
+    {
+      "paper_id": "CHGNET-0",
+      "project_id": "CHGNET",
+      "doi": "https://doi.org/10.1038/s42256-023-00716-3",
+      "openalex_id": "https://openalex.org/W4386740800",
+      "title": "CHGNet as a pretrained universal neural network potential for charge-informed atomistic modelling",
+      "authors": [
+        "Bowen Deng",
+        "Peichen Zhong",
+        "KyuJung Jun",
+        "Janosh Riebesell",
+        "Kevin Han",
+        "Christopher J. Bartel",
+        "Gerbrand Ceder"
+      ],
+      "publication_year": 2023,
+      "venue": "Nature Machine Intelligence",
+      "community": "Ceder Group",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2302.14231",
+        "GitHub": "https://github.com/CederGroupHub/chgnet"
+      },
+      "cited_by_count": 684,
+      "citation_history": [
+        {
+          "year": 2023,
+          "citations": 10
+        },
+        {
+          "year": 2024,
+          "citations": 169
+        },
+        {
+          "year": 2025,
+          "citations": 394
+        },
+        {
+          "year": 2026,
+          "citations": 111
+        }
+      ],
+      "last_updated": "2026-04-04T19:29:27.022173"
+    },
+    {
+      "paper_id": "CHGNET-0",
+      "project_id": "CHGNET",
+      "doi": "https://doi.org/10.1038/s42256-023-00716-3",
+      "openalex_id": "https://openalex.org/W4386740800",
+      "title": "CHGNet as a pretrained universal neural network potential for charge-informed atomistic modelling",
+      "authors": [
+        "Bowen Deng",
+        "Peichen Zhong",
+        "KyuJung Jun",
+        "Janosh Riebesell",
+        "Kevin Han",
+        "Christopher J. Bartel",
+        "Gerbrand Ceder"
+      ],
+      "publication_year": 2023,
+      "venue": "Nature Machine Intelligence",
+      "community": "Ceder Group",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2302.14231",
+        "GitHub": "https://github.com/CederGroupHub/chgnet"
+      },
+      "cited_by_count": 684,
+      "citation_history": [
+        {
+          "year": 2023,
+          "citations": 10
+        },
+        {
+          "year": 2024,
+          "citations": 169
+        },
+        {
+          "year": 2025,
+          "citations": 394
+        },
+        {
+          "year": 2026,
+          "citations": 111
+        }
+      ],
+      "last_updated": "2026-04-04T19:29:27.022173"
+    },
+    {
+      "paper_id": "OC20",
+      "project_id": "OC",
+      "doi": "https://doi.org/10.1021/acscatal.0c04525",
+      "openalex_id": "https://openalex.org/W3093999435",
+      "title": "Open Catalyst 2020 (OC20) Dataset and Community Challenges",
+      "authors": [
+        "Lowik Chanussot",
+        "Abhishek Das",
+        "Siddharth Goyal",
+        "Thibaut Lavril",
+        "Muhammed Shuaibi",
+        "Morgane Rivière",
+        "Kevin Tran",
+        "Javier Heras‐Domingo",
+        "Caleb Ho",
+        "Weihua Hu",
+        "Aini Palizhati",
+        "Anuroop Sriram",
+        "Brandon M. Wood",
+        "Junwoong Yoon",
+        "Devi Parikh",
+        "C. Lawrence Zitnick",
+        "Zachary W. Ulissi"
+      ],
+      "publication_year": 2021,
+      "venue": "ACS Catalysis",
+      "community": "Meta FAIR",
+      "category": "dataset",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2010.09990",
+        "Website": "https://fair-chem.github.io/oc20/"
+      },
+      "cited_by_count": 673,
+      "citation_history": [
+        {
+          "year": 2020,
+          "citations": 6
+        },
+        {
+          "year": 2021,
+          "citations": 32
+        },
+        {
+          "year": 2022,
+          "citations": 79
+        },
+        {
+          "year": 2023,
+          "citations": 125
+        },
+        {
+          "year": 2024,
+          "citations": 164
+        },
+        {
+          "year": 2025,
+          "citations": 197
+        },
+        {
+          "year": 2026,
+          "citations": 70
+        }
+      ],
+      "last_updated": "2026-04-04T20:21:04.261531"
+    },
+    {
+      "paper_id": "Allegro-0",
+      "project_id": "Nequip",
+      "doi": "https://doi.org/10.1038/s41467-023-36329-y",
+      "openalex_id": "https://openalex.org/W4319162181",
+      "title": "Learning local equivariant representations for large-scale atomistic dynamics",
+      "authors": [
+        "Albert Musaelian",
+        "Simon Batzner",
+        "Anders Johansson",
+        "Lixin Sun",
+        "Cameron J. Owen",
+        "Mordechai Kornbluth",
+        "Boris Kozinsky"
+      ],
+      "publication_year": 2023,
+      "venue": "Nature Communications",
+      "community": "mir-group",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://doi.org/10.48550/arXiv.2204.05249",
+        "GitHub": "https://github.com/mir-group/allegro"
+      },
+      "cited_by_count": 572,
+      "citation_history": [
+        {
+          "year": 2022,
+          "citations": 11
+        },
+        {
+          "year": 2023,
+          "citations": 90
+        },
+        {
+          "year": 2024,
+          "citations": 170
+        },
+        {
+          "year": 2025,
+          "citations": 237
+        },
+        {
+          "year": 2026,
+          "citations": 64
+        }
+      ],
+      "last_updated": "2026-04-04T19:30:42.273630"
+    },
+    {
+      "paper_id": "DeepMD-kit-v2",
+      "project_id": "DeepMD-kit",
+      "doi": "https://doi.org/10.1063/5.0155600",
+      "openalex_id": "https://openalex.org/W4383995031",
+      "title": "DeePMD-kit v2: A software package for deep potential models",
+      "authors": [
+        "Jinzhe Zeng",
+        "Duo Zhang",
+        "Denghui Lu",
+        "Pinghui Mo",
+        "Zeyu Li",
+        "Yixiao Chen",
+        "Marián Rynik",
+        "Liang Huang",
+        "Ziyao Li",
+        "Shaochen Shi",
+        "Yingze Wang",
+        "Haotian Ye",
+        "Ping Tuo",
+        "Jiabin Yang",
+        "Ye Ding",
+        "Yifan Li",
+        "Davide Tisi",
+        "Qiyu Zeng",
+        "Han Bao",
+        "Yu Xia",
+        "Jiameng Huang",
+        "Koki Muraoka",
+        "Yibo Wang",
+        "Junhan Chang",
+        "Fengbo Yuan",
+        "Sigbjørn Løland Bore",
+        "Chun Cai",
+        "Yin‐Nian Lin",
+        "Bo Wang",
+        "Jiayan Xu",
+        "Jiaxin Zhu",
+        "Chenxing Luo",
+        "Yuzhi Zhang",
+        "Rhys E. A. Goodall",
+        "Wenshuo Liang",
+        "Anurag Kumar Singh",
+        "Sikai Yao",
+        "Jingchao Zhang",
+        "Renata M. Wentzcovitch",
+        "Jiequn Han",
+        "Jie Liu",
+        "Weile Jia",
+        "Darrin M. York",
+        "E Weinan",
+        "Roberto Car",
+        "Linfeng Zhang",
+        "Handong Wang"
+      ],
+      "publication_year": 2023,
+      "venue": "The Journal of Chemical Physics",
+      "community": "DeepModeling",
+      "category": "software",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2304.09409",
+        "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+      },
+      "cited_by_count": 480,
+      "citation_history": [
+        {
+          "year": 2023,
+          "citations": 23
+        },
+        {
+          "year": 2024,
+          "citations": 149
+        },
+        {
+          "year": 2025,
+          "citations": 247
+        },
+        {
+          "year": 2026,
+          "citations": 61
+        }
+      ],
+      "last_updated": "2026-04-04T19:06:31.731526"
+    },
+    {
+      "paper_id": "GPUMD-1.0",
+      "project_id": "NEP",
+      "doi": "https://doi.org/10.1063/5.0106617",
+      "openalex_id": "https://openalex.org/W4281385937",
+      "title": "GPUMD: A package for constructing accurate machine-learned potentials and performing highly efficient atomistic simulations",
+      "authors": [
+        "Zheyong Fan",
+        "Yanzhou Wang",
+        "Penghua Ying",
+        "Keke Song",
+        "Junjie Wang",
+        "Yong Wang",
+        "Zezhu Zeng",
+        "Ke Xu",
+        "Eric Lindgren",
+        "J. Magnus Rahm",
+        "Alexander J. Gabourie",
+        "Jiahui Liu",
+        "Haikuan Dong",
+        "Jianyang Wu",
+        "Yue Chen",
+        "Zheng Zhong",
+        "Jian Sun",
+        "Paul Erhart",
+        "Yanjing Su",
+        "Tapio Ala-Nissilä"
+      ],
+      "publication_year": 2022,
+      "venue": "The Journal of Chemical Physics",
+      "community": "NEP",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2205.10046",
+        "GitHub": "https://github.com/brucefan1983/GPUMD"
+      },
+      "cited_by_count": 369,
+      "citation_history": [
+        {
+          "year": 2022,
+          "citations": 9
+        },
+        {
+          "year": 2023,
+          "citations": 53
+        },
+        {
+          "year": 2024,
+          "citations": 76
+        },
+        {
+          "year": 2025,
+          "citations": 175
+        },
+        {
+          "year": 2026,
+          "citations": 56
+        }
+      ],
+      "last_updated": "2026-04-04T19:06:34.640216"
+    },
+    {
+      "paper_id": "GPUMD-1.0",
+      "project_id": "NEP",
+      "doi": "https://doi.org/10.1063/5.0106617",
+      "openalex_id": "https://openalex.org/W4281385937",
+      "title": "GPUMD: A package for constructing accurate machine-learned potentials and performing highly efficient atomistic simulations",
+      "authors": [
+        "Zheyong Fan",
+        "Yanzhou Wang",
+        "Penghua Ying",
+        "Keke Song",
+        "Junjie Wang",
+        "Yong Wang",
+        "Zezhu Zeng",
+        "Ke Xu",
+        "Eric Lindgren",
+        "J. Magnus Rahm",
+        "Alexander J. Gabourie",
+        "Jiahui Liu",
+        "Haikuan Dong",
+        "Jianyang Wu",
+        "Yue Chen",
+        "Zheng Zhong",
+        "Jian Sun",
+        "Paul Erhart",
+        "Yanjing Su",
+        "Tapio Ala-Nissilä"
+      ],
+      "publication_year": 2022,
+      "venue": "The Journal of Chemical Physics",
+      "community": "NEP",
+      "category": "software",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2205.10046",
+        "GitHub": "https://github.com/brucefan1983/GPUMD"
+      },
+      "cited_by_count": 369,
+      "citation_history": [
+        {
+          "year": 2022,
+          "citations": 9
+        },
+        {
+          "year": 2023,
+          "citations": 53
+        },
+        {
+          "year": 2024,
+          "citations": 76
+        },
+        {
+          "year": 2025,
+          "citations": 175
+        },
+        {
+          "year": 2026,
+          "citations": 56
+        }
+      ],
+      "last_updated": "2026-04-04T19:06:34.640216"
+    },
+    {
+      "paper_id": "MACE-1",
+      "project_id": "MACE",
+      "doi": "https://doi.org/10.48550/arXiv.2206.07697",
+      "openalex_id": "https://openalex.org/W4283021369",
+      "title": "MACE: Higher order equivariant message passing neural networks for fast and accurate force fields",
+      "authors": [
+        "Ilyes Batatia",
+        "Dávid Péter Kovács",
+        "Gregor N. C. Simm",
+        "Christoph Ortner",
+        "Gábor Csányi"
+      ],
+      "publication_year": 2022,
+      "venue": "arXiv (Cornell University)",
+      "community": "MACE",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://doi.org/10.48550/arXiv.2206.07697",
+        "GitHub": "https://github.com/ACEsuit/mace"
+      },
+      "cited_by_count": 269,
+      "citation_history": [
+        {
+          "year": 2022,
+          "citations": 7
+        },
+        {
+          "year": 2023,
+          "citations": 40
+        },
+        {
+          "year": 2024,
+          "citations": 80
+        },
+        {
+          "year": 2025,
+          "citations": 128
+        },
+        {
+          "year": 2026,
+          "citations": 14
+        }
+      ],
+      "last_updated": "2026-04-04T19:30:39.010541"
+    },
+    {
+      "paper_id": "OC22",
+      "project_id": "OC",
+      "doi": "https://doi.org/10.1021/acscatal.2c05426",
+      "openalex_id": "https://openalex.org/W4321085451",
+      "title": "The Open Catalyst 2022 (OC22) Dataset and Challenges for Oxide Electrocatalysts",
+      "authors": [
+        "Richard Tran",
+        "Janice Lan",
+        "Muhammed Shuaibi",
+        "Brandon M. Wood",
+        "Siddharth Goyal",
+        "Abhishek Das",
+        "Javier Heras‐Domingo",
+        "Adeesh Kolluru",
+        "Ammar Rizvi",
+        "Nima Shoghi",
+        "Anuroop Sriram",
+        "Félix Therrien",
+        "Jehad Abed",
+        "Oleksandr Voznyy",
+        "Edward H. Sargent",
+        "Zachary W. Ulissi",
+        "C. Lawrence Zitnick"
+      ],
+      "publication_year": 2023,
+      "venue": "ACS Catalysis",
+      "community": "Meta FAIR",
+      "category": "dataset",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2206.08917",
+        "Website": "https://fair-chem.github.io/oc22/"
+      },
+      "cited_by_count": 269,
+      "citation_history": [
+        {
+          "year": 2022,
+          "citations": 1
+        },
+        {
+          "year": 2023,
+          "citations": 32
+        },
+        {
+          "year": 2024,
+          "citations": 81
+        },
+        {
+          "year": 2025,
+          "citations": 110
+        },
+        {
+          "year": 2026,
+          "citations": 45
+        }
+      ],
+      "last_updated": "2026-04-04T20:21:05.233250"
+    },
+    {
+      "paper_id": "DPLR",
+      "project_id": "DP",
+      "doi": "https://doi.org/10.1063/5.0083669",
+      "openalex_id": "https://openalex.org/W4220834411",
+      "title": "A deep potential model with long-range electrostatic interactions",
+      "authors": [
+        "Linfeng Zhang",
+        "Handong Wang",
+        "Maria Carolina Muniz",
+        "Athanassios Z. Panagiotopoulos",
+        "Roberto Car",
+        "E Weinan"
+      ],
+      "publication_year": 2022,
+      "venue": "The Journal of Chemical Physics",
+      "community": "DeepModeling",
+      "category": "extension",
+      "links": {
+        "arXiv": "https://doi.org/10.48550/arXiv.2112.13327",
+        "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+      },
+      "cited_by_count": 207,
+      "citation_history": [
+        {
+          "year": 2022,
+          "citations": 15
+        },
+        {
+          "year": 2023,
+          "citations": 40
+        },
+        {
+          "year": 2024,
+          "citations": 49
+        },
+        {
+          "year": 2025,
+          "citations": 89
+        },
+        {
+          "year": 2026,
+          "citations": 14
+        }
+      ],
+      "last_updated": "2026-04-04T19:06:18.808401"
+    },
+    {
+      "paper_id": "SEVENNET-0",
+      "project_id": "SEVENNET",
+      "doi": "https://doi.org/10.1021/acs.jctc.4c00190",
+      "openalex_id": "https://openalex.org/W4391631778",
+      "title": "Scalable Parallel Algorithm for Graph Neural Network Interatomic Potentials in Molecular Dynamics Simulations",
+      "authors": [
+        "Yutack Park",
+        "Jaesun Kim",
+        "Seungwoo Hwang",
+        "Seungwu Han"
+      ],
+      "publication_year": 2024,
+      "venue": "Journal of Chemical Theory and Computation",
+      "community": "MDIL-SNU",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2402.03789",
+        "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
+      },
+      "cited_by_count": 166,
+      "citation_history": [
+        {
+          "year": 2024,
+          "citations": 11
+        },
+        {
+          "year": 2025,
+          "citations": 115
+        },
+        {
+          "year": 2026,
+          "citations": 40
+        }
+      ],
+      "last_updated": "2026-04-04T19:52:59.202345"
+    },
+    {
+      "paper_id": "DeepPot-SE",
+      "project_id": "DP",
+      "doi": "https://doi.org/10.48550/arXiv.1805.09003",
+      "openalex_id": "https://openalex.org/W2804359235",
+      "title": "End-to-end Symmetry Preserving Inter-atomic Potential Energy Model for Finite and Extended Systems",
+      "authors": [
+        "Linfeng Zhang",
+        "Jiequn Han",
+        "Handong Wang",
+        "Wissam A. Saidi",
+        "Roberto Car",
+        "E Weinan"
+      ],
+      "publication_year": 2018,
+      "venue": "arXiv (Cornell University)",
+      "community": "DeepModeling",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/1805.09003",
+        "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+      },
+      "cited_by_count": 155,
+      "citation_history": [
+        {
+          "year": 2018,
+          "citations": 1
+        },
+        {
+          "year": 2019,
+          "citations": 2
+        },
+        {
+          "year": 2020,
+          "citations": 8
+        },
+        {
+          "year": 2021,
+          "citations": 19
+        },
+        {
+          "year": 2022,
+          "citations": 25
+        },
+        {
+          "year": 2023,
+          "citations": 39
+        },
+        {
+          "year": 2024,
+          "citations": 33
+        },
+        {
+          "year": 2025,
+          "citations": 28
+        }
+      ],
+      "last_updated": "2026-04-04T19:30:33.714322"
+    },
+    {
+      "paper_id": "NEP-4",
+      "project_id": "NEP",
+      "doi": "https://doi.org/10.1038/s41467-024-54554-x",
+      "openalex_id": "https://openalex.org/W4404691199",
+      "title": "General-purpose machine-learned potential for 16 elemental metals and their alloys",
+      "authors": [
+        "Keke Song",
+        "Rui Zhao",
+        "Jiahui Liu",
+        "Yanzhou Wang",
+        "Eric Lindgren",
+        "Yong Wang",
+        "Shunda Chen",
+        "Ke Xu",
+        "Ting Liang",
+        "Penghua Ying",
+        "Nan Xu",
+        "Zhiqiang Zhao",
+        "Jiuyang Shi",
+        "Junjie Wang",
+        "Shuang Lyu",
+        "Zezhu Zeng",
+        "Shirong Liang",
+        "Haikuan Dong",
+        "Ligang Sun",
+        "Yue Chen",
+        "Zhuhua Zhang",
+        "Wanlin Guo",
+        "Ping Qian",
+        "Jian Sun",
+        "Paul Erhart",
+        "Tapio Ala-Nissilä",
+        "Yanjing Su",
+        "Zheyong Fan"
+      ],
+      "publication_year": 2024,
+      "venue": "Nature Communications",
+      "community": "NEP",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2311.04732",
+        "GitHub": "https://github.com/brucefan1983/GPUMD"
+      },
+      "cited_by_count": 135,
+      "citation_history": [
+        {
+          "year": 2024,
+          "citations": 4
+        },
+        {
+          "year": 2025,
+          "citations": 102
+        },
+        {
+          "year": 2026,
+          "citations": 29
+        }
+      ],
+      "last_updated": "2026-04-04T19:30:45.372890"
+    },
+    {
+      "paper_id": "NEP-2",
+      "project_id": "NEP",
+      "doi": "https://doi.org/10.1088/1361-648X/ac462b",
+      "openalex_id": "https://openalex.org/W3199681061",
+      "title": "Improving the accuracy of the neuroevolution machine learning potential for multi-component systems",
+      "authors": [
+        "Zheyong Fan"
+      ],
+      "publication_year": 2021,
+      "venue": "Journal of Physics Condensed Matter",
+      "community": "NEP",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2109.10643",
+        "GitHub": "https://github.com/brucefan1983/GPUMD"
+      },
+      "cited_by_count": 128,
+      "citation_history": [
+        {
+          "year": 2022,
+          "citations": 6
+        },
+        {
+          "year": 2023,
+          "citations": 25
+        },
+        {
+          "year": 2024,
+          "citations": 39
+        },
+        {
+          "year": 2025,
+          "citations": 47
+        },
+        {
+          "year": 2026,
+          "citations": 11
+        }
+      ],
+      "last_updated": "2026-04-04T19:30:44.232235"
+    },
+    {
+      "paper_id": "DPA2",
+      "project_id": "DP",
+      "doi": "https://doi.org/10.1038/s41524-024-01493-2",
+      "openalex_id": "https://openalex.org/W4405574099",
+      "title": "DPA-2: a large atomic model as a multi-task learner",
+      "authors": [
+        "Duo Zhang",
+        "Xinzijian Liu",
+        "Xiangyu Zhang",
+        "Chengqian Zhang",
+        "Chun Cai",
+        "Hangrui Bi",
+        "Yiming Du",
+        "Xuejian Qin",
+        "Anyang Peng",
+        "Jiameng Huang",
+        "Bowen Li",
+        "Yifan Shan",
+        "Jinzhe Zeng",
+        "Yuzhi Zhang",
+        "Siyuan Liu",
+        "Yifan Li",
+        "Junhan Chang",
+        "Xinyan Wang",
+        "Shuo Zhou",
+        "Jianchuan Liu",
+        "Xiaoshan Luo",
+        "Zhenyu Wang",
+        "Wanrun Jiang",
+        "Jing Wu",
+        "Yudi Yang",
+        "Jiyuan Yang",
+        "Manyi Yang",
+        "Fu‐Qiang Gong",
+        "Linshuang Zhang",
+        "Mengchao Shi",
+        "Fu‐Zhi Dai",
+        "Darrin M. York",
+        "Shi Liu",
+        "Tong Zhu",
+        "Zhicheng Zhong",
+        "Jian Lv",
+        "Jun Cheng",
+        "Weile Jia",
+        "Mohan Chen",
+        "Guolin Ke",
+        "E Weinan",
+        "Linfeng Zhang",
+        "Handong Wang"
+      ],
+      "publication_year": 2024,
+      "venue": "npj Computational Materials",
+      "community": "DeepModeling",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2312.15492",
+        "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+      },
+      "cited_by_count": 106,
+      "citation_history": [
+        {
+          "year": 2024,
+          "citations": 1
+        },
+        {
+          "year": 2025,
+          "citations": 85
+        },
+        {
+          "year": 2026,
+          "citations": 20
+        }
+      ],
+      "last_updated": "2026-04-04T19:30:36.142981"
+    },
+    {
+      "paper_id": "MACE-0",
+      "project_id": "MACE",
+      "doi": "https://doi.org/10.48550/arXiv.2205.06643",
+      "openalex_id": "https://openalex.org/W4280600366",
+      "title": "The Design Space of E(3)-Equivariant Atom-Centered Interatomic Potentials",
+      "authors": [
+        "Ilyes Batatia",
+        "Simon Batzner",
+        "Dávid Péter Kovács",
+        "Albert Musaelian",
+        "Gregor N. C. Simm",
+        "Ralf Drautz",
+        "Christoph Ortner",
+        "Boris Kozinsky",
+        "Gábor Csányi"
+      ],
+      "publication_year": 2022,
+      "venue": "arXiv (Cornell University)",
+      "community": "MACE",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://doi.org/10.48550/arXiv.2205.06643",
+        "GitHub": "https://github.com/ACEsuit/mace"
+      },
+      "cited_by_count": 98,
+      "citation_history": [
+        {
+          "year": 2022,
+          "citations": 6
+        },
+        {
+          "year": 2023,
+          "citations": 24
+        },
+        {
+          "year": 2024,
+          "citations": 37
+        },
+        {
+          "year": 2025,
+          "citations": 29
+        },
+        {
+          "year": 2026,
+          "citations": 2
+        }
+      ],
+      "last_updated": "2026-04-04T19:30:38.079779"
+    },
+    {
+      "paper_id": "DPRc",
+      "project_id": "DP",
+      "doi": "https://doi.org/10.1021/acs.jctc.1c00201",
+      "openalex_id": "https://openalex.org/W3136228320",
+      "title": "Development of Range-Corrected Deep Learning Potentials for Fast, Accurate Quantum Mechanical/Molecular Mechanical Simulations of Chemical Reactions in Solution",
+      "authors": [
+        "Jinzhe Zeng",
+        "Timothy J. Giese",
+        "Şölen Ekesan",
+        "Darrin M. York"
+      ],
+      "publication_year": 2021,
+      "venue": "Journal of Chemical Theory and Computation",
+      "community": "DeepModeling",
+      "category": "extension",
+      "links": {
+        "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+      },
+      "cited_by_count": 98,
+      "citation_history": [
+        {
+          "year": 2021,
+          "citations": 3
+        },
+        {
+          "year": 2022,
+          "citations": 13
+        },
+        {
+          "year": 2023,
+          "citations": 28
+        },
+        {
+          "year": 2024,
+          "citations": 17
+        },
+        {
+          "year": 2025,
+          "citations": 28
+        },
+        {
+          "year": 2026,
+          "citations": 9
+        }
+      ],
+      "last_updated": "2026-04-04T19:06:20.134261"
+    },
+    {
+      "paper_id": "DPA1",
+      "project_id": "DP",
+      "doi": "https://doi.org/10.1038/s41524-024-01278-7",
+      "openalex_id": "https://openalex.org/W4396708749",
+      "title": "Pretraining of attention-based deep learning potential model for molecular simulation",
+      "authors": [
+        "Duo Zhang",
+        "Hangrui Bi",
+        "Fu‐Zhi Dai",
+        "Wanrun Jiang",
+        "Xinzijian Liu",
+        "Linfeng Zhang",
+        "Handong Wang"
+      ],
+      "publication_year": 2024,
+      "venue": "npj Computational Materials",
+      "community": "DeepModeling",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://doi.org/10.48550/arXiv.2208.08236",
+        "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+      },
+      "cited_by_count": 87,
+      "citation_history": [
+        {
+          "year": 2024,
+          "citations": 15
+        },
+        {
+          "year": 2025,
+          "citations": 56
+        },
+        {
+          "year": 2026,
+          "citations": 16
+        }
+      ],
+      "last_updated": "2026-04-04T19:30:34.641605"
+    },
+    {
+      "paper_id": "Equiformer-V2",
+      "project_id": "Equiformer",
+      "doi": "https://doi.org/10.48550/arXiv.2306.12059",
+      "openalex_id": "https://openalex.org/W4381713642",
+      "title": "EquiformerV2: Improved Equivariant Transformer for Scaling to Higher-Degree Representations",
+      "authors": [
+        "Yi-Lun Liao",
+        "Brandon C. Wood",
+        "Abhishek Das",
+        "Tess Smidt"
+      ],
+      "publication_year": 2023,
+      "venue": "arXiv (Cornell University)",
+      "community": "Meta FAIR",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2306.12059",
+        "Website": "https://github.com/atomicarchitects/equiformer_v2"
+      },
+      "cited_by_count": 81,
+      "citation_history": [
+        {
+          "year": 2022,
+          "citations": 2
+        },
+        {
+          "year": 2023,
+          "citations": 6
+        },
+        {
+          "year": 2024,
+          "citations": 30
+        },
+        {
+          "year": 2025,
+          "citations": 35
+        },
+        {
+          "year": 2026,
+          "citations": 8
+        }
+      ],
+      "last_updated": "2026-04-04T20:21:01.406337"
+    },
+    {
+      "paper_id": "OMat24",
+      "project_id": "OMat",
+      "doi": "https://doi.org/10.48550/arXiv.2410.12771",
+      "openalex_id": "https://openalex.org/W4403582283",
+      "title": "Open Materials 2024 (OMat24) Inorganic Materials Dataset and Models",
+      "authors": [
+        "Luis Barroso-Luque",
+        "Muhammed Shuaibi",
+        "Xiang Fu",
+        "Brandon M. Wood",
+        "Misko Dzamba",
+        "Meng Gao",
+        "Ammar Rizvi",
+        "C. Lawrence Zitnick",
+        "Zachary W. Ulissi"
+      ],
+      "publication_year": 2024,
+      "venue": "arXiv (Cornell University)",
+      "community": "meta",
+      "category": "dataset",
+      "links": {
+        "arXiv": "https://doi.org/10.48550/arXiv.2410.12771",
+        "HuggingFace": "https://huggingface.co/datasets/facebook/OMAT24"
+      },
+      "cited_by_count": 80,
+      "citation_history": [
+        {
+          "year": 2024,
+          "citations": 3
+        },
+        {
+          "year": 2025,
+          "citations": 55
+        },
+        {
+          "year": 2026,
+          "citations": 22
+        }
+      ],
+      "last_updated": "2026-04-04T19:06:11.339986"
+    },
+    {
+      "paper_id": "MATTERSIM-0",
+      "project_id": "MATTERSIM",
+      "doi": "https://doi.org/10.48550/arXiv.2405.04967",
+      "openalex_id": "https://openalex.org/W4396816788",
+      "title": "MatterSim: A Deep Learning Atomistic Model Across Elements, Temperatures and Pressures",
+      "authors": [
+        "Han Yang",
+        "Chenxi Hu",
+        "Yichi Zhou",
+        "Xixian Liu",
+        "Shi Yu",
+        "Jielan Li",
+        "Guanzhi Li",
+        "Zekun Chen",
+        "Shuizhou Chen",
+        "Claudio Zeni",
+        "Matthew K. Horton",
+        "Robert Pinsler",
+        "Andrew Fowler",
+        "Daniel Zügner",
+        "Tian Xie",
+        "Jake A. Smith",
+        "Lixin Sun",
+        "Qian Wang",
+        "Lingyu Kong",
+        "Chang Liu",
+        "Hongxia Hao",
+        "Ziheng Lu"
+      ],
+      "publication_year": 2024,
+      "venue": "arXiv (Cornell University)",
+      "community": "Microsoft",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2405.04967",
+        "Website": "https://github.com/microsoft/mattersim"
+      },
+      "cited_by_count": 78,
+      "citation_history": [
+        {
+          "year": 2024,
+          "citations": 6
+        },
+        {
+          "year": 2025,
+          "citations": 50
+        },
+        {
+          "year": 2026,
+          "citations": 22
+        }
+      ],
+      "last_updated": "2026-04-04T20:21:09.209480"
+    },
+    {
+      "paper_id": "GRACE-0",
+      "project_id": "GRACE",
+      "doi": "https://doi.org/10.1103/PhysRevX.14.021036",
+      "openalex_id": "https://openalex.org/W4399303478",
+      "title": "Graph Atomic Cluster Expansion for Semilocal Interactions beyond Equivariant Message Passing",
+      "authors": [
+        "Anton Bochkarev",
+        "Yury Lysogorskiy",
+        "Ralf Drautz"
+      ],
+      "publication_year": 2024,
+      "venue": "Physical Review X",
+      "community": "ICAMS",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2311.16326",
+        "GitHub": "https://github.com/ICAMS/grace-tensorpotential"
+      },
+      "cited_by_count": 57,
+      "citation_history": [
+        {
+          "year": 2024,
+          "citations": 7
+        },
+        {
+          "year": 2025,
+          "citations": 37
+        },
+        {
+          "year": 2026,
+          "citations": 13
+        }
+      ],
+      "last_updated": "2026-04-04T20:20:58.343918"
+    },
+    {
+      "paper_id": "SEVENNET-1",
+      "project_id": "SEVENNET",
+      "doi": "https://doi.org/10.1021/jacs.4c14455",
+      "openalex_id": "https://openalex.org/W4405499204",
+      "title": "Data-efficient multi-fidelity training for high-fidelity machine learning interatomic potentials",
+      "authors": [
+        "Jaesun Kim",
+        "Jisu Kim",
+        "Jaehoon Kim",
+        "Jiho Lee",
+        "Yutack Park",
+        "Youngho Kang",
+        "Seungwu Han"
+      ],
+      "publication_year": 2024,
+      "venue": "Journal of the American Chemical Society",
+      "community": "MDIL-SNU",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2409.07947",
+        "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
+      },
+      "cited_by_count": 54,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 33
+        },
+        {
+          "year": 2026,
+          "citations": 21
+        }
+      ],
+      "last_updated": "2026-04-04T19:53:03.719988"
+    },
+    {
+      "paper_id": "SEVENNET-1",
+      "project_id": "SEVENNET",
+      "doi": "https://doi.org/10.1021/jacs.4c14455",
+      "openalex_id": "https://openalex.org/W4405499204",
+      "title": "Data-efficient multi-fidelity training for high-fidelity machine learning interatomic potentials",
+      "authors": [
+        "Jaesun Kim",
+        "Jisu Kim",
+        "Jaehoon Kim",
+        "Jiho Lee",
+        "Yutack Park",
+        "Youngho Kang",
+        "Seungwu Han"
+      ],
+      "publication_year": 2024,
+      "venue": "Journal of the American Chemical Society",
+      "community": "MDIL-SNU",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2409.07947",
+        "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
+      },
+      "cited_by_count": 54,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 33
+        },
+        {
+          "year": 2026,
+          "citations": 21
+        }
+      ],
+      "last_updated": "2026-04-04T19:53:03.719988"
+    },
+    {
+      "paper_id": "LES-0",
+      "project_id": "LES",
+      "doi": "https://doi.org/10.1038/s41524-025-01577-7",
+      "openalex_id": "https://openalex.org/W4408876037",
+      "title": "Latent Ewald summation for machine learning of long-range interactions",
+      "authors": [
+        "Bingqing Cheng"
+      ],
+      "publication_year": 2025,
+      "venue": "npj Computational Materials",
+      "community": "independent",
+      "category": "extension",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2408.15165",
+        "GitHub": "https://github.com/les-group/les"
+      },
+      "cited_by_count": 52,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 27
+        },
+        {
+          "year": 2026,
+          "citations": 25
+        }
+      ],
+      "last_updated": "2026-04-04T19:06:21.055869"
+    },
+    {
+      "paper_id": "CACE-0",
+      "project_id": "CACE",
+      "doi": "https://doi.org/10.1038/s41524-024-01332-4",
+      "openalex_id": "https://openalex.org/W4400776655",
+      "title": "Cartesian atomic cluster expansion for machine learning interatomic potentials",
+      "authors": [
+        "Bingqing Cheng"
+      ],
+      "publication_year": 2024,
+      "venue": "npj Computational Materials",
+      "community": "independent",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2402.07472",
+        "GitHub": "https://github.com/BingqingCheng/cace"
+      },
+      "cited_by_count": 51,
+      "citation_history": [
+        {
+          "year": 2024,
+          "citations": 3
+        },
+        {
+          "year": 2025,
+          "citations": 32
+        },
+        {
+          "year": 2026,
+          "citations": 16
+        }
+      ],
+      "last_updated": "2026-04-04T19:30:46.332141"
+    },
+    {
+      "paper_id": "DeepMD-kit-v3",
+      "project_id": "DeepMD-kit",
+      "doi": "https://doi.org/10.1021/acs.jctc.5c00340",
+      "openalex_id": "https://openalex.org/W4410027863",
+      "title": "DeePMD-kit v3: A Multiple-Backend Framework for Machine Learning Potentials",
+      "authors": [
+        "Jinzhe Zeng",
+        "Duo Zhang",
+        "Anyang Peng",
+        "Xiangyu Zhang",
+        "S Z He",
+        "Yan Wang",
+        "Xinzijian Liu",
+        "Hangrui Bi",
+        "Yifan Li",
+        "Chun Cai",
+        "Chengqian Zhang",
+        "Yiming Du",
+        "Jiaxin Zhu",
+        "Pinghui Mo",
+        "Zhengtao Huang",
+        "Qiyu Zeng",
+        "Shaochen Shi",
+        "Xuejian Qin",
+        "Zhaoxi Yu",
+        "Chenxing Luo",
+        "Ye Ding",
+        "Yun‐Pei Liu",
+        "Ruosong Shi",
+        "Zhenyu Wang",
+        "Sigbjørn Løland Bore",
+        "Junhan Chang",
+        "Zhe Deng",
+        "Zhaonan Ding",
+        "Siyuan Han",
+        "Wanrun Jiang",
+        "Guolin Ke",
+        "Zhaoqing Liu",
+        "Denghui Lu",
+        "Koki Muraoka",
+        "Hananeh Oliaei",
+        "Anurag Kumar Singh",
+        "Haohui Que",
+        "Weihong Xu",
+        "Zhangmancang Xu",
+        "Yong‐Bin Zhuang",
+        "Jiayu Dai",
+        "Timothy J. Giese",
+        "Weile Jia",
+        "Ben Bin Xu",
+        "Darrin M. York",
+        "Linfeng Zhang",
+        "Handong Wang"
+      ],
+      "publication_year": 2025,
+      "venue": "Journal of Chemical Theory and Computation",
+      "community": "DeepModeling",
+      "category": "software",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2502.19161",
+        "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+      },
+      "cited_by_count": 50,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 28
+        },
+        {
+          "year": 2026,
+          "citations": 22
+        }
+      ],
+      "last_updated": "2026-04-04T19:06:33.114289"
+    },
+    {
+      "paper_id": "GPUMD-4.0",
+      "project_id": "NEP",
+      "doi": "https://doi.org/10.1002/mgea.70028",
+      "openalex_id": "https://openalex.org/W4412881701",
+      "title": "GPUMD 4.0: A high-performance molecular dynamics package for versatile materials simulations with machine-learned potentials",
+      "authors": [
+        "Ke Xu",
+        "H. Bu",
+        "Shuning Pan",
+        "Eric Lindgren",
+        "Yong-Chao Wu",
+        "Yong Wang",
+        "Jiahui Liu",
+        "Keke Song",
+        "Bin Xu",
+        "Yifan Li",
+        "Tobias Hainer",
+        "L.A. Svensson",
+        "Julia Wiktor",
+        "Rui Zhao",
+        "Hongfu Huang",
+        "Cheng Qian",
+        "Shuo Zhang",
+        "Zezhu Zeng",
+        "Bohan Zhang",
+        "Bing Tang",
+        "Yang Xiao",
+        "Zihan Yan",
+        "Jiuyang Shi",
+        "Zhixin Liang",
+        "Junjie Wang",
+        "Ting Liang",
+        "Shuo Cao",
+        "Yanzhou Wang",
+        "Penghua Ying",
+        "Nan Xu",
+        "Chengbing Chen",
+        "Yuwen Zhang",
+        "Zherui Chen",
+        "Xin Wu",
+        "Wenwu Jiang",
+        "Esmée Berger",
+        "Yanlong Li",
+        "Shunda Chen",
+        "Alexander J. Gabourie",
+        "Haikuan Dong",
+        "Shiyun Xiong",
+        "Ning Wei",
+        "Yue Chen",
+        "Jianbin Xu",
+        "Feng Ding",
+        "Zhimei Sun",
+        "Tapio Ala-Nissilä",
+        "Ari Harju",
+        "Jin‐Cheng Zheng",
+        "Pengfei Guan",
+        "Paul Erhart",
+        "Jian Sun",
+        "Wengen Ouyang",
+        "Yanjing Su",
+        "Zheyong Fan"
+      ],
+      "publication_year": 2025,
+      "venue": "Materials Genome Engineering Advances",
+      "community": "NEP",
+      "category": "software",
+      "links": {
+        "GitHub": "https://github.com/brucefan1983/GPUMD"
+      },
+      "cited_by_count": 50,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 19
+        },
+        {
+          "year": 2026,
+          "citations": 31
+        }
+      ],
+      "last_updated": "2026-04-04T19:07:29.816653"
+    },
+    {
+      "paper_id": "ORB-v2",
+      "project_id": "ORB",
+      "doi": "https://doi.org/10.48550/arXiv.2410.22570",
+      "openalex_id": "https://openalex.org/W4404342379",
+      "title": "Orb: A Fast, Scalable Neural Network Potential",
+      "authors": [
+        "M. Neumann",
+        "James Gin",
+        "Bradley J. Rhodes",
+        "Steven P. Bennett",
+        "Zhiyi Li",
+        "Hitarth Choubisa",
+        "Arthur Hussey",
+        "Jonathan Godwin"
+      ],
+      "publication_year": 2024,
+      "venue": "arXiv (Cornell University)",
+      "community": "Orbital Materials",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2410.22570",
+        "GitHub": "https://github.com/orbital-materials/orb-models"
+      },
+      "cited_by_count": 35,
+      "citation_history": [
+        {
+          "year": 2024,
+          "citations": 1
+        },
+        {
+          "year": 2025,
+          "citations": 24
+        },
+        {
+          "year": 2026,
+          "citations": 10
+        }
+      ],
+      "last_updated": "2026-04-04T19:53:01.823761"
+    },
+    {
+      "paper_id": "ORB-v2",
+      "project_id": "ORB",
+      "doi": "https://doi.org/10.48550/arXiv.2410.22570",
+      "openalex_id": "https://openalex.org/W4404342379",
+      "title": "Orb: A Fast, Scalable Neural Network Potential",
+      "authors": [
+        "M. Neumann",
+        "James Gin",
+        "Bradley J. Rhodes",
+        "Steven P. Bennett",
+        "Zhiyi Li",
+        "Hitarth Choubisa",
+        "Arthur Hussey",
+        "Jonathan Godwin"
+      ],
+      "publication_year": 2024,
+      "venue": "arXiv (Cornell University)",
+      "community": "Orbital Materials",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2410.22570",
+        "GitHub": "https://github.com/orbital-materials/orb-models"
+      },
+      "cited_by_count": 35,
+      "citation_history": [
+        {
+          "year": 2024,
+          "citations": 1
+        },
+        {
+          "year": 2025,
+          "citations": 24
+        },
+        {
+          "year": 2026,
+          "citations": 10
+        }
+      ],
+      "last_updated": "2026-04-04T19:53:01.823761"
+    },
+    {
+      "paper_id": "Equiformer-V2",
+      "project_id": "Equiformer",
+      "doi": "https://doi.org/10.48550/arXiv.2502.12147",
+      "openalex_id": "https://openalex.org/W4407759102",
+      "title": "Learning Smooth and Expressive Interatomic Potentials for Physical Property Prediction",
+      "authors": [
+        "Xiang Fu",
+        "Brandon M. Wood",
+        "Luis Barroso-Luque",
+        "Daniel S. Levine",
+        "Meng Gao",
+        "Misko Dzamba",
+        "C. Lawrence Zitnick"
+      ],
+      "publication_year": 2025,
+      "venue": "ArXiv.org",
+      "community": "Meta FAIR",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2502.12147",
+        "GitHub": "https://github.com/facebookresearch/fairchem"
+      },
+      "cited_by_count": 24,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 18
+        },
+        {
+          "year": 2026,
+          "citations": 6
+        }
+      ],
+      "last_updated": "2026-04-04T20:21:02.386435"
+    },
+    {
+      "paper_id": "UMA-0",
+      "project_id": "UMA",
+      "doi": "https://doi.org/10.48550/arXiv.2506.23971",
+      "openalex_id": "https://openalex.org/W4416524231",
+      "title": "UMA: A Family of Universal Models for Atoms",
+      "authors": [
+        "Brandon M. Wood",
+        "Misko Dzamba",
+        "Xiang Fu",
+        "Meng Gao",
+        "Muhammed Shuaibi",
+        "Luis Barroso-Luque",
+        "Kareem Abdelmaqsoud",
+        "Vahe Gharakhanyan",
+        "John R. Kitchin",
+        "Daniel S. Levine",
+        "Kyle Michel",
+        "Anuroop Sriram",
+        "Taco Cohen",
+        "Abhishek Das",
+        "Ammar Rizvi",
+        "Sushree Jagriti Sahoo",
+        "Zachary W. Ulissi",
+        "C. Lawrence Zitnick"
+      ],
+      "publication_year": 2025,
+      "venue": "ArXiv.org",
+      "community": "Meta FAIR",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2506.23971",
+        "Website": "https://fair-chem.github.io/uma/"
+      },
+      "cited_by_count": 22,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 6
+        },
+        {
+          "year": 2026,
+          "citations": 16
+        }
+      ],
+      "last_updated": "2026-04-04T20:21:08.169986"
+    },
+    {
+      "paper_id": "UMA-0",
+      "project_id": "UMA",
+      "doi": "https://doi.org/10.48550/arXiv.2506.23971",
+      "openalex_id": "https://openalex.org/W4416524231",
+      "title": "UMA: A Family of Universal Models for Atoms",
+      "authors": [
+        "Brandon M. Wood",
+        "Misko Dzamba",
+        "Xiang Fu",
+        "Meng Gao",
+        "Muhammed Shuaibi",
+        "Luis Barroso-Luque",
+        "Kareem Abdelmaqsoud",
+        "Vahe Gharakhanyan",
+        "John R. Kitchin",
+        "Daniel S. Levine",
+        "Kyle Michel",
+        "Anuroop Sriram",
+        "Taco Cohen",
+        "Abhishek Das",
+        "Ammar Rizvi",
+        "Sushree Jagriti Sahoo",
+        "Zachary W. Ulissi",
+        "C. Lawrence Zitnick"
+      ],
+      "publication_year": 2025,
+      "venue": "ArXiv.org",
+      "community": "Meta FAIR",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2506.23971",
+        "Website": "https://fair-chem.github.io/uma/"
+      },
+      "cited_by_count": 22,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 6
+        },
+        {
+          "year": 2026,
+          "citations": 16
+        }
+      ],
+      "last_updated": "2026-04-04T20:21:08.169986"
+    },
+    {
+      "paper_id": "LES-1",
+      "project_id": "LES",
+      "doi": "https://doi.org/10.1038/s41467-025-63852-x",
+      "openalex_id": "https://openalex.org/W4414687828",
+      "title": "Machine learning of charges and long-range interactions from energies and forces",
+      "authors": [
+        "David A. King",
+        "Dong-Jin Kim",
+        "Peichen Zhong",
+        "Bingqing Cheng"
+      ],
+      "publication_year": 2025,
+      "venue": "Nature Communications",
+      "community": "independent",
+      "category": "extension",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2412.15455",
+        "GitHub": "https://github.com/ChengUCB/les"
+      },
+      "cited_by_count": 21,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 7
+        },
+        {
+          "year": 2026,
+          "citations": 14
+        }
+      ],
+      "last_updated": "2026-04-04T19:06:23.017456"
+    },
+    {
+      "paper_id": "PET-MAT-1",
+      "project_id": "PET-MAD",
+      "doi": "https://doi.org/10.1038/s41467-025-65662-7",
+      "openalex_id": "https://openalex.org/W4416758539",
+      "title": "PET-MAD as a lightweight universal interatomic potential for advanced materials modeling",
+      "authors": [
+        "Arslan Mazitov",
+        "Filippo Bigi",
+        "Matthias Kellner",
+        "Paolo Pegolo",
+        "Davide Tisi",
+        "Guillaume Fraux",
+        "Sergey N. Pozdnyakov",
+        "Philip Loche",
+        "Michele Ceriotti"
+      ],
+      "publication_year": 2025,
+      "venue": "Nature Communications",
+      "community": "COSMO",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2503.14118",
+        "GitHub": "https://github.com/lab-cosmo/upet"
+      },
+      "cited_by_count": 21,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 2
+        },
+        {
+          "year": 2026,
+          "citations": 19
+        }
+      ],
+      "last_updated": "2026-04-04T19:06:26.769072"
+    },
+    {
+      "paper_id": "ORB-v3",
+      "project_id": "ORB",
+      "doi": "https://doi.org/10.48550/arXiv.2504.06231",
+      "openalex_id": "https://openalex.org/W4414791947",
+      "title": "Orb-v3: atomistic simulation at scale",
+      "authors": [
+        "Bradley J. Rhodes",
+        "Sander Vandenhaute",
+        "Vaidotas Šimkus",
+        "James Gin",
+        "Jonathan Godwin",
+        "Tim Duignan",
+        "M. Neumann"
+      ],
+      "publication_year": 2025,
+      "venue": "ArXiv.org",
+      "community": "Orbital Materials",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2504.06231",
+        "GitHub": "https://github.com/orbital-materials/orb-models"
+      },
+      "cited_by_count": 16,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 8
+        },
+        {
+          "year": 2026,
+          "citations": 8
+        }
+      ],
+      "last_updated": "2026-04-04T19:53:02.762246"
+    },
+    {
+      "paper_id": "ORB-v3",
+      "project_id": "ORB",
+      "doi": "https://doi.org/10.48550/arXiv.2504.06231",
+      "openalex_id": "https://openalex.org/W4414791947",
+      "title": "Orb-v3: atomistic simulation at scale",
+      "authors": [
+        "Bradley J. Rhodes",
+        "Sander Vandenhaute",
+        "Vaidotas Šimkus",
+        "James Gin",
+        "Jonathan Godwin",
+        "Tim Duignan",
+        "M. Neumann"
+      ],
+      "publication_year": 2025,
+      "venue": "ArXiv.org",
+      "community": "Orbital Materials",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2504.06231",
+        "GitHub": "https://github.com/orbital-materials/orb-models"
+      },
+      "cited_by_count": 16,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 8
+        },
+        {
+          "year": 2026,
+          "citations": 8
+        }
+      ],
+      "last_updated": "2026-04-04T19:53:02.762246"
+    },
+    {
+      "paper_id": "PET-0",
+      "project_id": "PET",
+      "doi": "https://doi.org/10.48550/arXiv.2305.19302",
+      "openalex_id": "https://openalex.org/W4379086724",
+      "title": "Smooth, Exact Rotational Symmetrization for Deep Learning on Point Clouds",
+      "authors": [
+        "Sergey N. Pozdnyakov",
+        "Michele Ceriotti"
+      ],
+      "publication_year": 2023,
+      "venue": "arXiv (Cornell University)",
+      "community": "COSMO",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://doi.org/10.48550/arXiv.2305.19302",
+        "GitHub": "https://github.com/lab-cosmo/upet"
+      },
+      "cited_by_count": 15,
+      "citation_history": [
+        {
+          "year": 2022,
+          "citations": 1
+        },
+        {
+          "year": 2023,
+          "citations": 5
+        },
+        {
+          "year": 2024,
+          "citations": 6
+        },
+        {
+          "year": 2025,
+          "citations": 3
+        }
+      ],
+      "last_updated": "2026-04-04T19:30:48.235199"
+    },
+    {
+      "paper_id": "NEP-1",
+      "project_id": "NEP",
+      "doi": "https://doi.org/10.1103/PhysRevB.104.104309",
+      "openalex_id": "https://openalex.org/W3184319136",
+      "title": "Neuroevolution machine learning potentials: Combining high accuracy and low cost in atomistic simulations and application to heat transport",
+      "authors": [
+        "Zheyong Fan",
+        "Zezhu Zeng",
+        "Cunzhi Zhang",
+        "Yanzhou Wang",
+        "Keke Song",
+        "Haikuan Dong",
+        "Yue Chen",
+        "Tapio Ala-Nissilä"
+      ],
+      "publication_year": 2021,
+      "venue": "Physical review. B./Physical review. B",
+      "community": "NEP",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2107.08119",
+        "GitHub": "https://github.com/brucefan1983/GPUMD"
+      },
+      "cited_by_count": 11,
+      "citation_history": [
+        {
+          "year": 2023,
+          "citations": 1
+        },
+        {
+          "year": 2024,
+          "citations": 6
+        },
+        {
+          "year": 2025,
+          "citations": 4
+        }
+      ],
+      "last_updated": "2026-04-04T19:30:43.225811"
+    },
+    {
+      "paper_id": "MatGL-0",
+      "project_id": "MatGL",
+      "doi": "https://doi.org/10.1038/s41524-025-01742-y",
+      "openalex_id": "https://openalex.org/W4412974141",
+      "title": "Materials Graph Library (MatGL), an open-source graph deep learning library for materials science and chemistry",
+      "authors": [
+        "Tsz Wai Ko",
+        "Bowen Deng",
+        "Marcel Nassar",
+        "Luis Barroso-Luque",
+        "Runze Liu",
+        "Ji Qi",
+        "Atul C. Thakur",
+        "Amiya Kanta Mishra",
+        "Eric Hsien Lung Liu",
+        "Gerbrand Ceder",
+        "Santiago Miret",
+        "Shyue Ping Ong"
+      ],
+      "publication_year": 2025,
+      "venue": "npj Computational Materials",
+      "community": "Materialyze.AI",
+      "category": "software",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2503.03837",
+        "GitHub": "https://github.com/materialyzeai/matgl"
+      },
+      "cited_by_count": 11,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 6
+        },
+        {
+          "year": 2026,
+          "citations": 5
+        }
+      ],
+      "last_updated": "2026-04-04T19:06:29.361033"
+    },
+    {
+      "paper_id": "Nequip-1",
+      "project_id": "Nequip",
+      "doi": "https://doi.org/10.48550/arXiv.2504.16068",
+      "openalex_id": "https://openalex.org/W4414644745",
+      "title": "High-performance training and inference for deep equivariant interatomic potentials",
+      "authors": [
+        "Chuin Wei Tan",
+        "Marc Descoteaux",
+        "Mit Kotak",
+        "Giovanni Iran Barreto Nascimento",
+        "Seán R. Kavanagh",
+        "Laura Zichi",
+        "M. J. Wang",
+        "Aadit Saluja",
+        "Yahan Hu",
+        "Tess Smidt",
+        "Anders Johansson",
+        "William C. Witt",
+        "Boris Kozinsky",
+        "Albert Musaelian"
+      ],
+      "publication_year": 2025,
+      "venue": "ArXiv.org",
+      "community": "mir-group",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://doi.org/10.48550/arXiv.2504.16068",
+        "GitHub": "https://github.com/mir-group/nequip"
+      },
+      "cited_by_count": 10,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 4
+        },
+        {
+          "year": 2026,
+          "citations": 6
+        }
+      ],
+      "last_updated": "2026-04-04T19:30:41.133004"
+    },
+    {
+      "paper_id": "MatPES-0",
+      "project_id": "MatPES",
+      "doi": "https://doi.org/10.48550/arXiv.2503.04070",
+      "openalex_id": "https://openalex.org/W4416112469",
+      "title": "A Foundational Potential Energy Surface Dataset for Materials",
+      "authors": [
+        "Aaron D. Kaplan",
+        "Runze Liu",
+        "Ji Qi",
+        "Tsz Wai Ko",
+        "Bowen Deng",
+        "Janosh Riebesell",
+        "Gerbrand Ceder",
+        "Kristin A. Persson",
+        "Shyue Ping Ong"
+      ],
+      "publication_year": 2025,
+      "venue": "ArXiv.org",
+      "community": "Materialyze.AI",
+      "category": "dataset",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2503.04070",
+        "GitHub": "https://github.com/materialyzeai/matpes",
+        "HuggingFace": "https://huggingface.co/datasets/mavrl/matpes",
+        "Website": "https://matpes.ai/"
+      },
+      "cited_by_count": 8,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 1
+        },
+        {
+          "year": 2026,
+          "citations": 7
+        }
+      ],
+      "last_updated": "2026-04-04T19:06:15.004554"
+    },
+    {
+      "paper_id": "LES-3",
+      "project_id": "LES",
+      "doi": "https://doi.org/10.1021/acs.jctc.5c01400",
+      "openalex_id": "https://openalex.org/W4417191530",
+      "title": "A universal augmentation framework for long-range electrostatics in machine learning interatomic potentials",
+      "authors": [
+        "Dong-Jin Kim",
+        "Xiaoyu Wang",
+        "Santiago Vargas",
+        "Peichen Zhong",
+        "David A. King",
+        "Théo Jaffrelot Inizan",
+        "Bingqing Cheng"
+      ],
+      "publication_year": 2025,
+      "venue": "Journal of Chemical Theory and Computation",
+      "community": "independent",
+      "category": "extension",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2507.14302",
+        "GitHub": "https://github.com/ChengUCB/les"
+      },
+      "cited_by_count": 6,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 1
+        },
+        {
+          "year": 2026,
+          "citations": 5
+        }
+      ],
+      "last_updated": "2026-04-04T19:06:25.475556"
+    },
+    {
+      "paper_id": "NEP89-0",
+      "project_id": "NEP89",
+      "doi": "https://doi.org/10.48550/arXiv.2504.21286",
+      "openalex_id": "https://openalex.org/W4417522354",
+      "title": "NEP89: Universal neuroevolution potential for inorganic and organic materials across 89 elements",
+      "authors": [
+        "Ting Liang",
+        "Ke Xu",
+        "Eric Lindgren",
+        "Zherui Chen",
+        "Rui Zhao",
+        "Jiahui Liu",
+        "Esmée Berger",
+        "Bing Tang",
+        "Bohan Zhang",
+        "Yanzhou Wang",
+        "Keke Song",
+        "Penghua Ying",
+        "Nan Xu",
+        "Haikuan Dong",
+        "Shunda Chen",
+        "Paul Erhart",
+        "Zheyong Fan",
+        "Tapio Ala-Nissilä",
+        "Jianbin Xu"
+      ],
+      "publication_year": 2025,
+      "venue": "ArXiv.org",
+      "community": "NEP",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2504.21286",
+        "GitHub": "https://github.com/brucefan1983/GPUMD"
+      },
+      "cited_by_count": 6,
+      "citation_history": [
+        {
+          "year": 2026,
+          "citations": 6
+        }
+      ],
+      "last_updated": "2026-04-04T19:35:41.944209"
+    },
+    {
+      "paper_id": "MAD-1",
+      "project_id": "MAD",
+      "doi": "https://doi.org/10.1038/s41597-025-06109-y",
+      "openalex_id": "https://openalex.org/W4416466582",
+      "title": "Massive Atomic Diversity: a compact universal dataset for atomistic machine learning",
+      "authors": [
+        "Arslan Mazitov",
+        "Sofiia Chorna",
+        "Guillaume Fraux",
+        "Marnik Bercx",
+        "Giovanni Pizzi",
+        "Sandip De",
+        "Michele Ceriotti"
+      ],
+      "publication_year": 2025,
+      "venue": "Scientific Data",
+      "community": "COSMO",
+      "category": "dataset",
+      "links": {
+        "Materials Cloud": "https://archive.materialscloud.org/records/c4ene-0mv14"
+      },
+      "cited_by_count": 5,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 1
+        },
+        {
+          "year": 2026,
+          "citations": 4
+        }
+      ],
+      "last_updated": "2026-04-04T19:06:12.581601"
+    },
+    {
+      "paper_id": "OC25",
+      "project_id": "OC",
+      "doi": "https://doi.org/10.48550/arXiv.2509.17862",
+      "openalex_id": "https://openalex.org/W4415255676",
+      "title": "The Open Catalyst 2025 (OC25) Dataset and Models for Solid-Liquid Interfaces",
+      "authors": [
+        "Sushree Jagriti Sahoo",
+        "Mikael Maraschin",
+        "Daniel S. Levine",
+        "Zachary W. Ulissi",
+        "C. Lawrence Zitnick",
+        "Joel B. Varley",
+        "Joseph A. Gauthier",
+        "Nitish Govindarajan",
+        "Muhammed Shuaibi"
+      ],
+      "publication_year": 2025,
+      "venue": "ArXiv.org",
+      "community": "Meta FAIR",
+      "category": "dataset",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2509.17862",
+        "Website": "https://fair-chem.github.io/oc25/"
+      },
+      "cited_by_count": 5,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 1
+        },
+        {
+          "year": 2026,
+          "citations": 4
+        }
+      ],
+      "last_updated": "2026-04-04T20:21:06.227485"
+    },
+    {
+      "paper_id": "LES-2",
+      "project_id": "LES",
+      "doi": "https://doi.org/10.1038/s41524-025-01911-z",
+      "openalex_id": "https://openalex.org/W7116706387",
+      "title": "Machine learning interatomic potential can infer electrical response",
+      "authors": [
+        "Peichen Zhong",
+        "Dongjin Kim",
+        "Daniel S. King",
+        "Bingqing Cheng"
+      ],
+      "publication_year": 2025,
+      "venue": "npj Computational Materials",
+      "community": "independent",
+      "category": "extension",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2504.05169",
+        "GitHub": "https://github.com/ChengUCB/les"
+      },
+      "cited_by_count": 4,
+      "citation_history": [
+        {
+          "year": 2026,
+          "citations": 4
+        }
+      ],
+      "last_updated": "2026-04-04T19:06:24.158996"
+    },
+    {
+      "paper_id": "DPA3",
+      "project_id": "DP",
+      "doi": "https://doi.org/10.48550/arXiv.2506.01686",
+      "openalex_id": "https://openalex.org/W4417114399",
+      "title": "A Graph Neural Network for the Era of Large Atomistic Models",
+      "authors": [
+        "Duo Zhang",
+        "Anyang Peng",
+        "Chun Cai",
+        "Wentao Li",
+        "Yichao Zhou",
+        "Jinzhe Zeng",
+        "Mingyu Guo",
+        "Chengqian Zhang",
+        "Bowen Li",
+        "Hong Jiang",
+        "Tong Zhu",
+        "Weile Jia",
+        "Linfeng Zhang",
+        "Handong Wang"
+      ],
+      "publication_year": 2025,
+      "venue": "ArXiv.org",
+      "community": "DeepModeling",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://doi.org/10.48550/arXiv.2506.01686",
+        "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+      },
+      "cited_by_count": 2,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 1
+        },
+        {
+          "year": 2026,
+          "citations": 1
+        }
+      ],
+      "last_updated": "2026-04-04T19:30:37.110454"
+    },
+    {
+      "paper_id": "SEVENNET-2",
+      "project_id": "SEVENNET",
+      "doi": "https://doi.org/10.1038/s41467-026-70195-8",
+      "openalex_id": "https://openalex.org/W7133333646",
+      "title": "Optimizing cross-domain transfer for universal machine learning interatomic potentials",
+      "authors": [
+        "Jaesun Kim",
+        "Jinmu You",
+        "Yutack Park",
+        "Yunsung Lim",
+        "Yujin Kang",
+        "Jisu Kim",
+        "Hyejin Jeon",
+        "Suyeon Ju",
+        "Deokgi Hong",
+        "Seung Yul Lee",
+        "Saerom Choi",
+        "Yongdeok Kim",
+        "Jae Seung Lee",
+        "Seungwu Han"
+      ],
+      "publication_year": 2026,
+      "venue": "Nature Communications",
+      "community": "MDIL-SNU",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2510.11241",
+        "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
+      },
+      "cited_by_count": 2,
+      "citation_history": [
+        {
+          "year": 2026,
+          "citations": 2
+        }
+      ],
+      "last_updated": "2026-04-04T19:53:04.674830"
+    },
+    {
+      "paper_id": "GRACE-1",
+      "project_id": "GRACE",
+      "doi": "https://doi.org/10.1038/s41524-026-01979-1",
+      "openalex_id": "https://openalex.org/W7128394095",
+      "title": "Graph atomic cluster expansion for foundational machine learning interatomic potentials",
+      "authors": [
+        "Yury Lysogorskiy",
+        "Anton Bochkarev",
+        "Ralf Drautz"
+      ],
+      "publication_year": 2026,
+      "venue": "npj Computational Materials",
+      "community": "ICAMS",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2508.17936v1",
+        "GitHub": "https://github.com/ICAMS/grace-tensorpotential"
+      },
+      "cited_by_count": 2,
+      "citation_history": [
+        {
+          "year": 2026,
+          "citations": 2
+        }
+      ],
+      "last_updated": "2026-04-04T20:21:07.234177"
+    },
+    {
+      "paper_id": "SEVENNET-2",
+      "project_id": "SEVENNET",
+      "doi": "https://doi.org/10.1038/s41467-026-70195-8",
+      "openalex_id": "https://openalex.org/W7133333646",
+      "title": "Optimizing cross-domain transfer for universal machine learning interatomic potentials",
+      "authors": [
+        "Jaesun Kim",
+        "Jinmu You",
+        "Yutack Park",
+        "Yunsung Lim",
+        "Yujin Kang",
+        "Jisu Kim",
+        "Hyejin Jeon",
+        "Suyeon Ju",
+        "Deokgi Hong",
+        "Seung Yul Lee",
+        "Saerom Choi",
+        "Yongdeok Kim",
+        "Jae Seung Lee",
+        "Seungwu Han"
+      ],
+      "publication_year": 2026,
+      "venue": "Nature Communications",
+      "community": "MDIL-SNU",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2510.11241",
+        "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
+      },
+      "cited_by_count": 2,
+      "citation_history": [
+        {
+          "year": 2026,
+          "citations": 2
+        }
+      ],
+      "last_updated": "2026-04-04T19:53:04.674830"
+    },
+    {
+      "paper_id": "GRACE-1",
+      "project_id": "GRACE",
+      "doi": "https://doi.org/10.1038/s41524-026-01979-1",
+      "openalex_id": "https://openalex.org/W7128394095",
+      "title": "Graph atomic cluster expansion for foundational machine learning interatomic potentials",
+      "authors": [
+        "Yury Lysogorskiy",
+        "Anton Bochkarev",
+        "Ralf Drautz"
+      ],
+      "publication_year": 2026,
+      "venue": "npj Computational Materials",
+      "community": "ICAMS",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2508.17936v1",
+        "GitHub": "https://github.com/ICAMS/grace-tensorpotential"
+      },
+      "cited_by_count": 2,
+      "citation_history": [
+        {
+          "year": 2026,
+          "citations": 2
+        }
+      ],
+      "last_updated": "2026-04-04T20:21:07.234177"
+    },
+    {
+      "paper_id": "OMC25",
+      "project_id": "OMC",
+      "doi": "https://doi.org/10.48550/arXiv.2508.02651",
+      "openalex_id": "https://openalex.org/W4417106793",
+      "title": "Open Molecular Crystals 2025 (OMC25) Dataset and Models",
+      "authors": [
+        "Vahe Gharakhanyan",
+        "Luis Barroso-Luque",
+        "Yi Yang",
+        "Muhammed Shuaibi",
+        "Kyle Michel",
+        "Daniel S. Levine",
+        "Misko Dzamba",
+        "Xiang Fu",
+        "Meng Gao",
+        "Xingyu Liu",
+        "Haoran Ni",
+        "Keian Noori",
+        "Brandon M. Wood",
+        "Matt Uyttendaele",
+        "Arman Boromand",
+        "C. Lawrence Zitnick",
+        "Noa Marom",
+        "Zachary W. Ulissi",
+        "Anuroop Sriram"
+      ],
+      "publication_year": 2025,
+      "venue": "ArXiv.org",
+      "community": "Meta FAIR",
+      "category": "dataset",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2508.02651",
+        "Website": "https://fair-chem.github.io/omc25/"
+      },
+      "cited_by_count": 1,
+      "citation_history": [
+        {
+          "year": 2026,
+          "citations": 1
+        }
+      ],
+      "last_updated": "2026-04-04T20:21:03.370561"
+    },
+    {
+      "paper_id": "dpdata-0",
+      "project_id": "dpdata",
+      "doi": "https://doi.org/10.1021/acs.jcim.5c01767",
+      "openalex_id": "https://openalex.org/W4415356660",
+      "title": "dpdata: A Scalable Python Toolkit for Atomistic Machine Learning Data Sets",
+      "authors": [
+        "Jinzhe Zeng",
+        "Xulong Peng",
+        "Yong‐Bin Zhuang",
+        "Haidi Wang",
+        "Haidi Wang",
+        "Fengbo Yuan",
+        "Duo Zhang",
+        "Renxi Liu",
+        "Yingze Wang",
+        "Ping Tuo",
+        "Yuzhi Zhang",
+        "Yixiao Chen",
+        "Yifan Li",
+        "Cao Thang Nguyen",
+        "Jiameng Huang",
+        "Anyang Peng",
+        "Marián Rynik",
+        "Weihong Xu",
+        "Zezhong Zhang",
+        "Xuyuan Zhou",
+        "Tao Chen",
+        "Jiahao Fan",
+        "Wanrun Jiang",
+        "Bowen Li",
+        "Denan Li",
+        "Haoxi Li",
+        "Wenshuo Liang",
+        "Rundong Liao",
+        "Liping Liu",
+        "Chenxing Luo",
+        "Logan Ward",
+        "Kaiwei Wan",
+        "Junjie Wang",
+        "Pan Xiang",
+        "Chengqian Zhang",
+        "Jinchao Zhang",
+        "R. Zhou",
+        "Jiaxin Zhu",
+        "Linfeng Zhang",
+        "Handong Wang",
+        "Handong Wang"
+      ],
+      "publication_year": 2025,
+      "venue": "Journal of Chemical Information and Modeling",
+      "community": "DeepModeling",
+      "category": "extension",
+      "links": {
+        "GitHub": "https://github.com/deepmodeling/dpdata"
+      },
+      "cited_by_count": 1,
+      "citation_history": [
+        {
+          "year": 2026,
+          "citations": 1
+        }
+      ],
+      "last_updated": "2026-04-04T19:06:16.398660"
+    },
+    {
+      "paper_id": "UPET-0",
+      "project_id": "PET",
+      "doi": "https://doi.org/10.48550/arXiv.2601.16195",
+      "openalex_id": "https://openalex.org/W7125527671",
+      "title": "Pushing the limits of unconstrained machine-learned interatomic potentials",
+      "authors": [
+        "Filippo Bigi",
+        "Paolo Pegolo",
+        "Arslan Mazitov",
+        "Michele Ceriotti",
+        "Ceriotti, Michele"
+      ],
+      "publication_year": 2026,
+      "venue": "arXiv (Cornell University)",
+      "community": "COSMO",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://doi.org/10.48550/arXiv.2601.16195",
+        "GitHub": "https://github.com/lab-cosmo/upet"
+      },
+      "cited_by_count": 0,
+      "citation_history": [],
+      "last_updated": "2026-04-04T19:30:47.268481"
+    },
+    {
+      "paper_id": "QET-0",
+      "project_id": "QET",
+      "doi": "https://doi.org/10.48550/arXiv.2511.07249",
+      "openalex_id": "https://openalex.org/W4416187914",
+      "title": "A Fast, Accurate, and Reactive Equivariant Foundation Potential",
+      "authors": [
+        "Tsz Wai Ko",
+        "Ruizhao LIU",
+        "Adesh Rohan Mishra",
+        "Zihan Yu",
+        "Ji Qi",
+        "Shyue Ping Ong"
+      ],
+      "publication_year": 2025,
+      "venue": "ArXiv.org",
+      "community": "Materialyze.AI",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2511.07249",
+        "GitHub": "https://github.com/materialyzeai/matgl"
+      },
+      "cited_by_count": 0,
+      "citation_history": [],
+      "last_updated": "2026-04-04T19:29:28.830230"
+    },
+    {
+      "paper_id": "OMol25",
+      "project_id": "OMol",
+      "doi": "https://doi.org/10.48550/arXiv.2505.08762",
+      "openalex_id": "",
+      "title": "The Open Molecules 2025 (OMol25) Dataset, Evaluations, and Models",
+      "authors": [],
+      "publication_year": null,
+      "venue": "",
+      "community": "meta",
+      "category": "dataset",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2505.08762",
+        "HuggingFace": "https://huggingface.co/facebook/OMol25"
+      },
+      "cited_by_count": 0,
+      "citation_history": [],
+      "last_updated": "2026-04-04T19:06:10.484325"
+    },
+    {
+      "paper_id": "PET-MAT-1.5",
+      "project_id": "MAD",
+      "doi": "https://doi.org/10.48550/arXiv.2603.02089",
+      "openalex_id": "https://openalex.org/W7133353006",
+      "title": "High-quality, high-information dataset for universal atomistic machine learning",
+      "authors": [
+        "Cesare Malosso",
+        "Filippo Bigi",
+        "Paolo Pegolo",
+        "Joseph W. Abbott",
+        "Philip R. Loche",
+        "Mariana Rossi",
+        "Michele Ceriotti",
+        "Arslan Mazitov"
+      ],
+      "publication_year": 2026,
+      "venue": "arXiv (Cornell University)",
+      "community": "COSMO",
+      "category": "dataset",
+      "links": {
+        "arXiv": "https://doi.org/10.48550/arXiv.2603.02089",
+        "Materials Cloud": "https://archive.materialscloud.org/records/18tke-tt476"
+      },
+      "cited_by_count": 0,
+      "citation_history": [],
+      "last_updated": "2026-04-04T19:06:27.994030"
+    },
+    {
+      "paper_id": "PET-MAT-1.5",
+      "project_id": "PET-MAD",
+      "doi": "https://doi.org/10.48550/arXiv.2603.02089",
+      "openalex_id": "https://openalex.org/W7133353006",
+      "title": "High-quality, high-information dataset for universal atomistic machine learning",
+      "authors": [
+        "Cesare Malosso",
+        "Filippo Bigi",
+        "Paolo Pegolo",
+        "Joseph W. Abbott",
+        "Philip R. Loche",
+        "Mariana Rossi",
+        "Michele Ceriotti",
+        "Arslan Mazitov"
+      ],
+      "publication_year": 2026,
+      "venue": "arXiv (Cornell University)",
+      "community": "COSMO",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://doi.org/10.48550/arXiv.2603.02089",
+        "GitHub": "https://github.com/lab-cosmo/upet"
+      },
+      "cited_by_count": 0,
+      "citation_history": [],
+      "last_updated": "2026-04-04T19:06:27.994030"
+    },
+    {
+      "paper_id": "QET-0",
+      "project_id": "QET",
+      "doi": "https://doi.org/10.48550/arXiv.2511.07249",
+      "openalex_id": "https://openalex.org/W4416187914",
+      "title": "A Fast, Accurate, and Reactive Equivariant Foundation Potential",
+      "authors": [
+        "Tsz Wai Ko",
+        "Ruizhao LIU",
+        "Adesh Rohan Mishra",
+        "Zihan Yu",
+        "Ji Qi",
+        "Shyue Ping Ong"
+      ],
+      "publication_year": 2025,
+      "venue": "ArXiv.org",
+      "community": "Materialyze.AI",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2511.07249",
+        "GitHub": "https://github.com/materialyzeai/matgl"
+      },
+      "cited_by_count": 0,
+      "citation_history": [],
+      "last_updated": "2026-04-04T19:29:28.830230"
+    }
+  ]
+}

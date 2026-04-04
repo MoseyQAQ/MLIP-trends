@@ -55,4 +55,4 @@ npm run dev
 
 ## Data Source
 
-Citation data from [OpenAlex](https://openalex.org) (free, open scholarly metadata).
+Citation data from [OpenAlex](https://openalex.org) (free, open scholarly metadata)

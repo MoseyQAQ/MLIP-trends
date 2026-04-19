@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-04-12T04:51:53.166841",
+    "generated_at": "2026-04-19T04:55:48.475319",
     "total_papers": 65,
     "fetched": 64,
     "cached": 0,
@@ -126,7 +126,7 @@
         "arXiv": "https://arxiv.org/abs/1712.03641",
         "GitHub": "https://github.com/deepmodeling/deepmd-kit"
       },
-      "cited_by_count": 1920,
+      "cited_by_count": 1935,
       "citation_history": [
         {
           "year": 2018,
@@ -162,10 +162,10 @@
         },
         {
           "year": 2026,
-          "citations": 158
+          "citations": 173
         }
       ],
-      "last_updated": "2026-04-12T04:51:51.196973"
+      "last_updated": "2026-04-19T04:55:46.722342"
     },
     {
       "paper_id": "Nequip-0",
@@ -192,7 +192,7 @@
         "arXiv": "https://doi.org/10.48550/arXiv.2101.03164",
         "GitHub": "https://github.com/mir-group/nequip"
       },
-      "cited_by_count": 1555,
+      "cited_by_count": 1563,
       "citation_history": [
         {
           "year": 2021,
@@ -212,14 +212,14 @@
         },
         {
           "year": 2025,
-          "citations": 601
+          "citations": 603
         },
         {
           "year": 2026,
-          "citations": 175
+          "citations": 181
         }
       ],
-      "last_updated": "2026-04-12T04:51:30.462446"
+      "last_updated": "2026-04-19T04:55:28.068759"
     },
     {
       "paper_id": "dpgen-0",
@@ -246,7 +246,7 @@
         "arXiv": "https://arxiv.org/abs/1910.12690",
         "GitHub": "https://github.com/deepmodeling/dpgen"
       },
-      "cited_by_count": 835,
+      "cited_by_count": 841,
       "citation_history": [
         {
           "year": 2019,
@@ -278,10 +278,10 @@
         },
         {
           "year": 2026,
-          "citations": 65
+          "citations": 71
         }
       ],
-      "last_updated": "2026-04-12T04:51:43.418549"
+      "last_updated": "2026-04-19T04:55:39.100348"
     },
     {
       "paper_id": "M3GNET-0",
@@ -301,7 +301,7 @@
         "arXiv": "https://arxiv.org/abs/2202.02450",
         "GitHub": "https://github.com/materialyzeai/matgl"
       },
-      "cited_by_count": 805,
+      "cited_by_count": 809,
       "citation_history": [
         {
           "year": 2022,
@@ -317,14 +317,14 @@
         },
         {
           "year": 2025,
-          "citations": 369
+          "citations": 370
         },
         {
           "year": 2026,
-          "citations": 104
+          "citations": 107
         }
       ],
-      "last_updated": "2026-04-12T04:51:35.369369"
+      "last_updated": "2026-04-19T04:55:31.827314"
     },
     {
       "paper_id": "M3GNET-0",
@@ -344,7 +344,7 @@
         "arXiv": "https://arxiv.org/abs/2202.02450",
         "GitHub": "https://github.com/materialyzeai/matgl"
       },
-      "cited_by_count": 805,
+      "cited_by_count": 809,
       "citation_history": [
         {
           "year": 2022,
@@ -360,14 +360,14 @@
         },
         {
           "year": 2025,
-          "citations": 369
+          "citations": 370
         },
         {
           "year": 2026,
-          "citations": 104
+          "citations": 107
         }
       ],
-      "last_updated": "2026-04-12T04:51:47.142405"
+      "last_updated": "2026-04-19T04:55:42.675842"
     },
     {
       "paper_id": "CHGNET-0",
@@ -392,7 +392,7 @@
         "arXiv": "https://arxiv.org/abs/2302.14231",
         "GitHub": "https://github.com/CederGroupHub/chgnet"
       },
-      "cited_by_count": 698,
+      "cited_by_count": 705,
       "citation_history": [
         {
           "year": 2023,
@@ -408,10 +408,10 @@
         },
         {
           "year": 2026,
-          "citations": 125
+          "citations": 132
         }
       ],
-      "last_updated": "2026-04-12T04:51:35.020055"
+      "last_updated": "2026-04-19T04:55:31.506243"
     },
     {
       "paper_id": "CHGNET-0",
@@ -436,7 +436,7 @@
         "arXiv": "https://arxiv.org/abs/2302.14231",
         "GitHub": "https://github.com/CederGroupHub/chgnet"
       },
-      "cited_by_count": 698,
+      "cited_by_count": 705,
       "citation_history": [
         {
           "year": 2023,
@@ -452,10 +452,10 @@
         },
         {
           "year": 2026,
-          "citations": 125
+          "citations": 132
         }
       ],
-      "last_updated": "2026-04-12T04:51:46.759472"
+      "last_updated": "2026-04-19T04:55:42.325383"
     },
     {
       "paper_id": "OC20",
@@ -490,7 +490,7 @@
         "arXiv": "https://arxiv.org/abs/2010.09990",
         "Website": "https://fair-chem.github.io/oc20/"
       },
-      "cited_by_count": 677,
+      "cited_by_count": 683,
       "citation_history": [
         {
           "year": 2020,
@@ -514,14 +514,14 @@
         },
         {
           "year": 2025,
-          "citations": 197
+          "citations": 198
         },
         {
           "year": 2026,
-          "citations": 74
+          "citations": 79
         }
       ],
-      "last_updated": "2026-04-12T04:51:41.818312"
+      "last_updated": "2026-04-19T04:55:37.605766"
     },
     {
       "paper_id": "Allegro-0",
@@ -546,7 +546,7 @@
         "arXiv": "https://doi.org/10.48550/arXiv.2204.05249",
         "GitHub": "https://github.com/mir-group/allegro"
       },
-      "cited_by_count": 579,
+      "cited_by_count": 583,
       "citation_history": [
         {
           "year": 2022,
@@ -562,14 +562,14 @@
         },
         {
           "year": 2025,
-          "citations": 236
+          "citations": 238
         },
         {
           "year": 2026,
-          "citations": 72
+          "citations": 74
         }
       ],
-      "last_updated": "2026-04-12T04:51:31.377013"
+      "last_updated": "2026-04-19T04:55:28.754191"
     },
     {
       "paper_id": "DeepMD-kit-v2",
@@ -634,7 +634,7 @@
         "arXiv": "https://arxiv.org/abs/2304.09409",
         "GitHub": "https://github.com/deepmodeling/deepmd-kit"
       },
-      "cited_by_count": 485,
+      "cited_by_count": 491,
       "citation_history": [
         {
           "year": 2023,
@@ -650,10 +650,10 @@
         },
         {
           "year": 2026,
-          "citations": 66
+          "citations": 72
         }
       ],
-      "last_updated": "2026-04-12T04:51:51.651463"
+      "last_updated": "2026-04-19T04:55:47.160650"
     },
     {
       "paper_id": "NEP-3",
@@ -691,7 +691,7 @@
         "arXiv": "https://arxiv.org/abs/2205.10046",
         "GitHub": "https://github.com/brucefan1983/GPUMD"
       },
-      "cited_by_count": 375,
+      "cited_by_count": 379,
       "citation_history": [
         {
           "year": 2022,
@@ -711,10 +711,10 @@
         },
         {
           "year": 2026,
-          "citations": 62
+          "citations": 66
         }
       ],
-      "last_updated": "2026-04-12T04:51:32.736915"
+      "last_updated": "2026-04-19T04:55:29.762562"
     },
     {
       "paper_id": "GPUMD-1.0",
@@ -752,7 +752,7 @@
         "arXiv": "https://arxiv.org/abs/2205.10046",
         "GitHub": "https://github.com/brucefan1983/GPUMD"
       },
-      "cited_by_count": 375,
+      "cited_by_count": 379,
       "citation_history": [
         {
           "year": 2022,
@@ -772,10 +772,10 @@
         },
         {
           "year": 2026,
-          "citations": 62
+          "citations": 66
         }
       ],
-      "last_updated": "2026-04-12T04:51:52.568542"
+      "last_updated": "2026-04-19T04:55:47.896695"
     },
     {
       "paper_id": "MACE-1",
@@ -798,7 +798,7 @@
         "arXiv": "https://doi.org/10.48550/arXiv.2206.07697",
         "GitHub": "https://github.com/ACEsuit/mace"
       },
-      "cited_by_count": 271,
+      "cited_by_count": 272,
       "citation_history": [
         {
           "year": 2022,
@@ -818,10 +818,10 @@
         },
         {
           "year": 2026,
-          "citations": 16
+          "citations": 17
         }
       ],
-      "last_updated": "2026-04-12T04:51:29.990261"
+      "last_updated": "2026-04-19T04:55:27.704890"
     },
     {
       "paper_id": "OC22",
@@ -856,7 +856,7 @@
         "arXiv": "https://arxiv.org/abs/2206.08917",
         "Website": "https://fair-chem.github.io/oc22/"
       },
-      "cited_by_count": 270,
+      "cited_by_count": 272,
       "citation_history": [
         {
           "year": 2022,
@@ -872,14 +872,14 @@
         },
         {
           "year": 2025,
-          "citations": 110
+          "citations": 111
         },
         {
           "year": 2026,
-          "citations": 46
+          "citations": 47
         }
       ],
-      "last_updated": "2026-04-12T04:51:42.192063"
+      "last_updated": "2026-04-19T04:55:37.972346"
     },
     {
       "paper_id": "DPLR",
@@ -903,7 +903,7 @@
         "arXiv": "https://doi.org/10.48550/arXiv.2112.13327",
         "GitHub": "https://github.com/deepmodeling/deepmd-kit"
       },
-      "cited_by_count": 208,
+      "cited_by_count": 211,
       "citation_history": [
         {
           "year": 2022,
@@ -923,10 +923,10 @@
         },
         {
           "year": 2026,
-          "citations": 15
+          "citations": 18
         }
       ],
-      "last_updated": "2026-04-12T04:51:43.802031"
+      "last_updated": "2026-04-19T04:55:39.456090"
     },
     {
       "paper_id": "SEVENNET-0",
@@ -948,7 +948,7 @@
         "arXiv": "https://arxiv.org/abs/2402.03789",
         "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
       },
-      "cited_by_count": 168,
+      "cited_by_count": 170,
       "citation_history": [
         {
           "year": 2024,
@@ -960,10 +960,10 @@
         },
         {
           "year": 2026,
-          "citations": 42
+          "citations": 44
         }
       ],
-      "last_updated": "2026-04-12T04:51:36.767257"
+      "last_updated": "2026-04-19T04:55:33.100400"
     },
     {
       "paper_id": "DeepPot-SE",
@@ -1026,7 +1026,7 @@
           "citations": 1
         }
       ],
-      "last_updated": "2026-04-12T04:51:27.788715"
+      "last_updated": "2026-04-19T04:55:25.843052"
     },
     {
       "paper_id": "NEP-4",
@@ -1072,7 +1072,7 @@
         "arXiv": "https://arxiv.org/abs/2311.04732",
         "GitHub": "https://github.com/brucefan1983/GPUMD"
       },
-      "cited_by_count": 138,
+      "cited_by_count": 141,
       "citation_history": [
         {
           "year": 2024,
@@ -1084,10 +1084,10 @@
         },
         {
           "year": 2026,
-          "citations": 32
+          "citations": 35
         }
       ],
-      "last_updated": "2026-04-12T04:51:33.165021"
+      "last_updated": "2026-04-19T04:55:30.221081"
     },
     {
       "paper_id": "NEP-2",
@@ -1129,7 +1129,7 @@
           "citations": 12
         }
       ],
-      "last_updated": "2026-04-12T04:51:32.120705"
+      "last_updated": "2026-04-19T04:55:29.397061"
     },
     {
       "paper_id": "DPA2",
@@ -1190,7 +1190,7 @@
         "arXiv": "https://arxiv.org/abs/2312.15492",
         "GitHub": "https://github.com/deepmodeling/deepmd-kit"
       },
-      "cited_by_count": 108,
+      "cited_by_count": 109,
       "citation_history": [
         {
           "year": 2024,
@@ -1202,10 +1202,10 @@
         },
         {
           "year": 2026,
-          "citations": 22
+          "citations": 23
         }
       ],
-      "last_updated": "2026-04-12T04:51:28.842461"
+      "last_updated": "2026-04-19T04:55:26.531359"
     },
     {
       "paper_id": "DPRc",
@@ -1253,7 +1253,7 @@
           "citations": 10
         }
       ],
-      "last_updated": "2026-04-12T04:51:44.170364"
+      "last_updated": "2026-04-19T04:55:39.803517"
     },
     {
       "paper_id": "MACE-0",
@@ -1303,7 +1303,7 @@
           "citations": 2
         }
       ],
-      "last_updated": "2026-04-12T04:51:29.616538"
+      "last_updated": "2026-04-19T04:55:27.263475"
     },
     {
       "paper_id": "DPA1",
@@ -1343,7 +1343,7 @@
           "citations": 18
         }
       ],
-      "last_updated": "2026-04-12T04:51:28.152379"
+      "last_updated": "2026-04-19T04:55:26.174476"
     },
     {
       "paper_id": "OMat24",
@@ -1370,7 +1370,7 @@
         "arXiv": "https://doi.org/10.48550/arXiv.2410.12771",
         "HuggingFace": "https://huggingface.co/datasets/facebook/OMAT24"
       },
-      "cited_by_count": 82,
+      "cited_by_count": 83,
       "citation_history": [
         {
           "year": 2024,
@@ -1382,10 +1382,10 @@
         },
         {
           "year": 2026,
-          "citations": 24
+          "citations": 25
         }
       ],
-      "last_updated": "2026-04-12T04:51:39.808930"
+      "last_updated": "2026-04-19T04:55:35.756877"
     },
     {
       "paper_id": "Equiformer-V2",
@@ -1430,7 +1430,7 @@
           "citations": 8
         }
       ],
-      "last_updated": "2026-04-12T04:51:38.959664"
+      "last_updated": "2026-04-19T04:55:34.995746"
     },
     {
       "paper_id": "MATTERSIM-0",
@@ -1470,7 +1470,7 @@
         "arXiv": "https://arxiv.org/abs/2405.04967",
         "Website": "https://github.com/microsoft/mattersim"
       },
-      "cited_by_count": 79,
+      "cited_by_count": 80,
       "citation_history": [
         {
           "year": 2024,
@@ -1482,10 +1482,46 @@
         },
         {
           "year": 2026,
-          "citations": 23
+          "citations": 24
         }
       ],
-      "last_updated": "2026-04-12T04:51:50.451272"
+      "last_updated": "2026-04-19T04:55:45.994050"
+    },
+    {
+      "paper_id": "GRACE-0",
+      "project_id": "GRACE",
+      "doi": "https://doi.org/10.1103/PhysRevX.14.021036",
+      "openalex_id": "https://openalex.org/W4399303478",
+      "title": "Graph Atomic Cluster Expansion for Semilocal Interactions beyond Equivariant Message Passing",
+      "authors": [
+        "Anton Bochkarev",
+        "Yury Lysogorskiy",
+        "Ralf Drautz"
+      ],
+      "publication_year": 2024,
+      "venue": "Physical Review X",
+      "community": "ICAMS",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2311.16326",
+        "GitHub": "https://github.com/ICAMS/grace-tensorpotential"
+      },
+      "cited_by_count": 59,
+      "citation_history": [
+        {
+          "year": 2024,
+          "citations": 7
+        },
+        {
+          "year": 2025,
+          "citations": 37
+        },
+        {
+          "year": 2026,
+          "citations": 15
+        }
+      ],
+      "last_updated": "2026-04-19T04:55:34.034918"
     },
     {
       "paper_id": "SEVENNET-1",
@@ -1521,43 +1557,7 @@
           "citations": 25
         }
       ],
-      "last_updated": "2026-04-12T04:51:37.103413"
-    },
-    {
-      "paper_id": "GRACE-0",
-      "project_id": "GRACE",
-      "doi": "https://doi.org/10.1103/PhysRevX.14.021036",
-      "openalex_id": "https://openalex.org/W4399303478",
-      "title": "Graph Atomic Cluster Expansion for Semilocal Interactions beyond Equivariant Message Passing",
-      "authors": [
-        "Anton Bochkarev",
-        "Yury Lysogorskiy",
-        "Ralf Drautz"
-      ],
-      "publication_year": 2024,
-      "venue": "Physical Review X",
-      "community": "ICAMS",
-      "category": "architecture",
-      "links": {
-        "arXiv": "https://arxiv.org/abs/2311.16326",
-        "GitHub": "https://github.com/ICAMS/grace-tensorpotential"
-      },
-      "cited_by_count": 58,
-      "citation_history": [
-        {
-          "year": 2024,
-          "citations": 7
-        },
-        {
-          "year": 2025,
-          "citations": 37
-        },
-        {
-          "year": 2026,
-          "citations": 14
-        }
-      ],
-      "last_updated": "2026-04-12T04:51:37.811779"
+      "last_updated": "2026-04-19T04:55:33.410935"
     },
     {
       "paper_id": "SEVENNET-1",
@@ -1593,7 +1593,7 @@
           "citations": 25
         }
       ],
-      "last_updated": "2026-04-12T04:51:48.890466"
+      "last_updated": "2026-04-19T04:55:44.540902"
     },
     {
       "paper_id": "LES-0",
@@ -1612,7 +1612,7 @@
         "arXiv": "https://arxiv.org/abs/2408.15165",
         "GitHub": "https://github.com/les-group/les"
       },
-      "cited_by_count": 53,
+      "cited_by_count": 54,
       "citation_history": [
         {
           "year": 2025,
@@ -1620,10 +1620,93 @@
         },
         {
           "year": 2026,
-          "citations": 26
+          "citations": 27
         }
       ],
-      "last_updated": "2026-04-12T04:51:44.476319"
+      "last_updated": "2026-04-19T04:55:40.159717"
+    },
+    {
+      "paper_id": "GPUMD-4.0",
+      "project_id": "NEP",
+      "doi": "https://doi.org/10.1002/mgea.70028",
+      "openalex_id": "https://openalex.org/W4412881701",
+      "title": "GPUMD 4.0: A high-performance molecular dynamics package for versatile materials simulations with machine-learned potentials",
+      "authors": [
+        "Ke Xu",
+        "H. Bu",
+        "Shuning Pan",
+        "Eric Lindgren",
+        "Yong-Chao Wu",
+        "Yong Wang",
+        "Jiahui Liu",
+        "Keke Song",
+        "Bin Xu",
+        "Yifan Li",
+        "Tobias Hainer",
+        "L.A. Svensson",
+        "Julia Wiktor",
+        "Rui Zhao",
+        "Hongfu Huang",
+        "Cheng Qian",
+        "Shuo Zhang",
+        "Zezhu Zeng",
+        "Bohan Zhang",
+        "Bing Tang",
+        "Yang Xiao",
+        "Zihan Yan",
+        "Jiuyang Shi",
+        "Zhixin Liang",
+        "Junjie Wang",
+        "Ting Liang",
+        "Shuo Cao",
+        "Yanzhou Wang",
+        "Penghua Ying",
+        "Nan Xu",
+        "Chengbing Chen",
+        "Yuwen Zhang",
+        "Zherui Chen",
+        "Xin Wu",
+        "Wenwu Jiang",
+        "Esmée Berger",
+        "Yanlong Li",
+        "Shunda Chen",
+        "Alexander J. Gabourie",
+        "Haikuan Dong",
+        "Shiyun Xiong",
+        "Ning Wei",
+        "Yue Chen",
+        "Jianbin Xu",
+        "Feng Ding",
+        "Zhimei Sun",
+        "Tapio Ala-Nissilä",
+        "Ari Harju",
+        "Jin‐Cheng Zheng",
+        "Pengfei Guan",
+        "Paul Erhart",
+        "Jian Sun",
+        "Wengen Ouyang",
+        "Yanjing Su",
+        "Zheyong Fan"
+      ],
+      "publication_year": 2025,
+      "venue": "Materials Genome Engineering Advances",
+      "community": "NEP",
+      "category": "software",
+      "links": {
+        "GitHub": "https://github.com/brucefan1983/GPUMD"
+      },
+      "cited_by_count": 54,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 19
+        },
+        {
+          "year": 2026,
+          "citations": 35
+        }
+      ],
+      "last_updated": "2026-04-19T04:55:48.325134"
     },
     {
       "paper_id": "DeepMD-kit-v3",
@@ -1699,7 +1782,7 @@
           "citations": 25
         }
       ],
-      "last_updated": "2026-04-12T04:51:52.121337"
+      "last_updated": "2026-04-19T04:55:47.550414"
     },
     {
       "paper_id": "CACE-0",
@@ -1718,7 +1801,7 @@
         "arXiv": "https://arxiv.org/abs/2402.07472",
         "GitHub": "https://github.com/BingqingCheng/cace"
       },
-      "cited_by_count": 51,
+      "cited_by_count": 52,
       "citation_history": [
         {
           "year": 2024,
@@ -1730,93 +1813,10 @@
         },
         {
           "year": 2026,
-          "citations": 16
+          "citations": 17
         }
       ],
-      "last_updated": "2026-04-12T04:51:33.635529"
-    },
-    {
-      "paper_id": "GPUMD-4.0",
-      "project_id": "NEP",
-      "doi": "https://doi.org/10.1002/mgea.70028",
-      "openalex_id": "https://openalex.org/W4412881701",
-      "title": "GPUMD 4.0: A high-performance molecular dynamics package for versatile materials simulations with machine-learned potentials",
-      "authors": [
-        "Ke Xu",
-        "H. Bu",
-        "Shuning Pan",
-        "Eric Lindgren",
-        "Yong-Chao Wu",
-        "Yong Wang",
-        "Jiahui Liu",
-        "Keke Song",
-        "Bin Xu",
-        "Yifan Li",
-        "Tobias Hainer",
-        "L.A. Svensson",
-        "Julia Wiktor",
-        "Rui Zhao",
-        "Hongfu Huang",
-        "Cheng Qian",
-        "Shuo Zhang",
-        "Zezhu Zeng",
-        "Bohan Zhang",
-        "Bing Tang",
-        "Yang Xiao",
-        "Zihan Yan",
-        "Jiuyang Shi",
-        "Zhixin Liang",
-        "Junjie Wang",
-        "Ting Liang",
-        "Shuo Cao",
-        "Yanzhou Wang",
-        "Penghua Ying",
-        "Nan Xu",
-        "Chengbing Chen",
-        "Yuwen Zhang",
-        "Zherui Chen",
-        "Xin Wu",
-        "Wenwu Jiang",
-        "Esmée Berger",
-        "Yanlong Li",
-        "Shunda Chen",
-        "Alexander J. Gabourie",
-        "Haikuan Dong",
-        "Shiyun Xiong",
-        "Ning Wei",
-        "Yue Chen",
-        "Jianbin Xu",
-        "Feng Ding",
-        "Zhimei Sun",
-        "Tapio Ala-Nissilä",
-        "Ari Harju",
-        "Jin‐Cheng Zheng",
-        "Pengfei Guan",
-        "Paul Erhart",
-        "Jian Sun",
-        "Wengen Ouyang",
-        "Yanjing Su",
-        "Zheyong Fan"
-      ],
-      "publication_year": 2025,
-      "venue": "Materials Genome Engineering Advances",
-      "community": "NEP",
-      "category": "software",
-      "links": {
-        "GitHub": "https://github.com/brucefan1983/GPUMD"
-      },
-      "cited_by_count": 51,
-      "citation_history": [
-        {
-          "year": 2025,
-          "citations": 19
-        },
-        {
-          "year": 2026,
-          "citations": 32
-        }
-      ],
-      "last_updated": "2026-04-12T04:51:53.016659"
+      "last_updated": "2026-04-19T04:55:30.547600"
     },
     {
       "paper_id": "ORB-v2",
@@ -1842,7 +1842,7 @@
         "arXiv": "https://arxiv.org/abs/2410.22570",
         "GitHub": "https://github.com/orbital-materials/orb-models"
       },
-      "cited_by_count": 36,
+      "cited_by_count": 37,
       "citation_history": [
         {
           "year": 2024,
@@ -1854,10 +1854,10 @@
         },
         {
           "year": 2026,
-          "citations": 11
+          "citations": 12
         }
       ],
-      "last_updated": "2026-04-12T04:51:36.036429"
+      "last_updated": "2026-04-19T04:55:32.462048"
     },
     {
       "paper_id": "ORB-v2",
@@ -1883,7 +1883,7 @@
         "arXiv": "https://arxiv.org/abs/2410.22570",
         "GitHub": "https://github.com/orbital-materials/orb-models"
       },
-      "cited_by_count": 36,
+      "cited_by_count": 37,
       "citation_history": [
         {
           "year": 2024,
@@ -1895,10 +1895,10 @@
         },
         {
           "year": 2026,
-          "citations": 11
+          "citations": 12
         }
       ],
-      "last_updated": "2026-04-12T04:51:48.194619"
+      "last_updated": "2026-04-19T04:55:43.815800"
     },
     {
       "paper_id": "Equiformer-V2",
@@ -1923,7 +1923,7 @@
         "arXiv": "https://arxiv.org/abs/2502.12147",
         "GitHub": "https://github.com/facebookresearch/fairchem"
       },
-      "cited_by_count": 25,
+      "cited_by_count": 26,
       "citation_history": [
         {
           "year": 2025,
@@ -1931,10 +1931,43 @@
         },
         {
           "year": 2026,
-          "citations": 7
+          "citations": 8
         }
       ],
-      "last_updated": "2026-04-12T04:51:39.295431"
+      "last_updated": "2026-04-19T04:55:35.283773"
+    },
+    {
+      "paper_id": "LES-1",
+      "project_id": "LES",
+      "doi": "https://doi.org/10.1038/s41467-025-63852-x",
+      "openalex_id": "https://openalex.org/W4414687828",
+      "title": "Machine learning of charges and long-range interactions from energies and forces",
+      "authors": [
+        "David A. King",
+        "Dong-Jin Kim",
+        "Peichen Zhong",
+        "Bingqing Cheng"
+      ],
+      "publication_year": 2025,
+      "venue": "Nature Communications",
+      "community": "independent",
+      "category": "extension",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2412.15455",
+        "GitHub": "https://github.com/ChengUCB/les"
+      },
+      "cited_by_count": 24,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 7
+        },
+        {
+          "year": 2026,
+          "citations": 17
+        }
+      ],
+      "last_updated": "2026-04-19T04:55:40.549355"
     },
     {
       "paper_id": "UMA-0",
@@ -1981,40 +2014,7 @@
           "citations": 17
         }
       ],
-      "last_updated": "2026-04-12T04:51:38.579251"
-    },
-    {
-      "paper_id": "LES-1",
-      "project_id": "LES",
-      "doi": "https://doi.org/10.1038/s41467-025-63852-x",
-      "openalex_id": "https://openalex.org/W4414687828",
-      "title": "Machine learning of charges and long-range interactions from energies and forces",
-      "authors": [
-        "David A. King",
-        "Dong-Jin Kim",
-        "Peichen Zhong",
-        "Bingqing Cheng"
-      ],
-      "publication_year": 2025,
-      "venue": "Nature Communications",
-      "community": "independent",
-      "category": "extension",
-      "links": {
-        "arXiv": "https://arxiv.org/abs/2412.15455",
-        "GitHub": "https://github.com/ChengUCB/les"
-      },
-      "cited_by_count": 23,
-      "citation_history": [
-        {
-          "year": 2025,
-          "citations": 7
-        },
-        {
-          "year": 2026,
-          "citations": 16
-        }
-      ],
-      "last_updated": "2026-04-12T04:51:44.845811"
+      "last_updated": "2026-04-19T04:55:34.675771"
     },
     {
       "paper_id": "UMA-0",
@@ -2061,7 +2061,7 @@
           "citations": 17
         }
       ],
-      "last_updated": "2026-04-12T04:51:50.072644"
+      "last_updated": "2026-04-19T04:55:45.632522"
     },
     {
       "paper_id": "PET-MAT-1",
@@ -2088,18 +2088,18 @@
         "arXiv": "https://arxiv.org/abs/2503.14118",
         "GitHub": "https://github.com/lab-cosmo/upet"
       },
-      "cited_by_count": 21,
+      "cited_by_count": 22,
       "citation_history": [
         {
           "year": 2025,
-          "citations": 2
+          "citations": 3
         },
         {
           "year": 2026,
           "citations": 19
         }
       ],
-      "last_updated": "2026-04-12T04:51:45.978160"
+      "last_updated": "2026-04-19T04:55:41.640125"
     },
     {
       "paper_id": "ORB-v3",
@@ -2124,7 +2124,7 @@
         "arXiv": "https://arxiv.org/abs/2504.06231",
         "GitHub": "https://github.com/orbital-materials/orb-models"
       },
-      "cited_by_count": 17,
+      "cited_by_count": 18,
       "citation_history": [
         {
           "year": 2025,
@@ -2132,10 +2132,10 @@
         },
         {
           "year": 2026,
-          "citations": 9
+          "citations": 10
         }
       ],
-      "last_updated": "2026-04-12T04:51:36.402244"
+      "last_updated": "2026-04-19T04:55:32.776912"
     },
     {
       "paper_id": "ORB-v3",
@@ -2160,7 +2160,7 @@
         "arXiv": "https://arxiv.org/abs/2504.06231",
         "GitHub": "https://github.com/orbital-materials/orb-models"
       },
-      "cited_by_count": 17,
+      "cited_by_count": 18,
       "citation_history": [
         {
           "year": 2025,
@@ -2168,10 +2168,10 @@
         },
         {
           "year": 2026,
-          "citations": 9
+          "citations": 10
         }
       ],
-      "last_updated": "2026-04-12T04:51:48.505843"
+      "last_updated": "2026-04-19T04:55:44.179390"
     },
     {
       "paper_id": "PET-0",
@@ -2210,7 +2210,7 @@
           "citations": 3
         }
       ],
-      "last_updated": "2026-04-12T04:51:34.477966"
+      "last_updated": "2026-04-19T04:55:31.187558"
     },
     {
       "paper_id": "MatGL-0",
@@ -2251,7 +2251,7 @@
           "citations": 8
         }
       ],
-      "last_updated": "2026-04-12T04:51:50.830408"
+      "last_updated": "2026-04-19T04:55:46.358993"
     },
     {
       "paper_id": "Nequip-1",
@@ -2294,7 +2294,7 @@
           "citations": 7
         }
       ],
-      "last_updated": "2026-04-12T04:51:30.958745"
+      "last_updated": "2026-04-19T04:55:28.403910"
     },
     {
       "paper_id": "NEP-1",
@@ -2335,7 +2335,7 @@
           "citations": 4
         }
       ],
-      "last_updated": "2026-04-12T04:51:31.741873"
+      "last_updated": "2026-04-19T04:55:29.088539"
     },
     {
       "paper_id": "MatPES-0",
@@ -2375,43 +2375,7 @@
           "citations": 7
         }
       ],
-      "last_updated": "2026-04-12T04:51:40.983670"
-    },
-    {
-      "paper_id": "LES-3",
-      "project_id": "LES",
-      "doi": "https://doi.org/10.1021/acs.jctc.5c01400",
-      "openalex_id": "https://openalex.org/W4417191530",
-      "title": "A universal augmentation framework for long-range electrostatics in machine learning interatomic potentials",
-      "authors": [
-        "Dong-Jin Kim",
-        "Xiaoyu Wang",
-        "Santiago Vargas",
-        "Peichen Zhong",
-        "David A. King",
-        "Théo Jaffrelot Inizan",
-        "Bingqing Cheng"
-      ],
-      "publication_year": 2025,
-      "venue": "Journal of Chemical Theory and Computation",
-      "community": "independent",
-      "category": "extension",
-      "links": {
-        "arXiv": "https://arxiv.org/abs/2507.14302",
-        "GitHub": "https://github.com/ChengUCB/les"
-      },
-      "cited_by_count": 6,
-      "citation_history": [
-        {
-          "year": 2025,
-          "citations": 1
-        },
-        {
-          "year": 2026,
-          "citations": 5
-        }
-      ],
-      "last_updated": "2026-04-12T04:51:45.606310"
+      "last_updated": "2026-04-19T04:55:36.848280"
     },
     {
       "paper_id": "NEP89-0",
@@ -2448,14 +2412,88 @@
         "arXiv": "https://arxiv.org/abs/2504.21286",
         "GitHub": "https://github.com/brucefan1983/GPUMD"
       },
-      "cited_by_count": 6,
+      "cited_by_count": 7,
       "citation_history": [
         {
           "year": 2026,
-          "citations": 6
+          "citations": 7
         }
       ],
-      "last_updated": "2026-04-12T04:51:47.860813"
+      "last_updated": "2026-04-19T04:55:43.475236"
+    },
+    {
+      "paper_id": "OC25",
+      "project_id": "OC",
+      "doi": "https://doi.org/10.48550/arXiv.2509.17862",
+      "openalex_id": "https://openalex.org/W4415255676",
+      "title": "The Open Catalyst 2025 (OC25) Dataset and Models for Solid-Liquid Interfaces",
+      "authors": [
+        "Sushree Jagriti Sahoo",
+        "Mikael Maraschin",
+        "Daniel S. Levine",
+        "Zachary W. Ulissi",
+        "C. Lawrence Zitnick",
+        "Joel B. Varley",
+        "Joseph A. Gauthier",
+        "Nitish Govindarajan",
+        "Muhammed Shuaibi"
+      ],
+      "publication_year": 2025,
+      "venue": "ArXiv.org",
+      "community": "Meta FAIR",
+      "category": "dataset",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2509.17862",
+        "Website": "https://fair-chem.github.io/oc25/"
+      },
+      "cited_by_count": 6,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 1
+        },
+        {
+          "year": 2026,
+          "citations": 5
+        }
+      ],
+      "last_updated": "2026-04-19T04:55:38.335233"
+    },
+    {
+      "paper_id": "LES-3",
+      "project_id": "LES",
+      "doi": "https://doi.org/10.1021/acs.jctc.5c01400",
+      "openalex_id": "https://openalex.org/W4417191530",
+      "title": "A universal augmentation framework for long-range electrostatics in machine learning interatomic potentials",
+      "authors": [
+        "Dong-Jin Kim",
+        "Xiaoyu Wang",
+        "Santiago Vargas",
+        "Peichen Zhong",
+        "David A. King",
+        "Théo Jaffrelot Inizan",
+        "Bingqing Cheng"
+      ],
+      "publication_year": 2025,
+      "venue": "Journal of Chemical Theory and Computation",
+      "community": "independent",
+      "category": "extension",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2507.14302",
+        "GitHub": "https://github.com/ChengUCB/les"
+      },
+      "cited_by_count": 6,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 1
+        },
+        {
+          "year": 2026,
+          "citations": 5
+        }
+      ],
+      "last_updated": "2026-04-19T04:55:41.275724"
     },
     {
       "paper_id": "MAD-1",
@@ -2490,45 +2528,7 @@
           "citations": 4
         }
       ],
-      "last_updated": "2026-04-12T04:51:40.191305"
-    },
-    {
-      "paper_id": "OC25",
-      "project_id": "OC",
-      "doi": "https://doi.org/10.48550/arXiv.2509.17862",
-      "openalex_id": "https://openalex.org/W4415255676",
-      "title": "The Open Catalyst 2025 (OC25) Dataset and Models for Solid-Liquid Interfaces",
-      "authors": [
-        "Sushree Jagriti Sahoo",
-        "Mikael Maraschin",
-        "Daniel S. Levine",
-        "Zachary W. Ulissi",
-        "C. Lawrence Zitnick",
-        "Joel B. Varley",
-        "Joseph A. Gauthier",
-        "Nitish Govindarajan",
-        "Muhammed Shuaibi"
-      ],
-      "publication_year": 2025,
-      "venue": "ArXiv.org",
-      "community": "Meta FAIR",
-      "category": "dataset",
-      "links": {
-        "arXiv": "https://arxiv.org/abs/2509.17862",
-        "Website": "https://fair-chem.github.io/oc25/"
-      },
-      "cited_by_count": 5,
-      "citation_history": [
-        {
-          "year": 2025,
-          "citations": 1
-        },
-        {
-          "year": 2026,
-          "citations": 4
-        }
-      ],
-      "last_updated": "2026-04-12T04:51:42.582448"
+      "last_updated": "2026-04-19T04:55:36.138952"
     },
     {
       "paper_id": "LES-2",
@@ -2557,7 +2557,7 @@
           "citations": 4
         }
       ],
-      "last_updated": "2026-04-12T04:51:45.227384"
+      "last_updated": "2026-04-19T04:55:40.910385"
     },
     {
       "paper_id": "DPA3",
@@ -2600,7 +2600,7 @@
           "citations": 2
         }
       ],
-      "last_updated": "2026-04-12T04:51:29.214034"
+      "last_updated": "2026-04-19T04:55:26.873510"
     },
     {
       "paper_id": "SEVENNET-2",
@@ -2639,7 +2639,7 @@
           "citations": 2
         }
       ],
-      "last_updated": "2026-04-12T04:51:37.449071"
+      "last_updated": "2026-04-19T04:55:33.720572"
     },
     {
       "paper_id": "GRACE-1",
@@ -2667,118 +2667,7 @@
           "citations": 2
         }
       ],
-      "last_updated": "2026-04-12T04:51:38.169370"
-    },
-    {
-      "paper_id": "SEVENNET-2",
-      "project_id": "SEVENNET",
-      "doi": "https://doi.org/10.1038/s41467-026-70195-8",
-      "openalex_id": "https://openalex.org/W7133333646",
-      "title": "Optimizing cross-domain transfer for universal machine learning interatomic potentials",
-      "authors": [
-        "Jaesun Kim",
-        "Jinmu You",
-        "Yutack Park",
-        "Yunsung Lim",
-        "Yujin Kang",
-        "Jisu Kim",
-        "Haekwan Jeon",
-        "Suyeon Ju",
-        "Deokgi Hong",
-        "Seung Yul Lee",
-        "Saerom Choi",
-        "Yongdeok Kim",
-        "Jae W. Lee",
-        "Seungwu Han"
-      ],
-      "publication_year": 2026,
-      "venue": "Nature Communications",
-      "community": "MDIL-SNU",
-      "category": "foundation_model",
-      "links": {
-        "arXiv": "https://arxiv.org/abs/2510.11241",
-        "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
-      },
-      "cited_by_count": 2,
-      "citation_history": [
-        {
-          "year": 2026,
-          "citations": 2
-        }
-      ],
-      "last_updated": "2026-04-12T04:51:49.291258"
-    },
-    {
-      "paper_id": "GRACE-1",
-      "project_id": "GRACE",
-      "doi": "https://doi.org/10.1038/s41524-026-01979-1",
-      "openalex_id": "https://openalex.org/W7128394095",
-      "title": "Graph atomic cluster expansion for foundational machine learning interatomic potentials",
-      "authors": [
-        "Yury Lysogorskiy",
-        "Anton Bochkarev",
-        "Ralf Drautz"
-      ],
-      "publication_year": 2026,
-      "venue": "npj Computational Materials",
-      "community": "ICAMS",
-      "category": "foundation_model",
-      "links": {
-        "arXiv": "https://arxiv.org/abs/2508.17936v1",
-        "GitHub": "https://github.com/ICAMS/grace-tensorpotential"
-      },
-      "cited_by_count": 2,
-      "citation_history": [
-        {
-          "year": 2026,
-          "citations": 2
-        }
-      ],
-      "last_updated": "2026-04-12T04:51:49.659985"
-    },
-    {
-      "paper_id": "OMC25",
-      "project_id": "OMC",
-      "doi": "https://doi.org/10.48550/arXiv.2508.02651",
-      "openalex_id": "https://openalex.org/W4417106793",
-      "title": "Open Molecular Crystals 2025 (OMC25) Dataset and Models",
-      "authors": [
-        "Vahe Gharakhanyan",
-        "Luis Barroso-Luque",
-        "Yi Yang",
-        "Muhammed Shuaibi",
-        "Kyle Michel",
-        "Daniel S. Levine",
-        "Misko Dzamba",
-        "Xiang Fu",
-        "Meng Gao",
-        "Xingyu Liu",
-        "Haoran Ni",
-        "Keian Noori",
-        "Brandon M. Wood",
-        "Matt Uyttendaele",
-        "Arman Boromand",
-        "C. Lawrence Zitnick",
-        "Noa Marom",
-        "Zachary W. Ulissi",
-        "Anuroop Sriram"
-      ],
-      "publication_year": 2025,
-      "venue": "ArXiv.org",
-      "community": "Meta FAIR",
-      "category": "dataset",
-      "links": {
-        "arXiv": "https://arxiv.org/abs/2508.02651",
-        "Website": "https://fair-chem.github.io/omc25/"
-      },
-      "cited_by_count": 1,
-      "citation_history": [
-        {
-          "year": 2026,
-          "citations": 1
-        }
-      ],
-      "last_updated": "2026-04-12T04:51:41.360316"
+      "last_updated": "2026-04-19T04:55:34.348409"
     },
     {
       "paper_id": "dpdata-0",
@@ -2836,6 +2725,117 @@
       "links": {
         "GitHub": "https://github.com/deepmodeling/dpdata"
       },
+      "cited_by_count": 2,
+      "citation_history": [
+        {
+          "year": 2026,
+          "citations": 2
+        }
+      ],
+      "last_updated": "2026-04-19T04:55:38.721260"
+    },
+    {
+      "paper_id": "SEVENNET-2",
+      "project_id": "SEVENNET",
+      "doi": "https://doi.org/10.1038/s41467-026-70195-8",
+      "openalex_id": "https://openalex.org/W7133333646",
+      "title": "Optimizing cross-domain transfer for universal machine learning interatomic potentials",
+      "authors": [
+        "Jaesun Kim",
+        "Jinmu You",
+        "Yutack Park",
+        "Yunsung Lim",
+        "Yujin Kang",
+        "Jisu Kim",
+        "Haekwan Jeon",
+        "Suyeon Ju",
+        "Deokgi Hong",
+        "Seung Yul Lee",
+        "Saerom Choi",
+        "Yongdeok Kim",
+        "Jae W. Lee",
+        "Seungwu Han"
+      ],
+      "publication_year": 2026,
+      "venue": "Nature Communications",
+      "community": "MDIL-SNU",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2510.11241",
+        "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
+      },
+      "cited_by_count": 2,
+      "citation_history": [
+        {
+          "year": 2026,
+          "citations": 2
+        }
+      ],
+      "last_updated": "2026-04-19T04:55:44.904578"
+    },
+    {
+      "paper_id": "GRACE-1",
+      "project_id": "GRACE",
+      "doi": "https://doi.org/10.1038/s41524-026-01979-1",
+      "openalex_id": "https://openalex.org/W7128394095",
+      "title": "Graph atomic cluster expansion for foundational machine learning interatomic potentials",
+      "authors": [
+        "Yury Lysogorskiy",
+        "Anton Bochkarev",
+        "Ralf Drautz"
+      ],
+      "publication_year": 2026,
+      "venue": "npj Computational Materials",
+      "community": "ICAMS",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2508.17936v1",
+        "GitHub": "https://github.com/ICAMS/grace-tensorpotential"
+      },
+      "cited_by_count": 2,
+      "citation_history": [
+        {
+          "year": 2026,
+          "citations": 2
+        }
+      ],
+      "last_updated": "2026-04-19T04:55:45.263910"
+    },
+    {
+      "paper_id": "OMC25",
+      "project_id": "OMC",
+      "doi": "https://doi.org/10.48550/arXiv.2508.02651",
+      "openalex_id": "https://openalex.org/W4417106793",
+      "title": "Open Molecular Crystals 2025 (OMC25) Dataset and Models",
+      "authors": [
+        "Vahe Gharakhanyan",
+        "Luis Barroso-Luque",
+        "Yi Yang",
+        "Muhammed Shuaibi",
+        "Kyle Michel",
+        "Daniel S. Levine",
+        "Misko Dzamba",
+        "Xiang Fu",
+        "Meng Gao",
+        "Xingyu Liu",
+        "Haoran Ni",
+        "Keian Noori",
+        "Brandon M. Wood",
+        "Matt Uyttendaele",
+        "Arman Boromand",
+        "C. Lawrence Zitnick",
+        "Noa Marom",
+        "Zachary W. Ulissi",
+        "Anuroop Sriram"
+      ],
+      "publication_year": 2025,
+      "venue": "ArXiv.org",
+      "community": "Meta FAIR",
+      "category": "dataset",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2508.02651",
+        "Website": "https://fair-chem.github.io/omc25/"
+      },
       "cited_by_count": 1,
       "citation_history": [
         {
@@ -2843,7 +2843,7 @@
           "citations": 1
         }
       ],
-      "last_updated": "2026-04-12T04:51:43.044580"
+      "last_updated": "2026-04-19T04:55:37.219201"
     },
     {
       "paper_id": "UPET-0",
@@ -2855,8 +2855,8 @@
         "Filippo Bigi",
         "Paolo Pegolo",
         "Arslan Mazitov",
-        "Michele Ceriotti",
-        "Ceriotti, Michele"
+        "Schmidt, Jonathan",
+        "Michele Ceriotti"
       ],
       "publication_year": 2026,
       "venue": "arXiv (Cornell University)",
@@ -2868,7 +2868,7 @@
       },
       "cited_by_count": 0,
       "citation_history": [],
-      "last_updated": "2026-04-12T04:51:34.116743"
+      "last_updated": "2026-04-19T04:55:30.869693"
     },
     {
       "paper_id": "QET-0",
@@ -2878,7 +2878,7 @@
       "title": "A Fast, Accurate, and Reactive Equivariant Foundation Potential",
       "authors": [
         "Tsz Wai Ko",
-        "Ruizhao LIU",
+        "Liu, Runze",
         "Adesh Rohan Mishra",
         "Zihan Yu",
         "Ji Qi",
@@ -2894,7 +2894,7 @@
       },
       "cited_by_count": 0,
       "citation_history": [],
-      "last_updated": "2026-04-12T04:51:35.719986"
+      "last_updated": "2026-04-19T04:55:32.155457"
     },
     {
       "paper_id": "OMol25",
@@ -2941,7 +2941,7 @@
       },
       "cited_by_count": 0,
       "citation_history": [],
-      "last_updated": "2026-04-12T04:51:40.570754"
+      "last_updated": "2026-04-19T04:55:36.495444"
     },
     {
       "paper_id": "PET-MAT-1.5",
@@ -2969,7 +2969,7 @@
       },
       "cited_by_count": 0,
       "citation_history": [],
-      "last_updated": "2026-04-12T04:51:46.378557"
+      "last_updated": "2026-04-19T04:55:41.969267"
     },
     {
       "paper_id": "QET-0",
@@ -2979,7 +2979,7 @@
       "title": "A Fast, Accurate, and Reactive Equivariant Foundation Potential",
       "authors": [
         "Tsz Wai Ko",
-        "Ruizhao LIU",
+        "Liu, Runze",
         "Adesh Rohan Mishra",
         "Zihan Yu",
         "Ji Qi",
@@ -2995,7 +2995,7 @@
       },
       "cited_by_count": 0,
       "citation_history": [],
-      "last_updated": "2026-04-12T04:51:47.556576"
+      "last_updated": "2026-04-19T04:55:43.095029"
     }
   ]
 }

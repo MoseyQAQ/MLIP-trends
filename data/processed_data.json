@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-05-31T06:26:04.303158",
+    "generated_at": "2026-06-07T06:36:23.575551",
     "total_papers": 65,
     "fetched": 63,
     "cached": 0,
@@ -127,7 +127,7 @@
         "arXiv": "https://arxiv.org/abs/1712.03641",
         "GitHub": "https://github.com/deepmodeling/deepmd-kit"
       },
-      "cited_by_count": 1990,
+      "cited_by_count": 1996,
       "citation_history": [
         {
           "year": 2018,
@@ -163,10 +163,10 @@
         },
         {
           "year": 2026,
-          "citations": 228
+          "citations": 234
         }
       ],
-      "last_updated": "2026-05-31T06:26:02.410394"
+      "last_updated": "2026-06-07T06:36:22.214084"
     },
     {
       "paper_id": "Nequip-0",
@@ -193,7 +193,7 @@
         "arXiv": "https://doi.org/10.48550/arXiv.2101.03164",
         "GitHub": "https://github.com/mir-group/nequip"
       },
-      "cited_by_count": 1626,
+      "cited_by_count": 1641,
       "citation_history": [
         {
           "year": 2021,
@@ -217,10 +217,10 @@
         },
         {
           "year": 2026,
-          "citations": 243
+          "citations": 258
         }
       ],
-      "last_updated": "2026-05-31T06:25:42.799571"
+      "last_updated": "2026-06-07T06:36:07.995267"
     },
     {
       "paper_id": "dpgen-0",
@@ -247,7 +247,7 @@
         "arXiv": "https://arxiv.org/abs/1910.12690",
         "GitHub": "https://github.com/deepmodeling/dpgen"
       },
-      "cited_by_count": 873,
+      "cited_by_count": 876,
       "citation_history": [
         {
           "year": 2019,
@@ -279,10 +279,10 @@
         },
         {
           "year": 2026,
-          "citations": 102
+          "citations": 105
         }
       ],
-      "last_updated": "2026-05-31T06:25:54.153554"
+      "last_updated": "2026-06-07T06:36:16.515246"
     },
     {
       "paper_id": "M3GNET-0",
@@ -302,7 +302,7 @@
         "arXiv": "https://arxiv.org/abs/2202.02450",
         "GitHub": "https://github.com/materialyzeai/matgl"
       },
-      "cited_by_count": 838,
+      "cited_by_count": 850,
       "citation_history": [
         {
           "year": 2022,
@@ -322,10 +322,10 @@
         },
         {
           "year": 2026,
-          "citations": 136
+          "citations": 148
         }
       ],
-      "last_updated": "2026-05-31T06:25:46.621336"
+      "last_updated": "2026-06-07T06:36:11.058704"
     },
     {
       "paper_id": "M3GNET-0",
@@ -345,7 +345,7 @@
         "arXiv": "https://arxiv.org/abs/2202.02450",
         "GitHub": "https://github.com/materialyzeai/matgl"
       },
-      "cited_by_count": 838,
+      "cited_by_count": 850,
       "citation_history": [
         {
           "year": 2022,
@@ -365,10 +365,10 @@
         },
         {
           "year": 2026,
-          "citations": 136
+          "citations": 148
         }
       ],
-      "last_updated": "2026-05-31T06:25:58.025104"
+      "last_updated": "2026-06-07T06:36:19.231264"
     },
     {
       "paper_id": "CHGNET-0",
@@ -393,7 +393,7 @@
         "arXiv": "https://arxiv.org/abs/2302.14231",
         "GitHub": "https://github.com/CederGroupHub/chgnet"
       },
-      "cited_by_count": 740,
+      "cited_by_count": 752,
       "citation_history": [
         {
           "year": 2023,
@@ -409,10 +409,10 @@
         },
         {
           "year": 2026,
-          "citations": 167
+          "citations": 179
         }
       ],
-      "last_updated": "2026-05-31T06:25:46.289902"
+      "last_updated": "2026-06-07T06:36:10.816223"
     },
     {
       "paper_id": "CHGNET-0",
@@ -437,7 +437,7 @@
         "arXiv": "https://arxiv.org/abs/2302.14231",
         "GitHub": "https://github.com/CederGroupHub/chgnet"
       },
-      "cited_by_count": 740,
+      "cited_by_count": 752,
       "citation_history": [
         {
           "year": 2023,
@@ -453,10 +453,10 @@
         },
         {
           "year": 2026,
-          "citations": 167
+          "citations": 179
         }
       ],
-      "last_updated": "2026-05-31T06:25:57.667912"
+      "last_updated": "2026-06-07T06:36:18.954589"
     },
     {
       "paper_id": "OC20",
@@ -491,7 +491,7 @@
         "arXiv": "https://arxiv.org/abs/2010.09990",
         "Website": "https://fair-chem.github.io/oc20/"
       },
-      "cited_by_count": 702,
+      "cited_by_count": 704,
       "citation_history": [
         {
           "year": 2020,
@@ -519,10 +519,10 @@
         },
         {
           "year": 2026,
-          "citations": 98
+          "citations": 100
         }
       ],
-      "last_updated": "2026-05-31T06:25:52.577133"
+      "last_updated": "2026-06-07T06:36:15.505261"
     },
     {
       "paper_id": "Allegro-0",
@@ -547,7 +547,7 @@
         "arXiv": "https://doi.org/10.48550/arXiv.2204.05249",
         "GitHub": "https://github.com/mir-group/allegro"
       },
-      "cited_by_count": 610,
+      "cited_by_count": 618,
       "citation_history": [
         {
           "year": 2022,
@@ -567,10 +567,10 @@
         },
         {
           "year": 2026,
-          "citations": 100
+          "citations": 108
         }
       ],
-      "last_updated": "2026-05-31T06:25:43.498785"
+      "last_updated": "2026-06-07T06:36:08.491007"
     },
     {
       "paper_id": "DeepMD-kit-v2",
@@ -635,7 +635,7 @@
         "arXiv": "https://arxiv.org/abs/2304.09409",
         "GitHub": "https://github.com/deepmodeling/deepmd-kit"
       },
-      "cited_by_count": 513,
+      "cited_by_count": 519,
       "citation_history": [
         {
           "year": 2023,
@@ -651,10 +651,10 @@
         },
         {
           "year": 2026,
-          "citations": 94
+          "citations": 100
         }
       ],
-      "last_updated": "2026-05-31T06:26:02.835565"
+      "last_updated": "2026-06-07T06:36:22.526052"
     },
     {
       "paper_id": "NEP-3",
@@ -692,7 +692,7 @@
         "arXiv": "https://arxiv.org/abs/2205.10046",
         "GitHub": "https://github.com/brucefan1983/GPUMD"
       },
-      "cited_by_count": 397,
+      "cited_by_count": 398,
       "citation_history": [
         {
           "year": 2022,
@@ -712,10 +712,10 @@
         },
         {
           "year": 2026,
-          "citations": 83
+          "citations": 84
         }
       ],
-      "last_updated": "2026-05-31T06:25:44.539342"
+      "last_updated": "2026-06-07T06:36:09.290286"
     },
     {
       "paper_id": "GPUMD-1.0",
@@ -753,7 +753,7 @@
         "arXiv": "https://arxiv.org/abs/2205.10046",
         "GitHub": "https://github.com/brucefan1983/GPUMD"
       },
-      "cited_by_count": 397,
+      "cited_by_count": 398,
       "citation_history": [
         {
           "year": 2022,
@@ -773,10 +773,10 @@
         },
         {
           "year": 2026,
-          "citations": 83
+          "citations": 84
         }
       ],
-      "last_updated": "2026-05-31T06:26:03.720189"
+      "last_updated": "2026-06-07T06:36:23.103952"
     },
     {
       "paper_id": "MACE-1",
@@ -799,7 +799,7 @@
         "arXiv": "https://doi.org/10.48550/arXiv.2206.07697",
         "GitHub": "https://github.com/ACEsuit/mace"
       },
-      "cited_by_count": 280,
+      "cited_by_count": 283,
       "citation_history": [
         {
           "year": 2022,
@@ -819,10 +819,10 @@
         },
         {
           "year": 2026,
-          "citations": 25
+          "citations": 28
         }
       ],
-      "last_updated": "2026-05-31T06:25:42.428974"
+      "last_updated": "2026-06-07T06:36:07.704913"
     },
     {
       "paper_id": "OC22",
@@ -857,7 +857,7 @@
         "arXiv": "https://arxiv.org/abs/2206.08917",
         "Website": "https://fair-chem.github.io/oc22/"
       },
-      "cited_by_count": 279,
+      "cited_by_count": 281,
       "citation_history": [
         {
           "year": 2022,
@@ -877,10 +877,10 @@
         },
         {
           "year": 2026,
-          "citations": 54
+          "citations": 56
         }
       ],
-      "last_updated": "2026-05-31T06:25:52.930610"
+      "last_updated": "2026-06-07T06:36:15.746864"
     },
     {
       "paper_id": "DPLR",
@@ -904,7 +904,7 @@
         "arXiv": "https://doi.org/10.48550/arXiv.2112.13327",
         "GitHub": "https://github.com/deepmodeling/deepmd-kit"
       },
-      "cited_by_count": 221,
+      "cited_by_count": 223,
       "citation_history": [
         {
           "year": 2022,
@@ -924,10 +924,10 @@
         },
         {
           "year": 2026,
-          "citations": 28
+          "citations": 30
         }
       ],
-      "last_updated": "2026-05-31T06:25:54.521223"
+      "last_updated": "2026-06-07T06:36:16.801817"
     },
     {
       "paper_id": "SEVENNET-0",
@@ -949,7 +949,7 @@
         "arXiv": "https://arxiv.org/abs/2402.03789",
         "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
       },
-      "cited_by_count": 179,
+      "cited_by_count": 184,
       "citation_history": [
         {
           "year": 2024,
@@ -961,10 +961,71 @@
         },
         {
           "year": 2026,
-          "citations": 53
+          "citations": 58
         }
       ],
-      "last_updated": "2026-05-31T06:25:47.936426"
+      "last_updated": "2026-06-07T06:36:12.026801"
+    },
+    {
+      "paper_id": "NEP-4",
+      "project_id": "NEP",
+      "doi": "https://doi.org/10.1038/s41467-024-54554-x",
+      "openalex_id": "https://openalex.org/W4404691199",
+      "title": "General-purpose machine-learned potential for 16 elemental metals and their alloys",
+      "authors": [
+        "Keke Song",
+        "Rui Zhao",
+        "Jiahui Liu",
+        "Yanzhou Wang",
+        "Eric Lindgren",
+        "Yong Wang",
+        "Shunda Chen",
+        "Ke Xu",
+        "Ting Liang",
+        "Penghua Ying",
+        "Nan Xu",
+        "Zhiqiang Zhao",
+        "Jiuyang Shi",
+        "Junjie Wang",
+        "Shuang Lyu",
+        "Zezhu Zeng",
+        "Shirong Liang",
+        "Haikuan Dong",
+        "Ligang Sun",
+        "Yue Chen",
+        "Zhuhua Zhang",
+        "Wanlin Guo",
+        "Ping Qian",
+        "Jian Sun",
+        "Paul Erhart",
+        "Tapio Ala-Nissilä",
+        "Yanjing Su",
+        "Zheyong Fan"
+      ],
+      "publication_year": 2024,
+      "venue": "Nature Communications",
+      "community": "NEP",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2311.04732",
+        "GitHub": "https://github.com/brucefan1983/GPUMD"
+      },
+      "cited_by_count": 157,
+      "citation_history": [
+        {
+          "year": 2024,
+          "citations": 4
+        },
+        {
+          "year": 2025,
+          "citations": 102
+        },
+        {
+          "year": 2026,
+          "citations": 51
+        }
+      ],
+      "last_updated": "2026-06-07T06:36:09.569971"
     },
     {
       "paper_id": "DeepPot-SE",
@@ -1027,68 +1088,7 @@
           "citations": 1
         }
       ],
-      "last_updated": "2026-05-31T06:25:40.812857"
-    },
-    {
-      "paper_id": "NEP-4",
-      "project_id": "NEP",
-      "doi": "https://doi.org/10.1038/s41467-024-54554-x",
-      "openalex_id": "https://openalex.org/W4404691199",
-      "title": "General-purpose machine-learned potential for 16 elemental metals and their alloys",
-      "authors": [
-        "Keke Song",
-        "Rui Zhao",
-        "Jiahui Liu",
-        "Yanzhou Wang",
-        "Eric Lindgren",
-        "Yong Wang",
-        "Shunda Chen",
-        "Ke Xu",
-        "Ting Liang",
-        "Penghua Ying",
-        "Nan Xu",
-        "Zhiqiang Zhao",
-        "Jiuyang Shi",
-        "Junjie Wang",
-        "Shuang Lyu",
-        "Zezhu Zeng",
-        "Shirong Liang",
-        "Haikuan Dong",
-        "Ligang Sun",
-        "Yue Chen",
-        "Zhuhua Zhang",
-        "Wanlin Guo",
-        "Ping Qian",
-        "Jian Sun",
-        "Paul Erhart",
-        "Tapio Ala-Nissilä",
-        "Yanjing Su",
-        "Zheyong Fan"
-      ],
-      "publication_year": 2024,
-      "venue": "Nature Communications",
-      "community": "NEP",
-      "category": "architecture",
-      "links": {
-        "arXiv": "https://arxiv.org/abs/2311.04732",
-        "GitHub": "https://github.com/brucefan1983/GPUMD"
-      },
-      "cited_by_count": 154,
-      "citation_history": [
-        {
-          "year": 2024,
-          "citations": 4
-        },
-        {
-          "year": 2025,
-          "citations": 102
-        },
-        {
-          "year": 2026,
-          "citations": 48
-        }
-      ],
-      "last_updated": "2026-05-31T06:25:44.923984"
+      "last_updated": "2026-06-07T06:36:06.582782"
     },
     {
       "paper_id": "NEP-2",
@@ -1130,7 +1130,7 @@
           "citations": 15
         }
       ],
-      "last_updated": "2026-05-31T06:25:44.143726"
+      "last_updated": "2026-06-07T06:36:09.017433"
     },
     {
       "paper_id": "DPA2",
@@ -1191,7 +1191,7 @@
         "arXiv": "https://arxiv.org/abs/2312.15492",
         "GitHub": "https://github.com/deepmodeling/deepmd-kit"
       },
-      "cited_by_count": 113,
+      "cited_by_count": 115,
       "citation_history": [
         {
           "year": 2024,
@@ -1203,10 +1203,10 @@
         },
         {
           "year": 2026,
-          "citations": 26
+          "citations": 28
         }
       ],
-      "last_updated": "2026-05-31T06:25:41.519762"
+      "last_updated": "2026-06-07T06:36:07.081051"
     },
     {
       "paper_id": "DPRc",
@@ -1227,7 +1227,7 @@
       "links": {
         "GitHub": "https://github.com/deepmodeling/deepmd-kit"
       },
-      "cited_by_count": 103,
+      "cited_by_count": 104,
       "citation_history": [
         {
           "year": 2021,
@@ -1251,10 +1251,10 @@
         },
         {
           "year": 2026,
-          "citations": 14
+          "citations": 15
         }
       ],
-      "last_updated": "2026-05-31T06:25:54.884883"
+      "last_updated": "2026-06-07T06:36:17.065960"
     },
     {
       "paper_id": "MACE-0",
@@ -1281,7 +1281,7 @@
         "arXiv": "https://doi.org/10.48550/arXiv.2205.06643",
         "GitHub": "https://github.com/ACEsuit/mace"
       },
-      "cited_by_count": 100,
+      "cited_by_count": 101,
       "citation_history": [
         {
           "year": 2022,
@@ -1301,10 +1301,10 @@
         },
         {
           "year": 2026,
-          "citations": 4
+          "citations": 5
         }
       ],
-      "last_updated": "2026-05-31T06:25:42.034980"
+      "last_updated": "2026-06-07T06:36:07.440984"
     },
     {
       "paper_id": "DPA1",
@@ -1329,7 +1329,7 @@
         "arXiv": "https://doi.org/10.48550/arXiv.2208.08236",
         "GitHub": "https://github.com/deepmodeling/deepmd-kit"
       },
-      "cited_by_count": 93,
+      "cited_by_count": 95,
       "citation_history": [
         {
           "year": 2024,
@@ -1341,10 +1341,10 @@
         },
         {
           "year": 2026,
-          "citations": 22
+          "citations": 24
         }
       ],
-      "last_updated": "2026-05-31T06:25:41.149096"
+      "last_updated": "2026-06-07T06:36:06.806882"
     },
     {
       "paper_id": "OMat24",
@@ -1371,7 +1371,7 @@
         "arXiv": "https://doi.org/10.48550/arXiv.2410.12771",
         "HuggingFace": "https://huggingface.co/datasets/facebook/OMAT24"
       },
-      "cited_by_count": 88,
+      "cited_by_count": 90,
       "citation_history": [
         {
           "year": 2024,
@@ -1383,10 +1383,10 @@
         },
         {
           "year": 2026,
-          "citations": 30
+          "citations": 32
         }
       ],
-      "last_updated": "2026-05-31T06:25:50.715234"
+      "last_updated": "2026-06-07T06:36:14.139471"
     },
     {
       "paper_id": "MATTERSIM-0",
@@ -1426,7 +1426,7 @@
         "arXiv": "https://arxiv.org/abs/2405.04967",
         "Website": "https://github.com/microsoft/mattersim"
       },
-      "cited_by_count": 87,
+      "cited_by_count": 88,
       "citation_history": [
         {
           "year": 2024,
@@ -1438,10 +1438,10 @@
         },
         {
           "year": 2026,
-          "citations": 31
+          "citations": 32
         }
       ],
-      "last_updated": "2026-05-31T06:26:01.555273"
+      "last_updated": "2026-06-07T06:36:21.651044"
     },
     {
       "paper_id": "Equiformer-V2",
@@ -1463,7 +1463,7 @@
         "arXiv": "https://arxiv.org/abs/2306.12059",
         "Website": "https://github.com/atomicarchitects/equiformer_v2"
       },
-      "cited_by_count": 83,
+      "cited_by_count": 84,
       "citation_history": [
         {
           "year": 2022,
@@ -1483,10 +1483,46 @@
         },
         {
           "year": 2026,
-          "citations": 10
+          "citations": 11
         }
       ],
-      "last_updated": "2026-05-31T06:25:49.923319"
+      "last_updated": "2026-06-07T06:36:13.596476"
+    },
+    {
+      "paper_id": "SEVENNET-1",
+      "project_id": "SEVENNET",
+      "doi": "https://doi.org/10.1021/jacs.4c14455",
+      "openalex_id": "https://openalex.org/W4405499204",
+      "title": "Data-efficient multi-fidelity training for high-fidelity machine learning interatomic potentials",
+      "authors": [
+        "Jaesun Kim",
+        "Jisu Kim",
+        "Jaehoon Kim",
+        "Jiho Lee",
+        "Yutack Park",
+        "Youngho Kang",
+        "Seungwu Han"
+      ],
+      "publication_year": 2024,
+      "venue": "Journal of the American Chemical Society",
+      "community": "MDIL-SNU",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2409.07947",
+        "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
+      },
+      "cited_by_count": 64,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 33
+        },
+        {
+          "year": 2026,
+          "citations": 31
+        }
+      ],
+      "last_updated": "2026-06-07T06:36:12.279596"
     },
     {
       "paper_id": "GRACE-0",
@@ -1522,43 +1558,7 @@
           "citations": 20
         }
       ],
-      "last_updated": "2026-05-31T06:25:48.935677"
-    },
-    {
-      "paper_id": "SEVENNET-1",
-      "project_id": "SEVENNET",
-      "doi": "https://doi.org/10.1021/jacs.4c14455",
-      "openalex_id": "https://openalex.org/W4405499204",
-      "title": "Data-efficient multi-fidelity training for high-fidelity machine learning interatomic potentials",
-      "authors": [
-        "Jaesun Kim",
-        "Jisu Kim",
-        "Jaehoon Kim",
-        "Jiho Lee",
-        "Yutack Park",
-        "Youngho Kang",
-        "Seungwu Han"
-      ],
-      "publication_year": 2024,
-      "venue": "Journal of the American Chemical Society",
-      "community": "MDIL-SNU",
-      "category": "architecture",
-      "links": {
-        "arXiv": "https://arxiv.org/abs/2409.07947",
-        "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
-      },
-      "cited_by_count": 63,
-      "citation_history": [
-        {
-          "year": 2025,
-          "citations": 33
-        },
-        {
-          "year": 2026,
-          "citations": 30
-        }
-      ],
-      "last_updated": "2026-05-31T06:25:48.260620"
+      "last_updated": "2026-06-07T06:36:12.753664"
     },
     {
       "paper_id": "SEVENNET-1",
@@ -1583,7 +1583,7 @@
         "arXiv": "https://arxiv.org/abs/2409.07947",
         "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
       },
-      "cited_by_count": 63,
+      "cited_by_count": 64,
       "citation_history": [
         {
           "year": 2025,
@@ -1591,10 +1591,10 @@
         },
         {
           "year": 2026,
-          "citations": 30
+          "citations": 31
         }
       ],
-      "last_updated": "2026-05-31T06:25:59.915353"
+      "last_updated": "2026-06-07T06:36:20.547806"
     },
     {
       "paper_id": "GPUMD-4.0",
@@ -1666,7 +1666,7 @@
       "links": {
         "GitHub": "https://github.com/brucefan1983/GPUMD"
       },
-      "cited_by_count": 63,
+      "cited_by_count": 64,
       "citation_history": [
         {
           "year": 2025,
@@ -1674,40 +1674,10 @@
         },
         {
           "year": 2026,
-          "citations": 44
+          "citations": 45
         }
       ],
-      "last_updated": "2026-05-31T06:26:04.152987"
-    },
-    {
-      "paper_id": "LES-0",
-      "project_id": "LES",
-      "doi": "https://doi.org/10.1038/s41524-025-01577-7",
-      "openalex_id": "https://openalex.org/W4408876037",
-      "title": "Latent Ewald summation for machine learning of long-range interactions",
-      "authors": [
-        "Bingqing Cheng"
-      ],
-      "publication_year": 2025,
-      "venue": "npj Computational Materials",
-      "community": "independent",
-      "category": "extension",
-      "links": {
-        "arXiv": "https://arxiv.org/abs/2408.15165",
-        "GitHub": "https://github.com/les-group/les"
-      },
-      "cited_by_count": 62,
-      "citation_history": [
-        {
-          "year": 2025,
-          "citations": 27
-        },
-        {
-          "year": 2026,
-          "citations": 35
-        }
-      ],
-      "last_updated": "2026-05-31T06:25:55.314190"
+      "last_updated": "2026-06-07T06:36:23.425375"
     },
     {
       "paper_id": "DeepMD-kit-v3",
@@ -1772,7 +1742,7 @@
         "arXiv": "https://arxiv.org/abs/2502.19161",
         "GitHub": "https://github.com/deepmodeling/deepmd-kit"
       },
-      "cited_by_count": 62,
+      "cited_by_count": 63,
       "citation_history": [
         {
           "year": 2025,
@@ -1780,10 +1750,40 @@
         },
         {
           "year": 2026,
-          "citations": 33
+          "citations": 34
         }
       ],
-      "last_updated": "2026-05-31T06:26:03.306362"
+      "last_updated": "2026-06-07T06:36:22.822414"
+    },
+    {
+      "paper_id": "LES-0",
+      "project_id": "LES",
+      "doi": "https://doi.org/10.1038/s41524-025-01577-7",
+      "openalex_id": "https://openalex.org/W4408876037",
+      "title": "Latent Ewald summation for machine learning of long-range interactions",
+      "authors": [
+        "Bingqing Cheng"
+      ],
+      "publication_year": 2025,
+      "venue": "npj Computational Materials",
+      "community": "independent",
+      "category": "extension",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2408.15165",
+        "GitHub": "https://github.com/les-group/les"
+      },
+      "cited_by_count": 62,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 27
+        },
+        {
+          "year": 2026,
+          "citations": 35
+        }
+      ],
+      "last_updated": "2026-06-07T06:36:17.332096"
     },
     {
       "paper_id": "CACE-0",
@@ -1817,7 +1817,7 @@
           "citations": 19
         }
       ],
-      "last_updated": "2026-05-31T06:25:45.241161"
+      "last_updated": "2026-06-07T06:36:09.835467"
     },
     {
       "paper_id": "ORB-v2",
@@ -1843,7 +1843,7 @@
         "arXiv": "https://arxiv.org/abs/2410.22570",
         "GitHub": "https://github.com/orbital-materials/orb-models"
       },
-      "cited_by_count": 40,
+      "cited_by_count": 42,
       "citation_history": [
         {
           "year": 2024,
@@ -1855,10 +1855,10 @@
         },
         {
           "year": 2026,
-          "citations": 15
+          "citations": 17
         }
       ],
-      "last_updated": "2026-05-31T06:25:47.254043"
+      "last_updated": "2026-06-07T06:36:11.529991"
     },
     {
       "paper_id": "ORB-v2",
@@ -1884,7 +1884,7 @@
         "arXiv": "https://arxiv.org/abs/2410.22570",
         "GitHub": "https://github.com/orbital-materials/orb-models"
       },
-      "cited_by_count": 40,
+      "cited_by_count": 42,
       "citation_history": [
         {
           "year": 2024,
@@ -1896,10 +1896,10 @@
         },
         {
           "year": 2026,
-          "citations": 15
+          "citations": 17
         }
       ],
-      "last_updated": "2026-05-31T06:25:59.166638"
+      "last_updated": "2026-06-07T06:36:20.030913"
     },
     {
       "paper_id": "UMA-0",
@@ -1935,7 +1935,7 @@
         "arXiv": "https://arxiv.org/abs/2506.23971",
         "Website": "https://fair-chem.github.io/uma/"
       },
-      "cited_by_count": 31,
+      "cited_by_count": 33,
       "citation_history": [
         {
           "year": 2025,
@@ -1943,10 +1943,10 @@
         },
         {
           "year": 2026,
-          "citations": 25
+          "citations": 27
         }
       ],
-      "last_updated": "2026-05-31T06:25:49.597213"
+      "last_updated": "2026-06-07T06:36:13.290013"
     },
     {
       "paper_id": "UMA-0",
@@ -1982,7 +1982,7 @@
         "arXiv": "https://arxiv.org/abs/2506.23971",
         "Website": "https://fair-chem.github.io/uma/"
       },
-      "cited_by_count": 31,
+      "cited_by_count": 33,
       "citation_history": [
         {
           "year": 2025,
@@ -1990,10 +1990,10 @@
         },
         {
           "year": 2026,
-          "citations": 25
+          "citations": 27
         }
       ],
-      "last_updated": "2026-05-31T06:26:01.167000"
+      "last_updated": "2026-06-07T06:36:21.367116"
     },
     {
       "paper_id": "Equiformer-V2",
@@ -2018,7 +2018,7 @@
         "arXiv": "https://arxiv.org/abs/2502.12147",
         "GitHub": "https://github.com/facebookresearch/fairchem"
       },
-      "cited_by_count": 28,
+      "cited_by_count": 29,
       "citation_history": [
         {
           "year": 2025,
@@ -2026,10 +2026,10 @@
         },
         {
           "year": 2026,
-          "citations": 10
+          "citations": 11
         }
       ],
-      "last_updated": "2026-05-31T06:25:50.222977"
+      "last_updated": "2026-06-07T06:36:13.823385"
     },
     {
       "paper_id": "LES-1",
@@ -2062,7 +2062,7 @@
           "citations": 21
         }
       ],
-      "last_updated": "2026-05-31T06:25:55.680804"
+      "last_updated": "2026-06-07T06:36:17.595106"
     },
     {
       "paper_id": "PET-MAT-1",
@@ -2089,7 +2089,7 @@
         "arXiv": "https://arxiv.org/abs/2503.14118",
         "GitHub": "https://github.com/lab-cosmo/upet"
       },
-      "cited_by_count": 27,
+      "cited_by_count": 28,
       "citation_history": [
         {
           "year": 2025,
@@ -2097,10 +2097,10 @@
         },
         {
           "year": 2026,
-          "citations": 24
+          "citations": 25
         }
       ],
-      "last_updated": "2026-05-31T06:25:56.893961"
+      "last_updated": "2026-06-07T06:36:18.388134"
     },
     {
       "paper_id": "ORB-v3",
@@ -2125,7 +2125,7 @@
         "arXiv": "https://arxiv.org/abs/2504.06231",
         "GitHub": "https://github.com/orbital-materials/orb-models"
       },
-      "cited_by_count": 22,
+      "cited_by_count": 24,
       "citation_history": [
         {
           "year": 2025,
@@ -2133,10 +2133,10 @@
         },
         {
           "year": 2026,
-          "citations": 14
+          "citations": 16
         }
       ],
-      "last_updated": "2026-05-31T06:25:47.590144"
+      "last_updated": "2026-06-07T06:36:11.787505"
     },
     {
       "paper_id": "ORB-v3",
@@ -2161,7 +2161,7 @@
         "arXiv": "https://arxiv.org/abs/2504.06231",
         "GitHub": "https://github.com/orbital-materials/orb-models"
       },
-      "cited_by_count": 22,
+      "cited_by_count": 24,
       "citation_history": [
         {
           "year": 2025,
@@ -2169,10 +2169,51 @@
         },
         {
           "year": 2026,
-          "citations": 14
+          "citations": 16
         }
       ],
-      "last_updated": "2026-05-31T06:25:59.547977"
+      "last_updated": "2026-06-07T06:36:20.286466"
+    },
+    {
+      "paper_id": "MatGL-0",
+      "project_id": "MatGL",
+      "doi": "https://doi.org/10.1038/s41524-025-01742-y",
+      "openalex_id": "https://openalex.org/W4412974141",
+      "title": "Materials Graph Library (MatGL), an open-source graph deep learning library for materials science and chemistry",
+      "authors": [
+        "Tsz Wai Ko",
+        "Bowen Deng",
+        "Marcel Nassar",
+        "Luis Barroso-Luque",
+        "Runze Liu",
+        "Ji Qi",
+        "Atul C. Thakur",
+        "Amiya Kanta Mishra",
+        "Elliott Liu",
+        "Gerbrand Ceder",
+        "Santiago Miret",
+        "Shyue Ping Ong"
+      ],
+      "publication_year": 2025,
+      "venue": "npj Computational Materials",
+      "community": "Materialyze.AI",
+      "category": "software",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2503.03837",
+        "GitHub": "https://github.com/materialyzeai/matgl"
+      },
+      "cited_by_count": 17,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 6
+        },
+        {
+          "year": 2026,
+          "citations": 11
+        }
+      ],
+      "last_updated": "2026-06-07T06:36:21.929126"
     },
     {
       "paper_id": "PET-0",
@@ -2215,48 +2256,7 @@
           "citations": 1
         }
       ],
-      "last_updated": "2026-05-31T06:25:45.925975"
-    },
-    {
-      "paper_id": "MatGL-0",
-      "project_id": "MatGL",
-      "doi": "https://doi.org/10.1038/s41524-025-01742-y",
-      "openalex_id": "https://openalex.org/W4412974141",
-      "title": "Materials Graph Library (MatGL), an open-source graph deep learning library for materials science and chemistry",
-      "authors": [
-        "Tsz Wai Ko",
-        "Bowen Deng",
-        "Marcel Nassar",
-        "Luis Barroso-Luque",
-        "Runze Liu",
-        "Ji Qi",
-        "Atul C. Thakur",
-        "Amiya Kanta Mishra",
-        "Elliott Liu",
-        "Gerbrand Ceder",
-        "Santiago Miret",
-        "Shyue Ping Ong"
-      ],
-      "publication_year": 2025,
-      "venue": "npj Computational Materials",
-      "community": "Materialyze.AI",
-      "category": "software",
-      "links": {
-        "arXiv": "https://arxiv.org/abs/2503.03837",
-        "GitHub": "https://github.com/materialyzeai/matgl"
-      },
-      "cited_by_count": 15,
-      "citation_history": [
-        {
-          "year": 2025,
-          "citations": 6
-        },
-        {
-          "year": 2026,
-          "citations": 9
-        }
-      ],
-      "last_updated": "2026-05-31T06:26:01.939405"
+      "last_updated": "2026-06-07T06:36:10.495614"
     },
     {
       "paper_id": "Nequip-1",
@@ -2299,7 +2299,7 @@
           "citations": 7
         }
       ],
-      "last_updated": "2026-05-31T06:25:43.155708"
+      "last_updated": "2026-06-07T06:36:08.242185"
     },
     {
       "paper_id": "NEP-1",
@@ -2340,7 +2340,7 @@
           "citations": 4
         }
       ],
-      "last_updated": "2026-05-31T06:25:43.824012"
+      "last_updated": "2026-06-07T06:36:08.770056"
     },
     {
       "paper_id": "LES-3",
@@ -2365,7 +2365,7 @@
         "arXiv": "https://arxiv.org/abs/2507.14302",
         "GitHub": "https://github.com/ChengUCB/les"
       },
-      "cited_by_count": 10,
+      "cited_by_count": 11,
       "citation_history": [
         {
           "year": 2025,
@@ -2373,10 +2373,10 @@
         },
         {
           "year": 2026,
-          "citations": 9
+          "citations": 10
         }
       ],
-      "last_updated": "2026-05-31T06:25:56.561631"
+      "last_updated": "2026-06-07T06:36:18.123472"
     },
     {
       "paper_id": "MAD-1",
@@ -2400,7 +2400,7 @@
       "links": {
         "Materials Cloud": "https://archive.materialscloud.org/records/c4ene-0mv14"
       },
-      "cited_by_count": 8,
+      "cited_by_count": 9,
       "citation_history": [
         {
           "year": 2025,
@@ -2408,10 +2408,10 @@
         },
         {
           "year": 2026,
-          "citations": 7
+          "citations": 8
         }
       ],
-      "last_updated": "2026-05-31T06:25:51.065846"
+      "last_updated": "2026-06-07T06:36:14.391175"
     },
     {
       "paper_id": "MatPES-0",
@@ -2451,7 +2451,7 @@
           "citations": 7
         }
       ],
-      "last_updated": "2026-05-31T06:25:51.825048"
+      "last_updated": "2026-06-07T06:36:14.996330"
     },
     {
       "paper_id": "OC25",
@@ -2489,7 +2489,7 @@
           "citations": 7
         }
       ],
-      "last_updated": "2026-05-31T06:25:53.318794"
+      "last_updated": "2026-06-07T06:36:15.994748"
     },
     {
       "paper_id": "NEP89-0",
@@ -2533,7 +2533,7 @@
           "citations": 8
         }
       ],
-      "last_updated": "2026-05-31T06:25:58.817355"
+      "last_updated": "2026-06-07T06:36:19.770013"
     },
     {
       "paper_id": "LES-2",
@@ -2555,14 +2555,14 @@
         "arXiv": "https://arxiv.org/abs/2504.05169",
         "GitHub": "https://github.com/ChengUCB/les"
       },
-      "cited_by_count": 6,
+      "cited_by_count": 7,
       "citation_history": [
         {
           "year": 2026,
-          "citations": 6
+          "citations": 7
         }
       ],
-      "last_updated": "2026-05-31T06:25:56.050190"
+      "last_updated": "2026-06-07T06:36:17.863738"
     },
     {
       "paper_id": "GRACE-1",
@@ -2590,7 +2590,7 @@
           "citations": 5
         }
       ],
-      "last_updated": "2026-05-31T06:25:49.269666"
+      "last_updated": "2026-06-07T06:36:12.990812"
     },
     {
       "paper_id": "GRACE-1",
@@ -2618,50 +2618,7 @@
           "citations": 5
         }
       ],
-      "last_updated": "2026-05-31T06:26:00.665349"
-    },
-    {
-      "paper_id": "DPA3",
-      "project_id": "DP",
-      "doi": "https://doi.org/10.48550/arXiv.2506.01686",
-      "openalex_id": "https://openalex.org/W4417114399",
-      "title": "A Graph Neural Network for the Era of Large Atomistic Models",
-      "authors": [
-        "Duo Zhang",
-        "Anyang Peng",
-        "Chun Cai",
-        "Wentao Li",
-        "Zhou, Yuanchang",
-        "Jinzhe Zeng",
-        "Mingyu Guo",
-        "Chengqian Zhang",
-        "Bowen Li",
-        "Hong Jiang",
-        "Tong Zhu",
-        "Weile Jia",
-        "Linfeng Zhang",
-        "Han Wang"
-      ],
-      "publication_year": 2025,
-      "venue": "ArXiv.org",
-      "community": "DeepModeling",
-      "category": "architecture",
-      "links": {
-        "arXiv": "https://doi.org/10.48550/arXiv.2506.01686",
-        "GitHub": "https://github.com/deepmodeling/deepmd-kit"
-      },
-      "cited_by_count": 3,
-      "citation_history": [
-        {
-          "year": 2025,
-          "citations": 1
-        },
-        {
-          "year": 2026,
-          "citations": 2
-        }
-      ],
-      "last_updated": "2026-05-24T06:07:32.391654"
+      "last_updated": "2026-06-07T06:36:21.096115"
     },
     {
       "paper_id": "dpdata-0",
@@ -2719,14 +2676,57 @@
       "links": {
         "GitHub": "https://github.com/deepmodeling/dpdata"
       },
-      "cited_by_count": 3,
+      "cited_by_count": 4,
       "citation_history": [
         {
           "year": 2026,
-          "citations": 3
+          "citations": 4
         }
       ],
-      "last_updated": "2026-05-31T06:25:53.754683"
+      "last_updated": "2026-06-07T06:36:16.280363"
+    },
+    {
+      "paper_id": "DPA3",
+      "project_id": "DP",
+      "doi": "https://doi.org/10.48550/arXiv.2506.01686",
+      "openalex_id": "https://openalex.org/W4417114399",
+      "title": "A Graph Neural Network for the Era of Large Atomistic Models",
+      "authors": [
+        "Duo Zhang",
+        "Anyang Peng",
+        "Chun Cai",
+        "Wentao Li",
+        "Zhou, Yuanchang",
+        "Jinzhe Zeng",
+        "Mingyu Guo",
+        "Chengqian Zhang",
+        "Bowen Li",
+        "Hong Jiang",
+        "Tong Zhu",
+        "Weile Jia",
+        "Linfeng Zhang",
+        "Han Wang"
+      ],
+      "publication_year": 2025,
+      "venue": "ArXiv.org",
+      "community": "DeepModeling",
+      "category": "architecture",
+      "links": {
+        "arXiv": "https://doi.org/10.48550/arXiv.2506.01686",
+        "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+      },
+      "cited_by_count": 3,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 1
+        },
+        {
+          "year": 2026,
+          "citations": 2
+        }
+      ],
+      "last_updated": "2026-05-24T06:07:32.391654"
     },
     {
       "paper_id": "SEVENNET-2",
@@ -2765,7 +2765,7 @@
           "citations": 2
         }
       ],
-      "last_updated": "2026-05-31T06:25:48.614772"
+      "last_updated": "2026-06-07T06:36:12.518580"
     },
     {
       "paper_id": "SEVENNET-2",
@@ -2804,7 +2804,7 @@
           "citations": 2
         }
       ],
-      "last_updated": "2026-05-31T06:26:00.310519"
+      "last_updated": "2026-06-07T06:36:20.820593"
     },
     {
       "paper_id": "OMC25",
@@ -2848,7 +2848,7 @@
           "citations": 1
         }
       ],
-      "last_updated": "2026-05-31T06:25:52.203865"
+      "last_updated": "2026-06-07T06:36:15.247575"
     },
     {
       "paper_id": "UPET-0",
@@ -2873,7 +2873,7 @@
       },
       "cited_by_count": 0,
       "citation_history": [],
-      "last_updated": "2026-05-31T06:25:45.576569"
+      "last_updated": "2026-06-07T06:36:10.233127"
     },
     {
       "paper_id": "QET-0",
@@ -2899,7 +2899,7 @@
       },
       "cited_by_count": 0,
       "citation_history": [],
-      "last_updated": "2026-05-31T06:25:46.964709"
+      "last_updated": "2026-06-07T06:36:11.307083"
     },
     {
       "paper_id": "OMol25",
@@ -2946,7 +2946,7 @@
       },
       "cited_by_count": 0,
       "citation_history": [],
-      "last_updated": "2026-05-31T06:25:51.452794"
+      "last_updated": "2026-06-07T06:36:14.644956"
     },
     {
       "paper_id": "PET-MAT-1.5",
@@ -2974,7 +2974,7 @@
       },
       "cited_by_count": 0,
       "citation_history": [],
-      "last_updated": "2026-05-31T06:25:57.274489"
+      "last_updated": "2026-06-07T06:36:18.679888"
     },
     {
       "paper_id": "QET-0",
@@ -3000,7 +3000,7 @@
       },
       "cited_by_count": 0,
       "citation_history": [],
-      "last_updated": "2026-05-31T06:25:58.420226"
+      "last_updated": "2026-06-07T06:36:19.495610"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "generated_at": "2026-06-21T06:57:23.300773",
+    "generated_at": "2026-06-28T06:25:34.019167",
     "total_papers": 65,
-    "fetched": 63,
-    "cached": 0,
+    "fetched": 0,
+    "cached": 63,
     "failed_dois": [
       "10.48550/arXiv.2506.01686",
       "10.48550/arXiv.2505.08762"
@@ -325,7 +325,7 @@
           "citations": 153
         }
       ],
-      "last_updated": "2026-06-21T06:57:04.372137"
+      "last_updated": "2026-06-21T06:57:17.006153"
     },
     {
       "paper_id": "M3GNET-0",
@@ -412,7 +412,7 @@
           "citations": 194
         }
       ],
-      "last_updated": "2026-06-21T06:57:03.967619"
+      "last_updated": "2026-06-21T06:57:16.575933"
     },
     {
       "paper_id": "CHGNET-0",
@@ -657,7 +657,7 @@
       "last_updated": "2026-06-21T06:57:21.762341"
     },
     {
-      "paper_id": "NEP-3",
+      "paper_id": "GPUMD-1.0",
       "project_id": "NEP",
       "doi": "https://doi.org/10.1063/5.0106617",
       "openalex_id": "https://openalex.org/W4281385937",
@@ -715,7 +715,7 @@
           "citations": 90
         }
       ],
-      "last_updated": "2026-06-21T06:57:02.029408"
+      "last_updated": "2026-06-21T06:57:22.673321"
     },
     {
       "paper_id": "GPUMD-1.0",
@@ -1719,7 +1719,7 @@
           "citations": 32
         }
       ],
-      "last_updated": "2026-06-21T06:57:06.183086"
+      "last_updated": "2026-06-21T06:57:18.863313"
     },
     {
       "paper_id": "SEVENNET-1",
@@ -1860,7 +1860,7 @@
           "citations": 18
         }
       ],
-      "last_updated": "2026-06-21T06:57:05.048820"
+      "last_updated": "2026-06-21T06:57:18.139995"
     },
     {
       "paper_id": "ORB-v2",
@@ -1948,7 +1948,7 @@
           "citations": 31
         }
       ],
-      "last_updated": "2026-06-21T06:57:07.828771"
+      "last_updated": "2026-06-21T06:57:20.111472"
     },
     {
       "paper_id": "UMA-0",
@@ -2138,7 +2138,7 @@
           "citations": 16
         }
       ],
-      "last_updated": "2026-06-21T06:57:05.446525"
+      "last_updated": "2026-06-21T06:57:18.461635"
     },
     {
       "paper_id": "ORB-v3",
@@ -2593,7 +2593,7 @@
           "citations": 6
         }
       ],
-      "last_updated": "2026-06-21T06:57:07.401994"
+      "last_updated": "2026-06-21T06:57:19.718971"
     },
     {
       "paper_id": "dpdata-0",
@@ -2768,7 +2768,7 @@
           "citations": 2
         }
       ],
-      "last_updated": "2026-06-21T06:57:06.564890"
+      "last_updated": "2026-06-21T06:57:19.257736"
     },
     {
       "paper_id": "SEVENNET-2",
@@ -2902,7 +2902,7 @@
       },
       "cited_by_count": 0,
       "citation_history": [],
-      "last_updated": "2026-06-21T06:57:04.736948"
+      "last_updated": "2026-06-21T06:57:17.400079"
     },
     {
       "paper_id": "OMol25",
@@ -2924,7 +2924,7 @@
       "last_updated": "2026-04-04T19:06:10.484325"
     },
     {
-      "paper_id": "MAD-1.5",
+      "paper_id": "PET-MAT-1.5",
       "project_id": "MAD",
       "doi": "https://doi.org/10.48550/arXiv.2603.02089",
       "openalex_id": "https://openalex.org/W7133353006",
@@ -2949,7 +2949,7 @@
       },
       "cited_by_count": 0,
       "citation_history": [],
-      "last_updated": "2026-06-21T06:57:10.008447"
+      "last_updated": "2026-06-21T06:57:16.135608"
     },
     {
       "paper_id": "PET-MAT-1.5",

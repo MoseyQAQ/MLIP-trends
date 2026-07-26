@@ -1,13 +1,75 @@
 {
   "metadata": {
-    "generated_at": "2026-07-19T05:28:47.289073",
+    "generated_at": "2026-07-26T05:37:38.178390",
     "total_papers": 65,
-    "fetched": 62,
+    "fetched": 0,
     "cached": 0,
     "failed_dois": [
+      "10.48550/arXiv.1805.09003",
+      "10.1038/s41524-024-01278-7",
+      "10.1038/s41524-024-01493-2",
       "10.48550/arXiv.2506.01686",
+      "10.48550/arXiv.2205.06643",
+      "10.48550/arXiv.2206.07697",
+      "10.1038/s41467-022-29939-5",
+      "10.48550/arXiv.2504.16068",
+      "10.1038/s41467-023-36329-y",
+      "10.1103/PhysRevB.104.104309",
+      "10.1088/1361-648X/ac462b",
+      "10.1063/5.0106617",
+      "10.1038/s41467-024-54554-x",
+      "10.1038/s41524-024-01332-4",
+      "10.48550/arXiv.2601.16195",
+      "10.48550/arXiv.2305.19302",
+      "10.1038/s42256-023-00716-3",
+      "10.1038/s43588-022-00349-3",
+      "10.48550/arXiv.2511.07249",
+      "10.48550/arXiv.2410.22570",
+      "10.48550/arXiv.2504.06231",
+      "10.1021/acs.jctc.4c00190",
+      "10.1021/jacs.4c14455",
+      "10.1038/s41467-026-70195-8",
+      "10.1103/PhysRevX.14.021036",
+      "10.1038/s41524-026-01979-1",
+      "10.48550/arXiv.2506.23971",
+      "10.48550/arXiv.2306.12059",
+      "10.48550/arXiv.2502.12147",
       "10.48550/arXiv.2505.08762",
-      "10.48550/arXiv.2504.21286"
+      "10.48550/arXiv.2410.12771",
+      "10.1038/s41597-025-06109-y",
+      "10.48550/arXiv.2603.02089",
+      "10.48550/arXiv.2503.04070",
+      "10.48550/arXiv.2508.02651",
+      "10.1021/acscatal.0c04525",
+      "10.1021/acscatal.2c05426",
+      "10.48550/arXiv.2509.17862",
+      "10.1021/acs.jcim.5c01767",
+      "10.1016/j.cpc.2020.107206",
+      "10.1063/5.0083669",
+      "10.1021/acs.jctc.1c00201",
+      "10.1038/s41524-025-01577-7",
+      "10.1038/s41467-025-63852-x",
+      "10.1038/s41524-025-01911-z",
+      "10.1021/acs.jctc.5c01400",
+      "10.1038/s41467-025-65662-7",
+      "10.48550/arXiv.2603.02089",
+      "10.1038/s42256-023-00716-3",
+      "10.1038/s43588-022-00349-3",
+      "10.48550/arXiv.2511.07249",
+      "10.48550/arXiv.2504.21286",
+      "10.48550/arXiv.2410.22570",
+      "10.48550/arXiv.2504.06231",
+      "10.1021/jacs.4c14455",
+      "10.1038/s41467-026-70195-8",
+      "10.1038/s41524-026-01979-1",
+      "10.48550/arXiv.2506.23971",
+      "10.48550/arXiv.2405.04967",
+      "10.1038/s41524-025-01742-y",
+      "10.1016/j.cpc.2018.03.016",
+      "10.1063/5.0155600",
+      "10.1021/acs.jctc.5c00340",
+      "10.1063/5.0106617",
+      "10.1002/mgea.70028"
     ]
   },
   "communities": [
@@ -298,7 +360,7 @@
       "publication_year": 2022,
       "venue": "Nature Computational Science",
       "community": "Materialyze.AI",
-      "category": "architecture",
+      "category": "foundation_model",
       "links": {
         "arXiv": "https://arxiv.org/abs/2202.02450",
         "GitHub": "https://github.com/materialyzeai/matgl"
@@ -326,7 +388,7 @@
           "citations": 178
         }
       ],
-      "last_updated": "2026-07-19T05:28:29.811342"
+      "last_updated": "2026-07-19T05:28:41.492691"
     },
     {
       "paper_id": "M3GNET-0",
@@ -389,7 +451,7 @@
       "publication_year": 2023,
       "venue": "Nature Machine Intelligence",
       "community": "Ceder Group",
-      "category": "architecture",
+      "category": "foundation_model",
       "links": {
         "arXiv": "https://arxiv.org/abs/2302.14231",
         "GitHub": "https://github.com/CederGroupHub/chgnet"
@@ -413,7 +475,7 @@
           "citations": 225
         }
       ],
-      "last_updated": "2026-07-19T05:28:29.521262"
+      "last_updated": "2026-07-19T05:28:41.119321"
     },
     {
       "paper_id": "CHGNET-0",
@@ -658,7 +720,7 @@
       "last_updated": "2026-07-19T05:28:45.671308"
     },
     {
-      "paper_id": "NEP-3",
+      "paper_id": "GPUMD-1.0",
       "project_id": "NEP",
       "doi": "https://doi.org/10.1063/5.0106617",
       "openalex_id": "https://openalex.org/W4281385937",
@@ -688,7 +750,7 @@
       "publication_year": 2022,
       "venue": "The Journal of Chemical Physics",
       "community": "NEP",
-      "category": "architecture",
+      "category": "software",
       "links": {
         "arXiv": "https://arxiv.org/abs/2205.10046",
         "GitHub": "https://github.com/brucefan1983/GPUMD"
@@ -716,7 +778,7 @@
           "citations": 108
         }
       ],
-      "last_updated": "2026-07-19T05:28:27.695630"
+      "last_updated": "2026-07-19T05:28:46.604999"
     },
     {
       "paper_id": "GPUMD-1.0",
@@ -1734,7 +1796,7 @@
       "publication_year": 2024,
       "venue": "Journal of the American Chemical Society",
       "community": "MDIL-SNU",
-      "category": "architecture",
+      "category": "foundation_model",
       "links": {
         "arXiv": "https://arxiv.org/abs/2409.07947",
         "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
@@ -1750,7 +1812,7 @@
           "citations": 34
         }
       ],
-      "last_updated": "2026-07-19T05:28:31.519603"
+      "last_updated": "2026-07-19T05:28:42.968898"
     },
     {
       "paper_id": "SEVENNET-1",
@@ -1841,7 +1903,7 @@
       "publication_year": 2024,
       "venue": "arXiv (Cornell University)",
       "community": "Orbital Materials",
-      "category": "architecture",
+      "category": "foundation_model",
       "links": {
         "arXiv": "https://arxiv.org/abs/2410.22570",
         "GitHub": "https://github.com/orbital-materials/orb-models"
@@ -1861,7 +1923,7 @@
           "citations": 20
         }
       ],
-      "last_updated": "2026-07-19T05:28:30.454961"
+      "last_updated": "2026-07-19T05:28:42.263448"
     },
     {
       "paper_id": "ORB-v2",
@@ -1933,7 +1995,7 @@
       "publication_year": 2025,
       "venue": "arXiv (Cornell University)",
       "community": "Meta FAIR",
-      "category": "architecture",
+      "category": "foundation_model",
       "links": {
         "arXiv": "https://arxiv.org/abs/2506.23971",
         "Website": "https://fair-chem.github.io/uma/"
@@ -1949,7 +2011,7 @@
           "citations": 38
         }
       ],
-      "last_updated": "2026-07-19T05:28:32.975523"
+      "last_updated": "2026-07-19T05:28:44.073223"
     },
     {
       "paper_id": "UMA-0",
@@ -2123,7 +2185,7 @@
       "publication_year": 2025,
       "venue": "arXiv (Cornell University)",
       "community": "Orbital Materials",
-      "category": "architecture",
+      "category": "foundation_model",
       "links": {
         "arXiv": "https://arxiv.org/abs/2504.06231",
         "GitHub": "https://github.com/orbital-materials/orb-models"
@@ -2139,7 +2201,7 @@
           "citations": 17
         }
       ],
-      "last_updated": "2026-07-19T05:28:30.792880"
+      "last_updated": "2026-07-19T05:28:42.613823"
     },
     {
       "paper_id": "ORB-v3",
@@ -2459,7 +2521,7 @@
       "publication_year": 2026,
       "venue": "npj Computational Materials",
       "community": "ICAMS",
-      "category": "architecture",
+      "category": "foundation_model",
       "links": {
         "arXiv": "https://arxiv.org/abs/2508.17936v1",
         "GitHub": "https://github.com/ICAMS/grace-tensorpotential"
@@ -2471,7 +2533,7 @@
           "citations": 10
         }
       ],
-      "last_updated": "2026-07-19T05:28:32.642551"
+      "last_updated": "2026-07-19T05:28:43.711103"
     },
     {
       "paper_id": "GRACE-1",
@@ -2757,7 +2819,7 @@
       "publication_year": 2026,
       "venue": "Nature Communications",
       "community": "MDIL-SNU",
-      "category": "architecture",
+      "category": "foundation_model",
       "links": {
         "arXiv": "https://arxiv.org/abs/2510.11241",
         "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
@@ -2769,7 +2831,7 @@
           "citations": 2
         }
       ],
-      "last_updated": "2026-07-19T05:28:31.874035"
+      "last_updated": "2026-07-19T05:28:43.337866"
     },
     {
       "paper_id": "SEVENNET-2",
@@ -2827,7 +2889,7 @@
       "publication_year": 2025,
       "venue": "arXiv (Cornell University)",
       "community": "Materialyze.AI",
-      "category": "architecture",
+      "category": "foundation_model",
       "links": {
         "arXiv": "https://arxiv.org/abs/2511.07249",
         "GitHub": "https://github.com/materialyzeai/matgl"
@@ -2839,11 +2901,11 @@
           "citations": 1
         }
       ],
-      "last_updated": "2026-07-19T05:28:30.175734"
+      "last_updated": "2026-07-19T05:28:41.861004"
     },
     {
-      "paper_id": "MAD-1.5",
-      "project_id": "MAD",
+      "paper_id": "PET-MAT-1.5",
+      "project_id": "PET-MAD",
       "doi": "https://doi.org/10.48550/arXiv.2603.02089",
       "openalex_id": "https://openalex.org/W7133353006",
       "title": "High-quality, high-information dataset for universal atomistic machine learning",
@@ -2860,10 +2922,10 @@
       "publication_year": 2026,
       "venue": "arXiv (Cornell University)",
       "community": "COSMO",
-      "category": "dataset",
+      "category": "foundation_model",
       "links": {
         "arXiv": "https://doi.org/10.48550/arXiv.2603.02089",
-        "Materials Cloud": "https://archive.materialscloud.org/records/18tke-tt476"
+        "GitHub": "https://github.com/lab-cosmo/upet"
       },
       "cited_by_count": 1,
       "citation_history": [
@@ -2872,7 +2934,7 @@
           "citations": 1
         }
       ],
-      "last_updated": "2026-07-19T05:28:34.863207"
+      "last_updated": "2026-07-19T05:28:40.756868"
     },
     {
       "paper_id": "OMC25",

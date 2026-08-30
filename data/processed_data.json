@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2026-08-23T03:08:51.386162",
+    "generated_at": "2026-08-30T08:09:53.097286",
     "total_papers": 65,
     "fetched": 60,
     "cached": 0,
@@ -130,7 +130,7 @@
         "arXiv": "https://arxiv.org/abs/1712.03641",
         "GitHub": "https://github.com/deepmodeling/deepmd-kit"
       },
-      "cited_by_count": 2138,
+      "cited_by_count": 2152,
       "citation_history": [
         {
           "year": 2018,
@@ -166,10 +166,10 @@
         },
         {
           "year": 2026,
-          "citations": 378
+          "citations": 392
         }
       ],
-      "last_updated": "2026-08-23T03:08:49.011864"
+      "last_updated": "2026-08-30T08:09:51.966221"
     },
     {
       "paper_id": "Nequip-0",
@@ -196,7 +196,7 @@
         "arXiv": "https://doi.org/10.48550/arXiv.2101.03164",
         "GitHub": "https://github.com/mir-group/nequip"
       },
-      "cited_by_count": 1801,
+      "cited_by_count": 1816,
       "citation_history": [
         {
           "year": 2021,
@@ -220,10 +220,10 @@
         },
         {
           "year": 2026,
-          "citations": 412
+          "citations": 427
         }
       ],
-      "last_updated": "2026-08-23T03:08:24.218537"
+      "last_updated": "2026-08-30T08:09:40.453861"
     },
     {
       "paper_id": "dpgen-0",
@@ -250,7 +250,7 @@
         "arXiv": "https://arxiv.org/abs/1910.12690",
         "GitHub": "https://github.com/deepmodeling/dpgen"
       },
-      "cited_by_count": 948,
+      "cited_by_count": 953,
       "citation_history": [
         {
           "year": 2019,
@@ -282,10 +282,10 @@
         },
         {
           "year": 2026,
-          "citations": 178
+          "citations": 183
         }
       ],
-      "last_updated": "2026-08-23T03:08:39.438825"
+      "last_updated": "2026-08-30T08:09:47.507209"
     },
     {
       "paper_id": "M3GNET-0",
@@ -305,7 +305,7 @@
         "arXiv": "https://arxiv.org/abs/2202.02450",
         "GitHub": "https://github.com/materialyzeai/matgl"
       },
-      "cited_by_count": 920,
+      "cited_by_count": 928,
       "citation_history": [
         {
           "year": 2022,
@@ -325,10 +325,10 @@
         },
         {
           "year": 2026,
-          "citations": 217
+          "citations": 225
         }
       ],
-      "last_updated": "2026-08-23T03:08:29.508458"
+      "last_updated": "2026-08-30T08:09:42.879668"
     },
     {
       "paper_id": "M3GNET-0",
@@ -348,7 +348,7 @@
         "arXiv": "https://arxiv.org/abs/2202.02450",
         "GitHub": "https://github.com/materialyzeai/matgl"
       },
-      "cited_by_count": 920,
+      "cited_by_count": 928,
       "citation_history": [
         {
           "year": 2022,
@@ -368,10 +368,10 @@
         },
         {
           "year": 2026,
-          "citations": 217
+          "citations": 225
         }
       ],
-      "last_updated": "2026-08-23T03:08:44.241440"
+      "last_updated": "2026-08-30T08:09:49.699284"
     },
     {
       "paper_id": "CHGNET-0",
@@ -396,7 +396,7 @@
         "arXiv": "https://arxiv.org/abs/2302.14231",
         "GitHub": "https://github.com/CederGroupHub/chgnet"
       },
-      "cited_by_count": 846,
+      "cited_by_count": 852,
       "citation_history": [
         {
           "year": 2023,
@@ -412,10 +412,10 @@
         },
         {
           "year": 2026,
-          "citations": 271
+          "citations": 277
         }
       ],
-      "last_updated": "2026-08-23T03:08:29.027925"
+      "last_updated": "2026-08-30T08:09:42.666308"
     },
     {
       "paper_id": "CHGNET-0",
@@ -440,7 +440,7 @@
         "arXiv": "https://arxiv.org/abs/2302.14231",
         "GitHub": "https://github.com/CederGroupHub/chgnet"
       },
-      "cited_by_count": 846,
+      "cited_by_count": 852,
       "citation_history": [
         {
           "year": 2023,
@@ -456,10 +456,10 @@
         },
         {
           "year": 2026,
-          "citations": 271
+          "citations": 277
         }
       ],
-      "last_updated": "2026-08-23T03:08:43.777140"
+      "last_updated": "2026-08-30T08:09:49.471042"
     },
     {
       "paper_id": "OC20",
@@ -494,7 +494,7 @@
         "arXiv": "https://arxiv.org/abs/2010.09990",
         "Website": "https://fair-chem.github.io/oc20/"
       },
-      "cited_by_count": 759,
+      "cited_by_count": 767,
       "citation_history": [
         {
           "year": 2020,
@@ -518,14 +518,14 @@
         },
         {
           "year": 2025,
-          "citations": 201
+          "citations": 202
         },
         {
           "year": 2026,
-          "citations": 152
+          "citations": 159
         }
       ],
-      "last_updated": "2026-08-23T03:08:37.442924"
+      "last_updated": "2026-08-30T08:09:46.580599"
     },
     {
       "paper_id": "Allegro-0",
@@ -550,7 +550,7 @@
         "arXiv": "https://doi.org/10.48550/arXiv.2204.05249",
         "GitHub": "https://github.com/mir-group/allegro"
       },
-      "cited_by_count": 666,
+      "cited_by_count": 672,
       "citation_history": [
         {
           "year": 2022,
@@ -570,10 +570,10 @@
         },
         {
           "year": 2026,
-          "citations": 157
+          "citations": 163
         }
       ],
-      "last_updated": "2026-08-23T03:08:25.342775"
+      "last_updated": "2026-08-30T08:09:40.883757"
     },
     {
       "paper_id": "DeepMD-kit-v2",
@@ -638,7 +638,7 @@
         "arXiv": "https://arxiv.org/abs/2304.09409",
         "GitHub": "https://github.com/deepmodeling/deepmd-kit"
       },
-      "cited_by_count": 583,
+      "cited_by_count": 588,
       "citation_history": [
         {
           "year": 2023,
@@ -654,10 +654,10 @@
         },
         {
           "year": 2026,
-          "citations": 164
+          "citations": 169
         }
       ],
-      "last_updated": "2026-08-23T03:08:49.566482"
+      "last_updated": "2026-08-30T08:09:52.212690"
     },
     {
       "paper_id": "NEP-3",
@@ -695,7 +695,7 @@
         "arXiv": "https://arxiv.org/abs/2205.10046",
         "GitHub": "https://github.com/brucefan1983/GPUMD"
       },
-      "cited_by_count": 438,
+      "cited_by_count": 443,
       "citation_history": [
         {
           "year": 2022,
@@ -715,10 +715,10 @@
         },
         {
           "year": 2026,
-          "citations": 125
+          "citations": 130
         }
       ],
-      "last_updated": "2026-08-23T03:08:26.744450"
+      "last_updated": "2026-08-30T08:09:41.540855"
     },
     {
       "paper_id": "GPUMD-1.0",
@@ -756,7 +756,7 @@
         "arXiv": "https://arxiv.org/abs/2205.10046",
         "GitHub": "https://github.com/brucefan1983/GPUMD"
       },
-      "cited_by_count": 438,
+      "cited_by_count": 443,
       "citation_history": [
         {
           "year": 2022,
@@ -776,10 +776,10 @@
         },
         {
           "year": 2026,
-          "citations": 125
+          "citations": 130
         }
       ],
-      "last_updated": "2026-08-23T03:08:50.680883"
+      "last_updated": "2026-08-30T08:09:52.701829"
     },
     {
       "paper_id": "OC22",
@@ -814,7 +814,7 @@
         "arXiv": "https://arxiv.org/abs/2206.08917",
         "Website": "https://fair-chem.github.io/oc22/"
       },
-      "cited_by_count": 311,
+      "cited_by_count": 313,
       "citation_history": [
         {
           "year": 2022,
@@ -830,14 +830,14 @@
         },
         {
           "year": 2025,
-          "citations": 113
+          "citations": 114
         },
         {
           "year": 2026,
-          "citations": 84
+          "citations": 85
         }
       ],
-      "last_updated": "2026-08-23T03:08:37.930147"
+      "last_updated": "2026-08-30T08:09:46.785966"
     },
     {
       "paper_id": "MACE-1",
@@ -860,7 +860,7 @@
         "arXiv": "https://doi.org/10.48550/arXiv.2206.07697",
         "GitHub": "https://github.com/ACEsuit/mace"
       },
-      "cited_by_count": 298,
+      "cited_by_count": 301,
       "citation_history": [
         {
           "year": 2022,
@@ -880,10 +880,10 @@
         },
         {
           "year": 2026,
-          "citations": 43
+          "citations": 46
         }
       ],
-      "last_updated": "2026-08-23T03:08:23.717940"
+      "last_updated": "2026-08-30T08:09:40.228071"
     },
     {
       "paper_id": "DPLR",
@@ -930,7 +930,7 @@
           "citations": 45
         }
       ],
-      "last_updated": "2026-08-23T03:08:39.911241"
+      "last_updated": "2026-08-30T08:09:47.719970"
     },
     {
       "paper_id": "SEVENNET-0",
@@ -952,7 +952,7 @@
         "arXiv": "https://arxiv.org/abs/2402.03789",
         "GitHub": "https://github.com/MDIL-SNU/SEVENNet"
       },
-      "cited_by_count": 208,
+      "cited_by_count": 210,
       "citation_history": [
         {
           "year": 2024,
@@ -964,10 +964,10 @@
         },
         {
           "year": 2026,
-          "citations": 82
+          "citations": 84
         }
       ],
-      "last_updated": "2026-08-23T03:08:31.235212"
+      "last_updated": "2026-08-30T08:09:43.741140"
     },
     {
       "paper_id": "NEP-4",
@@ -1013,7 +1013,7 @@
         "arXiv": "https://arxiv.org/abs/2311.04732",
         "GitHub": "https://github.com/brucefan1983/GPUMD"
       },
-      "cited_by_count": 194,
+      "cited_by_count": 198,
       "citation_history": [
         {
           "year": 2024,
@@ -1025,10 +1025,10 @@
         },
         {
           "year": 2026,
-          "citations": 88
+          "citations": 92
         }
       ],
-      "last_updated": "2026-08-23T03:08:27.251439"
+      "last_updated": "2026-08-30T08:09:41.770974"
     },
     {
       "paper_id": "DeepPot-SE",
@@ -1091,7 +1091,7 @@
           "citations": 2
         }
       ],
-      "last_updated": "2026-08-23T03:08:21.640194"
+      "last_updated": "2026-08-30T08:09:39.283128"
     },
     {
       "paper_id": "NEP-2",
@@ -1110,7 +1110,7 @@
         "arXiv": "https://arxiv.org/abs/2109.10643",
         "GitHub": "https://github.com/brucefan1983/GPUMD"
       },
-      "cited_by_count": 139,
+      "cited_by_count": 140,
       "citation_history": [
         {
           "year": 2022,
@@ -1130,10 +1130,10 @@
         },
         {
           "year": 2026,
-          "citations": 22
+          "citations": 23
         }
       ],
-      "last_updated": "2026-08-23T03:08:26.207285"
+      "last_updated": "2026-08-30T08:09:41.316625"
     },
     {
       "paper_id": "DPA2",
@@ -1196,7 +1196,7 @@
         "arXiv": "https://arxiv.org/abs/2312.15492",
         "GitHub": "https://github.com/deepmodeling/deepmd-kit"
       },
-      "cited_by_count": 128,
+      "cited_by_count": 131,
       "citation_history": [
         {
           "year": 2024,
@@ -1208,10 +1208,10 @@
         },
         {
           "year": 2026,
-          "citations": 41
+          "citations": 44
         }
       ],
-      "last_updated": "2026-08-23T03:08:22.600977"
+      "last_updated": "2026-08-30T08:09:39.718480"
     },
     {
       "paper_id": "DPRc",
@@ -1259,7 +1259,62 @@
           "citations": 20
         }
       ],
-      "last_updated": "2026-08-23T03:08:40.369569"
+      "last_updated": "2026-08-30T08:09:47.928781"
+    },
+    {
+      "paper_id": "MATTERSIM-0",
+      "project_id": "MATTERSIM",
+      "doi": "https://doi.org/10.48550/arXiv.2405.04967",
+      "openalex_id": "https://openalex.org/W4396816788",
+      "title": "MatterSim: A Deep Learning Atomistic Model Across Elements, Temperatures and Pressures",
+      "authors": [
+        "Han Yang",
+        "Chenxi Hu",
+        "Yichi Zhou",
+        "Xixian Liu",
+        "Shi Yu",
+        "Jielan Li",
+        "Guanzhi Li",
+        "Zekun Chen",
+        "Shuizhou Chen",
+        "Claudio Zeni",
+        "Matthew K. Horton",
+        "Robert Pinsler",
+        "Andrew Fowler",
+        "Daniel Zügner",
+        "Tian Xie",
+        "Jake A. Smith",
+        "Lixin Sun",
+        "Qian Wang",
+        "Lingyu Kong",
+        "Chang Liu",
+        "Hongxia Hao",
+        "Ziheng Lu"
+      ],
+      "publication_year": 2024,
+      "venue": "arXiv (Cornell University)",
+      "community": "Microsoft",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2405.04967",
+        "Website": "https://github.com/microsoft/mattersim"
+      },
+      "cited_by_count": 104,
+      "citation_history": [
+        {
+          "year": 2024,
+          "citations": 6
+        },
+        {
+          "year": 2025,
+          "citations": 50
+        },
+        {
+          "year": 2026,
+          "citations": 48
+        }
+      ],
+      "last_updated": "2026-08-30T08:09:51.479709"
     },
     {
       "paper_id": "DPA1",
@@ -1299,7 +1354,7 @@
           "citations": 31
         }
       ],
-      "last_updated": "2026-08-23T03:08:22.090284"
+      "last_updated": "2026-08-30T08:09:39.493041"
     },
     {
       "paper_id": "MACE-0",
@@ -1349,62 +1404,7 @@
           "citations": 6
         }
       ],
-      "last_updated": "2026-08-23T03:08:23.261960"
-    },
-    {
-      "paper_id": "MATTERSIM-0",
-      "project_id": "MATTERSIM",
-      "doi": "https://doi.org/10.48550/arXiv.2405.04967",
-      "openalex_id": "https://openalex.org/W4396816788",
-      "title": "MatterSim: A Deep Learning Atomistic Model Across Elements, Temperatures and Pressures",
-      "authors": [
-        "Han Yang",
-        "Chenxi Hu",
-        "Yichi Zhou",
-        "Xixian Liu",
-        "Shi Yu",
-        "Jielan Li",
-        "Guanzhi Li",
-        "Zekun Chen",
-        "Shuizhou Chen",
-        "Claudio Zeni",
-        "Matthew K. Horton",
-        "Robert Pinsler",
-        "Andrew Fowler",
-        "Daniel Zügner",
-        "Tian Xie",
-        "Jake A. Smith",
-        "Lixin Sun",
-        "Qian Wang",
-        "Lingyu Kong",
-        "Chang Liu",
-        "Hongxia Hao",
-        "Ziheng Lu"
-      ],
-      "publication_year": 2024,
-      "venue": "arXiv (Cornell University)",
-      "community": "Microsoft",
-      "category": "foundation_model",
-      "links": {
-        "arXiv": "https://arxiv.org/abs/2405.04967",
-        "Website": "https://github.com/microsoft/mattersim"
-      },
-      "cited_by_count": 102,
-      "citation_history": [
-        {
-          "year": 2024,
-          "citations": 6
-        },
-        {
-          "year": 2025,
-          "citations": 50
-        },
-        {
-          "year": 2026,
-          "citations": 46
-        }
-      ],
-      "last_updated": "2026-08-23T03:08:48.052681"
+      "last_updated": "2026-08-30T08:09:40.011250"
     },
     {
       "paper_id": "OMat24",
@@ -1431,7 +1431,7 @@
         "arXiv": "https://doi.org/10.48550/arXiv.2410.12771",
         "HuggingFace": "https://huggingface.co/datasets/facebook/OMAT24"
       },
-      "cited_by_count": 97,
+      "cited_by_count": 98,
       "citation_history": [
         {
           "year": 2024,
@@ -1443,10 +1443,86 @@
         },
         {
           "year": 2026,
-          "citations": 39
+          "citations": 40
         }
       ],
-      "last_updated": "2026-08-23T03:08:35.030291"
+      "last_updated": "2026-08-30T08:09:45.384075"
+    },
+    {
+      "paper_id": "DeepMD-kit-v3",
+      "project_id": "DeepMD-kit",
+      "doi": "https://doi.org/10.1021/acs.jctc.5c00340",
+      "openalex_id": "https://openalex.org/W4410027863",
+      "title": "DeePMD-kit v3: A Multiple-Backend Framework for Machine Learning Potentials",
+      "authors": [
+        "Jinzhe Zeng",
+        "Duo Zhang",
+        "Anyang Peng",
+        "Xiangyu Zhang",
+        "S Z He",
+        "Yan Wang",
+        "Xinzijian Liu",
+        "Hangrui Bi",
+        "Yifan Li",
+        "Chun Cai",
+        "Chengqian Zhang",
+        "Yiming Du",
+        "Jiaxin Zhu",
+        "Pinghui Mo",
+        "Zhengtao Huang",
+        "Qiyu Zeng",
+        "Shaochen Shi",
+        "Xuejian Qin",
+        "Zhaoxi Yu",
+        "Chenxing Luo",
+        "Ye Ding",
+        "Yun‐Pei Liu",
+        "Ruosong Shi",
+        "Zhenyu Wang",
+        "Sigbjørn Løland Bore",
+        "Junhan Chang",
+        "Zhe Deng",
+        "Zhaohan Ding",
+        "Siyuan Han",
+        "Wanrun Jiang",
+        "Guolin Ke",
+        "Zhaoqing Liu",
+        "Denghui Lu",
+        "Koki Muraoka",
+        "Hananeh Oliaei",
+        "Anurag Kumar Singh",
+        "Haohui Que",
+        "Weihong Xu",
+        "Zhangmancang Xu",
+        "Yong‐Bin Zhuang",
+        "Jiayu Dai",
+        "Timothy J. Giese",
+        "Weile Jia",
+        "Ben Bin Xu",
+        "Darrin M. York",
+        "Linfeng Zhang",
+        "Han Wang"
+      ],
+      "publication_year": 2025,
+      "venue": "Journal of Chemical Theory and Computation",
+      "community": "DeepModeling",
+      "category": "software",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2502.19161",
+        "GitHub": "https://github.com/deepmodeling/deepmd-kit"
+      },
+      "cited_by_count": 96,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 29
+        },
+        {
+          "year": 2026,
+          "citations": 67
+        }
+      ],
+      "last_updated": "2026-08-30T08:09:52.460694"
     },
     {
       "paper_id": "GPUMD-4.0",
@@ -1529,83 +1605,7 @@
           "citations": 77
         }
       ],
-      "last_updated": "2026-08-23T03:08:51.235930"
-    },
-    {
-      "paper_id": "DeepMD-kit-v3",
-      "project_id": "DeepMD-kit",
-      "doi": "https://doi.org/10.1021/acs.jctc.5c00340",
-      "openalex_id": "https://openalex.org/W4410027863",
-      "title": "DeePMD-kit v3: A Multiple-Backend Framework for Machine Learning Potentials",
-      "authors": [
-        "Jinzhe Zeng",
-        "Duo Zhang",
-        "Anyang Peng",
-        "Xiangyu Zhang",
-        "S Z He",
-        "Yan Wang",
-        "Xinzijian Liu",
-        "Hangrui Bi",
-        "Yifan Li",
-        "Chun Cai",
-        "Chengqian Zhang",
-        "Yiming Du",
-        "Jiaxin Zhu",
-        "Pinghui Mo",
-        "Zhengtao Huang",
-        "Qiyu Zeng",
-        "Shaochen Shi",
-        "Xuejian Qin",
-        "Zhaoxi Yu",
-        "Chenxing Luo",
-        "Ye Ding",
-        "Yun‐Pei Liu",
-        "Ruosong Shi",
-        "Zhenyu Wang",
-        "Sigbjørn Løland Bore",
-        "Junhan Chang",
-        "Zhe Deng",
-        "Zhaohan Ding",
-        "Siyuan Han",
-        "Wanrun Jiang",
-        "Guolin Ke",
-        "Zhaoqing Liu",
-        "Denghui Lu",
-        "Koki Muraoka",
-        "Hananeh Oliaei",
-        "Anurag Kumar Singh",
-        "Haohui Que",
-        "Weihong Xu",
-        "Zhangmancang Xu",
-        "Yong‐Bin Zhuang",
-        "Jiayu Dai",
-        "Timothy J. Giese",
-        "Weile Jia",
-        "Ben Bin Xu",
-        "Darrin M. York",
-        "Linfeng Zhang",
-        "Han Wang"
-      ],
-      "publication_year": 2025,
-      "venue": "Journal of Chemical Theory and Computation",
-      "community": "DeepModeling",
-      "category": "software",
-      "links": {
-        "arXiv": "https://arxiv.org/abs/2502.19161",
-        "GitHub": "https://github.com/deepmodeling/deepmd-kit"
-      },
-      "cited_by_count": 94,
-      "citation_history": [
-        {
-          "year": 2025,
-          "citations": 29
-        },
-        {
-          "year": 2026,
-          "citations": 65
-        }
-      ],
-      "last_updated": "2026-08-23T03:08:50.144744"
+      "last_updated": "2026-08-30T08:09:52.947138"
     },
     {
       "paper_id": "Equiformer-V2",
@@ -1650,7 +1650,7 @@
           "citations": 14
         }
       ],
-      "last_updated": "2026-08-23T03:08:33.927842"
+      "last_updated": "2026-08-30T08:09:44.875149"
     },
     {
       "paper_id": "LES-0",
@@ -1680,7 +1680,7 @@
           "citations": 54
         }
       ],
-      "last_updated": "2026-08-23T03:08:40.769044"
+      "last_updated": "2026-08-30T08:09:48.135029"
     },
     {
       "paper_id": "SEVENNET-1",
@@ -1716,7 +1716,7 @@
           "citations": 44
         }
       ],
-      "last_updated": "2026-08-23T03:08:31.741060"
+      "last_updated": "2026-08-30T08:09:43.955235"
     },
     {
       "paper_id": "SEVENNET-1",
@@ -1752,7 +1752,7 @@
           "citations": 44
         }
       ],
-      "last_updated": "2026-08-23T03:08:46.297517"
+      "last_updated": "2026-08-30T08:09:50.731875"
     },
     {
       "paper_id": "GRACE-0",
@@ -1788,7 +1788,7 @@
           "citations": 31
         }
       ],
-      "last_updated": "2026-08-23T03:08:32.693436"
+      "last_updated": "2026-08-30T08:09:44.386336"
     },
     {
       "paper_id": "CACE-0",
@@ -1822,7 +1822,7 @@
           "citations": 25
         }
       ],
-      "last_updated": "2026-08-23T03:08:27.688862"
+      "last_updated": "2026-08-30T08:09:41.993786"
     },
     {
       "paper_id": "ORB-v2",
@@ -1863,95 +1863,7 @@
           "citations": 22
         }
       ],
-      "last_updated": "2026-08-23T03:08:30.330263"
-    },
-    {
-      "paper_id": "UMA-0",
-      "project_id": "UMA",
-      "doi": "https://doi.org/10.48550/arXiv.2506.23971",
-      "openalex_id": "https://openalex.org/W4416524231",
-      "title": "UMA: A Family of Universal Models for Atoms",
-      "authors": [
-        "Brandon M. Wood",
-        "Misko Dzamba",
-        "Xiang Fu",
-        "Meng Gao",
-        "Muhammed Shuaibi",
-        "Luis Barroso-Luque",
-        "Kareem Abdelmaqsoud",
-        "Vahe Gharakhanyan",
-        "John R. Kitchin",
-        "Daniel S. Levine",
-        "Kyle Michel",
-        "Anuroop Sriram",
-        "Taco Cohen",
-        "Abhishek Das",
-        "Ammar Rizvi",
-        "Sushree Jagriti Sahoo",
-        "Zachary W. Ulissi",
-        "C. Lawrence Zitnick"
-      ],
-      "publication_year": 2025,
-      "venue": "arXiv (Cornell University)",
-      "community": "Meta FAIR",
-      "category": "foundation_model",
-      "links": {
-        "arXiv": "https://arxiv.org/abs/2506.23971",
-        "Website": "https://fair-chem.github.io/uma/"
-      },
-      "cited_by_count": 47,
-      "citation_history": [
-        {
-          "year": 2025,
-          "citations": 6
-        },
-        {
-          "year": 2026,
-          "citations": 41
-        }
-      ],
-      "last_updated": "2026-08-02T05:33:09.851490"
-    },
-    {
-      "paper_id": "ORB-v2",
-      "project_id": "ORB",
-      "doi": "https://doi.org/10.48550/arXiv.2410.22570",
-      "openalex_id": "https://openalex.org/W4404342379",
-      "title": "Orb: A Fast, Scalable Neural Network Potential",
-      "authors": [
-        "M. Neumann",
-        "James Gin",
-        "Rhodes, Benjamin",
-        "Steven P. Bennett",
-        "Zhiyi Li",
-        "Hitarth Choubisa",
-        "Arthur Hussey",
-        "Jonathan Godwin"
-      ],
-      "publication_year": 2024,
-      "venue": "arXiv (Cornell University)",
-      "community": "Orbital Materials",
-      "category": "foundation_model",
-      "links": {
-        "arXiv": "https://arxiv.org/abs/2410.22570",
-        "GitHub": "https://github.com/orbital-materials/orb-models"
-      },
-      "cited_by_count": 47,
-      "citation_history": [
-        {
-          "year": 2024,
-          "citations": 1
-        },
-        {
-          "year": 2025,
-          "citations": 24
-        },
-        {
-          "year": 2026,
-          "citations": 22
-        }
-      ],
-      "last_updated": "2026-08-23T03:08:45.365455"
+      "last_updated": "2026-08-30T08:09:43.298598"
     },
     {
       "paper_id": "UMA-0",
@@ -2025,7 +1937,7 @@
         "arXiv": "https://arxiv.org/abs/2503.14118",
         "GitHub": "https://github.com/lab-cosmo/upet"
       },
-      "cited_by_count": 44,
+      "cited_by_count": 47,
       "citation_history": [
         {
           "year": 2025,
@@ -2033,10 +1945,98 @@
         },
         {
           "year": 2026,
-          "citations": 42
+          "citations": 45
         }
       ],
-      "last_updated": "2026-08-23T03:08:42.731247"
+      "last_updated": "2026-08-30T08:09:49.031230"
+    },
+    {
+      "paper_id": "ORB-v2",
+      "project_id": "ORB",
+      "doi": "https://doi.org/10.48550/arXiv.2410.22570",
+      "openalex_id": "https://openalex.org/W4404342379",
+      "title": "Orb: A Fast, Scalable Neural Network Potential",
+      "authors": [
+        "M. Neumann",
+        "James Gin",
+        "Rhodes, Benjamin",
+        "Steven P. Bennett",
+        "Zhiyi Li",
+        "Hitarth Choubisa",
+        "Arthur Hussey",
+        "Jonathan Godwin"
+      ],
+      "publication_year": 2024,
+      "venue": "arXiv (Cornell University)",
+      "community": "Orbital Materials",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2410.22570",
+        "GitHub": "https://github.com/orbital-materials/orb-models"
+      },
+      "cited_by_count": 47,
+      "citation_history": [
+        {
+          "year": 2024,
+          "citations": 1
+        },
+        {
+          "year": 2025,
+          "citations": 24
+        },
+        {
+          "year": 2026,
+          "citations": 22
+        }
+      ],
+      "last_updated": "2026-08-30T08:09:50.224609"
+    },
+    {
+      "paper_id": "UMA-0",
+      "project_id": "UMA",
+      "doi": "https://doi.org/10.48550/arXiv.2506.23971",
+      "openalex_id": "https://openalex.org/W4416524231",
+      "title": "UMA: A Family of Universal Models for Atoms",
+      "authors": [
+        "Brandon M. Wood",
+        "Misko Dzamba",
+        "Xiang Fu",
+        "Meng Gao",
+        "Muhammed Shuaibi",
+        "Luis Barroso-Luque",
+        "Kareem Abdelmaqsoud",
+        "Vahe Gharakhanyan",
+        "John R. Kitchin",
+        "Daniel S. Levine",
+        "Kyle Michel",
+        "Anuroop Sriram",
+        "Taco Cohen",
+        "Abhishek Das",
+        "Ammar Rizvi",
+        "Sushree Jagriti Sahoo",
+        "Zachary W. Ulissi",
+        "C. Lawrence Zitnick"
+      ],
+      "publication_year": 2025,
+      "venue": "arXiv (Cornell University)",
+      "community": "Meta FAIR",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://arxiv.org/abs/2506.23971",
+        "Website": "https://fair-chem.github.io/uma/"
+      },
+      "cited_by_count": 47,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 6
+        },
+        {
+          "year": 2026,
+          "citations": 41
+        }
+      ],
+      "last_updated": "2026-08-02T05:33:09.851490"
     },
     {
       "paper_id": "LES-1",
@@ -2069,7 +2069,7 @@
           "citations": 30
         }
       ],
-      "last_updated": "2026-08-23T03:08:41.252626"
+      "last_updated": "2026-08-30T08:09:48.350910"
     },
     {
       "paper_id": "Equiformer-V2",
@@ -2094,7 +2094,7 @@
         "arXiv": "https://arxiv.org/abs/2502.12147",
         "GitHub": "https://github.com/facebookresearch/fairchem"
       },
-      "cited_by_count": 32,
+      "cited_by_count": 33,
       "citation_history": [
         {
           "year": 2025,
@@ -2102,10 +2102,10 @@
         },
         {
           "year": 2026,
-          "citations": 14
+          "citations": 15
         }
       ],
-      "last_updated": "2026-08-23T03:08:34.399589"
+      "last_updated": "2026-08-30T08:09:45.095101"
     },
     {
       "paper_id": "ORB-v3",
@@ -2130,7 +2130,7 @@
         "arXiv": "https://arxiv.org/abs/2504.06231",
         "GitHub": "https://github.com/orbital-materials/orb-models"
       },
-      "cited_by_count": 26,
+      "cited_by_count": 27,
       "citation_history": [
         {
           "year": 2025,
@@ -2138,10 +2138,10 @@
         },
         {
           "year": 2026,
-          "citations": 18
+          "citations": 19
         }
       ],
-      "last_updated": "2026-08-23T03:08:30.777546"
+      "last_updated": "2026-08-30T08:09:43.529277"
     },
     {
       "paper_id": "ORB-v3",
@@ -2166,7 +2166,7 @@
         "arXiv": "https://arxiv.org/abs/2504.06231",
         "GitHub": "https://github.com/orbital-materials/orb-models"
       },
-      "cited_by_count": 26,
+      "cited_by_count": 27,
       "citation_history": [
         {
           "year": 2025,
@@ -2174,10 +2174,10 @@
         },
         {
           "year": 2026,
-          "citations": 18
+          "citations": 19
         }
       ],
-      "last_updated": "2026-08-23T03:08:45.830451"
+      "last_updated": "2026-08-30T08:09:50.491225"
     },
     {
       "paper_id": "LES-3",
@@ -2213,7 +2213,7 @@
           "citations": 20
         }
       ],
-      "last_updated": "2026-08-23T03:08:42.241608"
+      "last_updated": "2026-08-30T08:09:48.776791"
     },
     {
       "paper_id": "MatGL-0",
@@ -2254,7 +2254,7 @@
           "citations": 15
         }
       ],
-      "last_updated": "2026-08-23T03:08:48.546293"
+      "last_updated": "2026-08-30T08:09:51.733058"
     },
     {
       "paper_id": "GRACE-1",
@@ -2275,14 +2275,14 @@
         "arXiv": "https://arxiv.org/abs/2508.17936v1",
         "GitHub": "https://github.com/ICAMS/grace-tensorpotential"
       },
-      "cited_by_count": 18,
+      "cited_by_count": 19,
       "citation_history": [
         {
           "year": 2026,
-          "citations": 18
+          "citations": 19
         }
       ],
-      "last_updated": "2026-08-23T03:08:33.219415"
+      "last_updated": "2026-08-30T08:09:44.605961"
     },
     {
       "paper_id": "GRACE-1",
@@ -2303,14 +2303,14 @@
         "arXiv": "https://arxiv.org/abs/2508.17936v1",
         "GitHub": "https://github.com/ICAMS/grace-tensorpotential"
       },
-      "cited_by_count": 18,
+      "cited_by_count": 19,
       "citation_history": [
         {
           "year": 2026,
-          "citations": 18
+          "citations": 19
         }
       ],
-      "last_updated": "2026-08-23T03:08:47.263156"
+      "last_updated": "2026-08-30T08:09:51.176759"
     },
     {
       "paper_id": "PET-0",
@@ -2353,7 +2353,42 @@
           "citations": 1
         }
       ],
-      "last_updated": "2026-08-23T03:08:28.584043"
+      "last_updated": "2026-08-30T08:09:42.452641"
+    },
+    {
+      "paper_id": "MAD-1",
+      "project_id": "MAD",
+      "doi": "https://doi.org/10.1038/s41597-025-06109-y",
+      "openalex_id": "https://openalex.org/W4416466582",
+      "title": "Massive Atomic Diversity: a compact universal dataset for atomistic machine learning",
+      "authors": [
+        "Arslan Mazitov",
+        "Sofiia Chorna",
+        "Guillaume Fraux",
+        "Marnik Bercx",
+        "Giovanni Pizzi",
+        "Sandip De",
+        "Michele Ceriotti"
+      ],
+      "publication_year": 2025,
+      "venue": "Scientific Data",
+      "community": "COSMO",
+      "category": "dataset",
+      "links": {
+        "Materials Cloud": "https://archive.materialscloud.org/records/c4ene-0mv14"
+      },
+      "cited_by_count": 16,
+      "citation_history": [
+        {
+          "year": 2025,
+          "citations": 1
+        },
+        {
+          "year": 2026,
+          "citations": 15
+        }
+      ],
+      "last_updated": "2026-08-30T08:09:45.596021"
     },
     {
       "paper_id": "LES-2",
@@ -2382,31 +2417,36 @@
           "citations": 16
         }
       ],
-      "last_updated": "2026-08-23T03:08:41.744650"
+      "last_updated": "2026-08-30T08:09:48.564818"
     },
     {
-      "paper_id": "MAD-1",
-      "project_id": "MAD",
-      "doi": "https://doi.org/10.1038/s41597-025-06109-y",
-      "openalex_id": "https://openalex.org/W4416466582",
-      "title": "Massive Atomic Diversity: a compact universal dataset for atomistic machine learning",
+      "paper_id": "MatPES-0",
+      "project_id": "MatPES",
+      "doi": "https://doi.org/10.48550/arXiv.2503.04070",
+      "openalex_id": "https://openalex.org/W4416112469",
+      "title": "A Foundational Potential Energy Surface Dataset for Materials",
       "authors": [
-        "Arslan Mazitov",
-        "Sofiia Chorna",
-        "Guillaume Fraux",
-        "Marnik Bercx",
-        "Giovanni Pizzi",
-        "Sandip De",
-        "Michele Ceriotti"
+        "Aaron D. Kaplan",
+        "Runze Liu",
+        "Ji Qi",
+        "Tsz Wai Ko",
+        "Bowen Deng",
+        "Janosh Riebesell",
+        "Gerbrand Ceder",
+        "Kristin A. Persson",
+        "Shyue Ping Ong"
       ],
       "publication_year": 2025,
-      "venue": "Scientific Data",
-      "community": "COSMO",
+      "venue": "arXiv (Cornell University)",
+      "community": "Materialyze.AI",
       "category": "dataset",
       "links": {
-        "Materials Cloud": "https://archive.materialscloud.org/records/c4ene-0mv14"
+        "arXiv": "https://arxiv.org/abs/2503.04070",
+        "GitHub": "https://github.com/materialyzeai/matpes",
+        "HuggingFace": "https://huggingface.co/datasets/mavrl/matpes",
+        "Website": "https://matpes.ai/"
       },
-      "cited_by_count": 15,
+      "cited_by_count": 12,
       "citation_history": [
         {
           "year": 2025,
@@ -2414,10 +2454,10 @@
         },
         {
           "year": 2026,
-          "citations": 14
+          "citations": 11
         }
       ],
-      "last_updated": "2026-08-23T03:08:35.485928"
+      "last_updated": "2026-08-30T08:09:46.100491"
     },
     {
       "paper_id": "Nequip-1",
@@ -2460,7 +2500,7 @@
           "citations": 7
         }
       ],
-      "last_updated": "2026-08-23T03:08:24.819016"
+      "last_updated": "2026-08-30T08:09:40.667342"
     },
     {
       "paper_id": "NEP-1",
@@ -2501,47 +2541,7 @@
           "citations": 4
         }
       ],
-      "last_updated": "2026-08-23T03:08:25.791230"
-    },
-    {
-      "paper_id": "MatPES-0",
-      "project_id": "MatPES",
-      "doi": "https://doi.org/10.48550/arXiv.2503.04070",
-      "openalex_id": "https://openalex.org/W4416112469",
-      "title": "A Foundational Potential Energy Surface Dataset for Materials",
-      "authors": [
-        "Aaron D. Kaplan",
-        "Runze Liu",
-        "Ji Qi",
-        "Tsz Wai Ko",
-        "Bowen Deng",
-        "Janosh Riebesell",
-        "Gerbrand Ceder",
-        "Kristin A. Persson",
-        "Shyue Ping Ong"
-      ],
-      "publication_year": 2025,
-      "venue": "arXiv (Cornell University)",
-      "community": "Materialyze.AI",
-      "category": "dataset",
-      "links": {
-        "arXiv": "https://arxiv.org/abs/2503.04070",
-        "GitHub": "https://github.com/materialyzeai/matpes",
-        "HuggingFace": "https://huggingface.co/datasets/mavrl/matpes",
-        "Website": "https://matpes.ai/"
-      },
-      "cited_by_count": 11,
-      "citation_history": [
-        {
-          "year": 2025,
-          "citations": 1
-        },
-        {
-          "year": 2026,
-          "citations": 10
-        }
-      ],
-      "last_updated": "2026-08-23T03:08:36.452666"
+      "last_updated": "2026-08-30T08:09:41.093288"
     },
     {
       "paper_id": "OC25",
@@ -2580,7 +2580,7 @@
           "citations": 9
         }
       ],
-      "last_updated": "2026-08-23T03:08:38.408829"
+      "last_updated": "2026-08-30T08:09:47.061443"
     },
     {
       "paper_id": "dpdata-0",
@@ -2645,7 +2645,7 @@
           "citations": 9
         }
       ],
-      "last_updated": "2026-08-23T03:08:38.967356"
+      "last_updated": "2026-08-30T08:09:47.294218"
     },
     {
       "paper_id": "NEP89-0",
@@ -2728,7 +2728,7 @@
           "citations": 4
         }
       ],
-      "last_updated": "2026-08-23T03:08:32.216922"
+      "last_updated": "2026-08-30T08:09:44.166437"
     },
     {
       "paper_id": "SEVENNET-2",
@@ -2767,7 +2767,7 @@
           "citations": 4
         }
       ],
-      "last_updated": "2026-08-23T03:08:46.774940"
+      "last_updated": "2026-08-30T08:09:50.952470"
     },
     {
       "paper_id": "DPA3",
@@ -2813,6 +2813,72 @@
       "last_updated": "2026-05-24T06:07:32.391654"
     },
     {
+      "paper_id": "MAD-1.5",
+      "project_id": "MAD",
+      "doi": "https://doi.org/10.48550/arXiv.2603.02089",
+      "openalex_id": "https://openalex.org/W7133353006",
+      "title": "High-quality, high-information dataset for universal atomistic machine learning",
+      "authors": [
+        "Cesare Malosso",
+        "Filippo Bigi",
+        "Paolo Pegolo",
+        "Joseph W. Abbott",
+        "Philip R. Loche",
+        "Mariana Rossi",
+        "Michele Ceriotti",
+        "Arslan Mazitov"
+      ],
+      "publication_year": 2026,
+      "venue": "arXiv (Cornell University)",
+      "community": "COSMO",
+      "category": "dataset",
+      "links": {
+        "arXiv": "https://doi.org/10.48550/arXiv.2603.02089",
+        "Materials Cloud": "https://archive.materialscloud.org/records/18tke-tt476"
+      },
+      "cited_by_count": 2,
+      "citation_history": [
+        {
+          "year": 2026,
+          "citations": 2
+        }
+      ],
+      "last_updated": "2026-08-30T08:09:45.879296"
+    },
+    {
+      "paper_id": "PET-MAT-1.5",
+      "project_id": "PET-MAD",
+      "doi": "https://doi.org/10.48550/arXiv.2603.02089",
+      "openalex_id": "https://openalex.org/W7133353006",
+      "title": "High-quality, high-information dataset for universal atomistic machine learning",
+      "authors": [
+        "Cesare Malosso",
+        "Filippo Bigi",
+        "Paolo Pegolo",
+        "Joseph W. Abbott",
+        "Philip R. Loche",
+        "Mariana Rossi",
+        "Michele Ceriotti",
+        "Arslan Mazitov"
+      ],
+      "publication_year": 2026,
+      "venue": "arXiv (Cornell University)",
+      "community": "COSMO",
+      "category": "foundation_model",
+      "links": {
+        "arXiv": "https://doi.org/10.48550/arXiv.2603.02089",
+        "GitHub": "https://github.com/lab-cosmo/upet"
+      },
+      "cited_by_count": 2,
+      "citation_history": [
+        {
+          "year": 2026,
+          "citations": 2
+        }
+      ],
+      "last_updated": "2026-08-30T08:09:49.241534"
+    },
+    {
       "paper_id": "UPET-0",
       "project_id": "PET",
       "doi": "https://doi.org/10.48550/arXiv.2601.16195",
@@ -2840,7 +2906,7 @@
           "citations": 1
         }
       ],
-      "last_updated": "2026-08-23T03:08:28.136047"
+      "last_updated": "2026-08-30T08:09:42.209144"
     },
     {
       "paper_id": "QET-0",
@@ -2871,40 +2937,7 @@
           "citations": 1
         }
       ],
-      "last_updated": "2026-08-23T03:08:29.953975"
-    },
-    {
-      "paper_id": "MAD-1.5",
-      "project_id": "MAD",
-      "doi": "https://doi.org/10.48550/arXiv.2603.02089",
-      "openalex_id": "https://openalex.org/W7133353006",
-      "title": "High-quality, high-information dataset for universal atomistic machine learning",
-      "authors": [
-        "Cesare Malosso",
-        "Filippo Bigi",
-        "Paolo Pegolo",
-        "Joseph W. Abbott",
-        "Philip R. Loche",
-        "Mariana Rossi",
-        "Michele Ceriotti",
-        "Arslan Mazitov"
-      ],
-      "publication_year": 2026,
-      "venue": "arXiv (Cornell University)",
-      "community": "COSMO",
-      "category": "dataset",
-      "links": {
-        "arXiv": "https://doi.org/10.48550/arXiv.2603.02089",
-        "Materials Cloud": "https://archive.materialscloud.org/records/18tke-tt476"
-      },
-      "cited_by_count": 1,
-      "citation_history": [
-        {
-          "year": 2026,
-          "citations": 1
-        }
-      ],
-      "last_updated": "2026-08-23T03:08:35.973158"
+      "last_updated": "2026-08-30T08:09:43.095735"
     },
     {
       "paper_id": "OMC25",
@@ -2948,40 +2981,7 @@
           "citations": 1
         }
       ],
-      "last_updated": "2026-08-23T03:08:36.941578"
-    },
-    {
-      "paper_id": "PET-MAT-1.5",
-      "project_id": "PET-MAD",
-      "doi": "https://doi.org/10.48550/arXiv.2603.02089",
-      "openalex_id": "https://openalex.org/W7133353006",
-      "title": "High-quality, high-information dataset for universal atomistic machine learning",
-      "authors": [
-        "Cesare Malosso",
-        "Filippo Bigi",
-        "Paolo Pegolo",
-        "Joseph W. Abbott",
-        "Philip R. Loche",
-        "Mariana Rossi",
-        "Michele Ceriotti",
-        "Arslan Mazitov"
-      ],
-      "publication_year": 2026,
-      "venue": "arXiv (Cornell University)",
-      "community": "COSMO",
-      "category": "foundation_model",
-      "links": {
-        "arXiv": "https://doi.org/10.48550/arXiv.2603.02089",
-        "GitHub": "https://github.com/lab-cosmo/upet"
-      },
-      "cited_by_count": 1,
-      "citation_history": [
-        {
-          "year": 2026,
-          "citations": 1
-        }
-      ],
-      "last_updated": "2026-08-23T03:08:43.226819"
+      "last_updated": "2026-08-30T08:09:46.367104"
     },
     {
       "paper_id": "QET-0",
@@ -3012,7 +3012,7 @@
           "citations": 1
         }
       ],
-      "last_updated": "2026-08-23T03:08:44.712260"
+      "last_updated": "2026-08-30T08:09:49.930271"
     },
     {
       "paper_id": "OMol25",
